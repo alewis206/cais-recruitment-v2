@@ -1,0 +1,26 @@
+[
+  {
+    "id": "evt_manual_example",
+    "title": "Hamel Husain operator dinner — example",
+    "url": "https://example.com/private",
+    "hostSlug": "hamel-husain",
+    "hostName": "Hamel Husain (operator dinners)",
+    "tier": 3,
+    "format": "dinner",
+    "startDate": "2026-06-01T02:00:00.000Z",
+    "venue": "Mission (address on confirm)",
+    "city": "San Francisco",
+    "description": "Invite-only operator dinner. ~14 seats.",
+    "speakers": [],
+    "score": {
+      "fitScore": 96,
+      "reasoning": "Tier 3 invite-only dinner. Hamel curates aggressively for the exact archetype. Past attendees include ex-Palantir FDEs and wound-down YC founders.",
+      "suggestedAction": "Request warm intro via Jason Liu",
+      "archetypeMatches": ["ai-native-staff", "failed-founder"],
+      "warmIntroNeeded": true,
+      "scoringMethod": "rules"
+    },
+    "scrapedAt": "2026-05-05T00:00:00.000Z",
+    "verified": true
+  }
+]

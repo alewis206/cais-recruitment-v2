@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-05-05T13:00:00.000Z",
+  "generatedBy": "seed",
+  "scrapeReport": {
+    "sourcesAttempted": 0,
+    "sourcesSucceeded": 0,
+    "eventsFound": 5,
+    "eventsScored": 5,
+    "failures": []
+  },
+  "events": [
+    {
+      "id": "evt_aiewf_2026",
+      "title": "AI Engineer World's Fair 2026",
+      "url": "https://www.ai.engineer/worldsfair",
+      "hostSlug": "ai-engineer",
+      "hostName": "AI Engineer Conferences",
+      "tier": 1,
+      "format": "conference",
+      "startDate": "2026-06-29T16:00:00.000Z",
+      "endDate": "2026-07-02T23:59:00.000Z",
+      "venue": "Moscone Center",
+      "city": "San Francisco",
+      "description": "The world's largest technical conference dedicated to building, deploying, and scaling AI systems. 6,000+ attendees, 300 speakers, 29 tracks including a Leadership Track.",
+      "rsvpCount": 6000,
+      "speakers": [],
+      "score": {
+        "fitScore": 98,
+        "reasoning": "Highest-density Tier 1 event of the year for the exact archetype. swyx invented the 'AI Engineer' job category — attendees ARE the FDE/Staff Engineer profile. 4 days = 4 nights of unofficial after-parties where the real hires get sourced.",
+        "suggestedAction": "Apply to speak — talks are the warmest possible inbound channel for the role.",
+        "archetypeMatches": ["ai-native-staff", "failed-founder"],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-05-05T13:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "evt_aicouncil_2026",
+      "title": "AI Council 2026",
+      "url": "https://aicouncil.com/sf-2026",
+      "hostSlug": "ai-council",
+      "hostName": "AI Council Conference",
+      "tier": 2,
+      "format": "conference",
+      "startDate": "2026-05-12T15:00:00.000Z",
+      "endDate": "2026-05-14T23:59:00.000Z",
+      "venue": "San Francisco",
+      "city": "San Francisco",
+      "description": "3-day SF conference. 10 tracks, 1,500+ attendees. Speakers from OpenAI, Vercel, Hugging Face, Databricks.",
+      "rsvpCount": 1500,
+      "speakers": [],
+      "score": {
+        "fitScore": 92,
+        "reasoning": "Speaker roster includes OpenAI, Vercel, Hugging Face, Databricks — exactly the AI-native firms in the candidate target list. 1,500 attendees with 10 tracks = high archetype density in the hallway track.",
+        "suggestedAction": "Register, attend all 3 days, focus on hallway track and after-parties.",
+        "archetypeMatches": ["ai-native-staff", "consulting-lead"],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-05-05T13:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "evt_spc_embodied_2026",
+      "title": "Embodied AI Hackathon — Build agents that move, grasp, learn",
+      "url": "https://embodied-ai-hackathon-spc.replit.app/",
+      "hostSlug": "south-park-commons",
+      "hostName": "South Park Commons (public events)",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-05-15T16:00:00.000Z",
+      "endDate": "2026-05-17T23:00:00.000Z",
+      "venue": "SPC SF, Mission",
+      "city": "San Francisco",
+      "description": "Weekend hackathon at SPC. Participants build agents that move, grasp, and learn, with hardware provided.",
+      "speakers": [],
+      "score": {
+        "fitScore": 88,
+        "reasoning": "SPC is the canonical 'between things' community for technical founders — your only public entry without member sponsorship. Embodied AI theme attracts senior practitioners (hardware-in-the-loop = serious shipping). Weekend = 48hrs of hallway time.",
+        "suggestedAction": "Apply as judge or mentor. Use the event to identify SPC members for warm-intro path to member-only dinners.",
+        "archetypeMatches": ["failed-founder", "ai-native-staff"],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-05-05T13:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "evt_aitinkerers_genui_2026",
+      "title": "Generative UI Hackathon — A2UI, AG-UI, MCP Apps",
+      "url": "https://sf.aitinkerers.org/",
+      "hostSlug": "ai-tinkerers",
+      "hostName": "AI Tinkerers SF",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-05-09T17:00:00.000Z",
+      "city": "San Francisco",
+      "description": "AI Tinkerers monthly community hackathon focused on agentic UI primitives: MCP Apps, AG-UI, A2UI.",
+      "speakers": [],
+      "score": {
+        "fitScore": 84,
+        "reasoning": "Theme directly maps to agentic UI primitives — practitioners building production agent interfaces. AI Tinkerers attracts solo builders and small teams = failed-founder archetype hunting ground.",
+        "suggestedAction": "Apply as judge or mentor for credibility platform + natural intros to every team.",
+        "archetypeMatches": ["failed-founder"],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-05-05T13:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "evt_bond_ai_recurring_2026",
+      "title": "Bond AI — SF / Bay Area's largest in-person AI community",
+      "url": "https://luma.com/genai-sf",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "meetup",
+      "startDate": "2026-05-20T01:00:00.000Z",
+      "city": "San Francisco",
+      "description": "Multiple events per month. 120k+ members. Largest aggregator of in-person SF AI events.",
+      "speakers": [],
+      "score": {
+        "fitScore": 72,
+        "reasoning": "Largest aggregator of in-person SF AI events. 120k member base = wide top-of-funnel. Lower archetype density than Tier 1 but high frequency means consistent presence is cheap.",
+        "suggestedAction": "Subscribe + filter weekly for high-signal individual events.",
+        "archetypeMatches": ["ai-native-staff"],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-05-05T13:00:00.000Z",
+      "verified": true
+    }
+  ]
+}

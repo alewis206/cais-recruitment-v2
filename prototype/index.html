@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CAIS Sourcing Dashboard — Head of Delivery</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .tier-1 { background: #064e3b; color: #d1fae5; }
+  .tier-2 { background: #1e3a8a; color: #dbeafe; }
+  .tier-3 { background: #581c87; color: #ede9fe; }
+  .tier-4 { background: #78350f; color: #fef3c7; }
+  .score-pill { font-variant-numeric: tabular-nums; }
+  details > summary { list-style: none; cursor: pointer; }
+  details > summary::-webkit-details-marker { display: none; }
+  .verified { background: #ecfdf5; border-left: 3px solid #10b981; }
+</style>
+</head>
+<body class="bg-stone-50 text-stone-900">
+
+<!-- Header -->
+<header class="border-b border-stone-200 bg-white">
+  <div class="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
+    <div>
+      <div class="text-xs text-stone-500 uppercase tracking-wider">CAIS · Recruitment</div>
+      <h1 class="text-xl font-semibold mt-1">SF Event Sourcing — Head of Delivery</h1>
+    </div>
+    <div class="text-right">
+      <div class="text-xs text-stone-500">Last refreshed</div>
+      <div class="text-sm font-medium">Mon, May 5 2026 · 06:00 PT</div>
+    </div>
+  </div>
+</header>
+
+<!-- Live Data Status Banner -->
+<div class="bg-emerald-50 border-b border-emerald-200">
+  <div class="max-w-7xl mx-auto px-6 py-3 text-sm flex items-center justify-between">
+    <div class="text-emerald-900">
+      <span class="font-semibold">Live data:</span> 5 events verified via web search (May 5 2026).
+      <span class="text-emerald-700">Lu.ma direct scraping blocked by Cloudflare — production v1 will use Playwright workers.</span>
+    </div>
+    <button class="text-xs bg-emerald-700 text-white px-3 py-1 rounded hover:bg-emerald-800">Refresh sources</button>
+  </div>
+</div>
+
+<main class="max-w-7xl mx-auto px-6 py-8 space-y-8">
+
+  <!-- Stats -->
+  <section class="grid grid-cols-2 md:grid-cols-5 gap-4">
+    <div class="bg-white rounded-lg border border-stone-200 p-4">
+      <div class="text-xs text-stone-500">Verified events next 60d</div>
+      <div class="text-2xl font-semibold mt-1">5</div>
+    </div>
+    <div class="bg-white rounded-lg border border-stone-200 p-4">
+      <div class="text-xs text-stone-500">Tier 1</div>
+      <div class="text-2xl font-semibold mt-1 text-emerald-700">2</div>
+    </div>
+    <div class="bg-white rounded-lg border border-stone-200 p-4">
+      <div class="text-xs text-stone-500">Tier 2</div>
+      <div class="text-2xl font-semibold mt-1 text-blue-700">1</div>
+    </div>
+    <div class="bg-white rounded-lg border border-stone-200 p-4">
+      <div class="text-xs text-stone-500">Tier 3</div>
+      <div class="text-2xl font-semibold mt-1 text-purple-700">0</div>
+    </div>
+    <div class="bg-white rounded-lg border border-stone-200 p-4">
+      <div class="text-xs text-stone-500">Hackathons</div>
+      <div class="text-2xl font-semibold mt-1 text-amber-700">2</div>
+    </div>
+  </section>
+
+  <!-- Trip Planner -->
+  <section class="bg-gradient-to-br from-stone-900 to-stone-700 text-white rounded-lg p-6">
+    <div class="flex items-start justify-between">
+      <div>
+        <div class="text-xs uppercase tracking-wider text-stone-300">Suggested Trip · based on verified events</div>
+        <h2 class="text-lg font-semibold mt-1">May 12 – May 17, SF</h2>
+        <p class="text-sm text-stone-300 mt-2 max-w-2xl">Tightest cluster: AI Council 2026 (Tier 1, 3-day conference) + Embodied AI Hackathon at South Park Commons (judge slot recommended). Full week of high-density rooms, plus hallway-track time at AI Council with 1,500+ attendees including OpenAI / Anthropic / Hugging Face / Databricks engineers.</p>
+      </div>
+      <button class="bg-white text-stone-900 text-sm px-4 py-2 rounded-md font-medium hover:bg-stone-100">Build itinerary →</button>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="flex flex-wrap items-center gap-3">
+    <span class="text-xs uppercase tracking-wider text-stone-500 mr-2">Filter</span>
+    <button class="px-3 py-1.5 text-sm rounded-md bg-stone-900 text-white">All (5)</button>
+    <button class="px-3 py-1.5 text-sm rounded-md bg-white border border-stone-300 hover:bg-stone-100">Tier 1</button>
+    <button class="px-3 py-1.5 text-sm rounded-md bg-white border border-stone-300 hover:bg-stone-100">Tier 2</button>
+    <button class="px-3 py-1.5 text-sm rounded-md bg-white border border-stone-300 hover:bg-stone-100">Hackathons</button>
+    <span class="mx-2 text-stone-300">|</span>
+    <select class="px-3 py-1.5 text-sm rounded-md bg-white border border-stone-300">
+      <option>Next 60 days</option>
+      <option>Next 7 days</option>
+      <option>Next 30 days</option>
+    </select>
+  </section>
+
+  <!-- Event List -->
+  <section class="space-y-3">
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-stone-600">This week · May 5 – May 11</h2>
+
+    <!-- Event 1: AI Tinkerers Generative UI Hackathon (REAL) -->
+    <article class="verified rounded-lg border border-stone-200 p-5 hover:border-stone-400 transition">
+      <div class="flex items-start justify-between gap-4">
+        <div class="flex-1">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="tier-4 text-xs font-semibold px-2 py-0.5 rounded">HACKATHON</span>
+            <span class="text-xs text-stone-500">AI Tinkerers SF</span>
+            <span class="text-xs text-emerald-700 font-semibold">✓ VERIFIED</span>
+          </div>
+          <h3 class="font-semibold text-base">Generative UI Hackathon — A2UI, AG-UI, MCP Apps</h3>
+          <div class="flex items-center gap-4 mt-2 text-sm text-stone-600">
+            <span>📅 Sat May 9, 2026</span>
+            <span>📍 San Francisco</span>
+            <span>👥 AI Tinkerers community (free)</span>
+          </div>
+          <p class="text-sm text-stone-700 mt-3 leading-relaxed">
+            <span class="font-medium">Why it fits:</span> Theme directly maps to agentic UI primitives (MCP Apps, AG-UI, A2UI) — practitioners building production agent interfaces. AI Tinkerers attracts solo builders and small teams = failed-founder archetype hunting ground. Devin should apply as judge or mentor for credibility platform + natural intros to every team.
+          </p>
+        </div>
+        <div class="text-right shrink-0">
+          <div class="score-pill bg-amber-100 text-amber-900 text-xs font-semibold px-2 py-1 rounded">FIT 84</div>
+          <div class="mt-3 space-y-2">
+            <a href="https://sf.aitinkerers.org/" target="_blank" class="block text-xs bg-amber-700 text-white px-3 py-1.5 rounded hover:bg-amber-800">View on AI Tinkerers →</a>
+            <div class="text-xs text-stone-500 italic">Suggested: judge or mentor slot</div>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-stone-600 pt-6">Next week · May 12 – May 18</h2>
+
+    <!-- Event 2: AI Council 2026 (REAL) -->
+    <article class="verified rounded-lg border border-stone-200 p-5 hover:border-stone-400 transition">
+      <div class="flex items-start justify-between gap-4">
+        <div class="flex-1">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="tier-1 text-xs font-semibold px-2 py-0.5 rounded">TIER 1</span>
+            <span class="text-xs text-stone-500">Conference · AI Council</span>
+            <span class="text-xs text-emerald-700 font-semibold">✓ VERIFIED</span>
+          </div>
+          <h3 class="font-semibold text-base">AI Council 2026 — 3-day SF conference</h3>
+          <div class="flex items-center gap-4 mt-2 text-sm text-stone-600">
+            <span>📅 May 12–14, 2026</span>
+            <span>📍 San Francisco</span>
+            <span>👥 1,500+ attendees · 10 tracks</span>
+          </div>
+          <p class="text-sm text-stone-700 mt-3 leading-relaxed">
+            <span class="font-medium">Why it fits:</span> Speaker roster includes OpenAI, Vercel, Hugging Face, Databricks — exactly the AI-native firms in the candidate target list. 1,500 attendees with 10 tracks = high archetype density in the hallway track. 3 days of conference = 3 evenings of after-parties and side dinners (where the real conversations happen).
+          </p>
+          <p class="text-xs text-stone-600 mt-2 bg-stone-100 px-3 py-2 rounded">
+            <span class="font-semibold">Strategy note:</span> Don't try to attend every session. Pick 1–2 talks per day, spend the rest in the hallway and at after-parties. Apply to the curated dinners — conferences this size usually have invite-only operator dinners adjacent to the main event.
+          </p>
+        </div>
+        <div class="text-right shrink-0">
+          <div class="score-pill bg-emerald-100 text-emerald-900 text-xs font-semibold px-2 py-1 rounded">FIT 92</div>
+          <div class="mt-3 space-y-2">
+            <a href="https://aicouncil.com/sf-2026" target="_blank" class="block text-xs bg-stone-900 text-white px-3 py-1.5 rounded hover:bg-stone-700">aicouncil.com →</a>
+            <div class="text-xs text-stone-500 italic">Suggested: attend all 3 days</div>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <!-- Event 3: Embodied AI Hackathon SPC (REAL) -->
+    <article class="verified rounded-lg border border-stone-200 p-5 hover:border-stone-400 transition">
+      <div class="flex items-start justify-between gap-4">
+        <div class="flex-1">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="tier-4 text-xs font-semibold px-2 py-0.5 rounded">HACKATHON</span>
+            <span class="text-xs text-stone-500">South Park Commons</span>
+            <span class="text-xs text-emerald-700 font-semibold">✓ VERIFIED</span>
+          </div>
+          <h3 class="font-semibold text-base">Embodied AI Hackathon — Build agents that move, grasp, learn</h3>
+          <div class="flex items-center gap-4 mt-2 text-sm text-stone-600">
+            <span>📅 May 15–17, 2026</span>
+            <span>📍 SPC SF, Mission</span>
+            <span>👥 Hardware provided</span>
+          </div>
+          <p class="text-sm text-stone-700 mt-3 leading-relaxed">
+            <span class="font-medium">Why it fits:</span> SPC is the canonical "between things" community for technical founders — your only public entry without member sponsorship. Embodied AI theme attracts senior practitioners (hardware-in-the-loop = serious shipping). Weekend format = 48 hours of hallway time with the exact failed-founder / staff-engineer archetype.
+          </p>
+          <p class="text-xs text-purple-800 mt-2 bg-purple-50 px-3 py-2 rounded border border-purple-200">
+            <span class="font-semibold">Access path:</span> Open registration via the hackathon site. Once inside, identify SPC members in attendance — they're your warm-intro path to member-only dinners and salons.
+          </p>
+        </div>
+        <div class="text-right shrink-0">
+          <div class="score-pill bg-emerald-100 text-emerald-900 text-xs font-semibold px-2 py-1 rounded">FIT 88</div>
+          <div class="mt-3 space-y-2">
+            <a href="https://embodied-ai-hackathon-spc.replit.app/" target="_blank" class="block text-xs bg-amber-700 text-white px-3 py-1.5 rounded hover:bg-amber-800">Apply to hack →</a>
+            <div class="text-xs text-stone-500 italic">Suggested: judge OR participate</div>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-stone-600 pt-6">Later · June 2026</h2>
+
+    <!-- Event 4: AI Engineer World's Fair (REAL) -->
+    <article class="verified rounded-lg border border-stone-200 p-5 hover:border-stone-400 transition">
+      <div class="flex items-start justify-between gap-4">
+        <div class="flex-1">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="tier-1 text-xs font-semibold px-2 py-0.5 rounded">TIER 1</span>
+            <span class="text-xs text-stone-500">Conference · Latent Space / swyx</span>
+            <span class="text-xs text-emerald-700 font-semibold">✓ VERIFIED</span>
+          </div>
+          <h3 class="font-semibold text-base">AI Engineer World's Fair 2026</h3>
+          <div class="flex items-center gap-4 mt-2 text-sm text-stone-600">
+            <span>📅 June 29 – July 2, 2026</span>
+            <span>📍 Moscone Center, SF</span>
+            <span>👥 6,000+ attendees · 300 speakers · 29 tracks</span>
+          </div>
+          <p class="text-sm text-stone-700 mt-3 leading-relaxed">
+            <span class="font-medium">Why it fits:</span> The single highest-density event of the year for the exact archetype. swyx invented the "AI Engineer" job category — attendees ARE the FDE / Staff Engineer profile. Includes a Leadership Track for execs. 4 days = 4 nights of unofficial after-parties and side dinners (where the real hires get sourced).
+          </p>
+          <p class="text-xs text-emerald-800 mt-2 bg-emerald-50 px-3 py-2 rounded border border-emerald-200">
+            <span class="font-semibold">High-leverage move:</span> Apply to speak. Talks at this event are the warmest possible inbound channel for the role. CTA from stage = pre-qualified candidates approaching you. CFP usually closes ~10 weeks before — verify deadline and apply this week.
+          </p>
+        </div>
+        <div class="text-right shrink-0">
+          <div class="score-pill bg-emerald-100 text-emerald-900 text-xs font-semibold px-2 py-1 rounded">FIT 98</div>
+          <div class="mt-3 space-y-2">
+            <a href="https://www.ai.engineer/worldsfair" target="_blank" class="block text-xs bg-stone-900 text-white px-3 py-1.5 rounded hover:bg-stone-700">ai.engineer →</a>
+            <div class="text-xs text-stone-500 italic">Suggested: SPEAK if possible</div>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <!-- Recurring meetups note -->
+    <h2 class="text-sm font-semibold uppercase tracking-wider text-stone-600 pt-6">Recurring · monthly cadence</h2>
+
+    <!-- Event 5: Bond AI / GenAI SF (REAL host) -->
+    <article class="verified rounded-lg border border-stone-200 p-5 hover:border-stone-400 transition">
+      <div class="flex items-start justify-between gap-4">
+        <div class="flex-1">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="tier-2 text-xs font-semibold px-2 py-0.5 rounded">TIER 2</span>
+            <span class="text-xs text-stone-500">Community · Bond AI (luma.com/genai-sf)</span>
+            <span class="text-xs text-emerald-700 font-semibold">✓ VERIFIED HOST</span>
+          </div>
+          <h3 class="font-semibold text-base">Bond AI — SF / Bay Area's largest in-person AI community</h3>
+          <div class="flex items-center gap-4 mt-2 text-sm text-stone-600">
+            <span>📅 Multiple events / month</span>
+            <span>📍 Various SF venues</span>
+            <span>👥 120k+ members</span>
+          </div>
+          <p class="text-sm text-stone-700 mt-3 leading-relaxed">
+            <span class="font-medium">Why it fits:</span> Largest aggregator of in-person SF AI events. 120k member base = wide top-of-funnel. Lower archetype density than Tier 1 but high frequency means consistent presence is cheap. Use as an always-on signal source rather than primary channel.
+          </p>
+          <p class="text-xs text-amber-800 mt-2 bg-amber-50 px-3 py-2 rounded border border-amber-200">
+            <span class="font-semibold">Production note:</span> Individual event listings on Lu.ma return 403 to direct fetch. v1 scraper needs Playwright headless browser to enumerate this calendar.
+          </p>
+        </div>
+        <div class="text-right shrink-0">
+          <div class="score-pill bg-blue-100 text-blue-900 text-xs font-semibold px-2 py-1 rounded">FIT 72</div>
+          <div class="mt-3 space-y-2">
+            <a href="https://luma.com/genai-sf" target="_blank" class="block text-xs bg-stone-900 text-white px-3 py-1.5 rounded hover:bg-stone-700">luma.com/genai-sf →</a>
+            <div class="text-xs text-stone-500 italic">Subscribe + filter weekly</div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </section>
+
+  <!-- Email Preview -->
+  <section class="bg-white rounded-lg border border-stone-200 p-6">
+    <div class="flex items-center justify-between mb-4">
+      <h2 class="text-sm font-semibold uppercase tracking-wider text-stone-600">Monday Digest Preview</h2>
+      <span class="text-xs text-stone-500">Sent to andrew@customaistudio.io · 8:00 AM PT</span>
+    </div>
+    <div class="border border-stone-200 rounded p-4 bg-stone-50 text-sm space-y-3 font-mono">
+      <div><span class="text-stone-500">From:</span> CAIS Sourcing &lt;digest@cais.dev&gt;</div>
+      <div><span class="text-stone-500">To:</span> andrew@customaistudio.io</div>
+      <div><span class="text-stone-500">Subject:</span> CAIS Sourcing · 5 verified events · 1 Tier 1 conf next week</div>
+      <div class="border-t border-stone-200 pt-3 space-y-2">
+        <div>Andrew —</div>
+        <div>Top 3 verified for next 60 days:</div>
+        <div class="pl-4">1. <span class="font-semibold">AI Engineer World's Fair</span> · Jun 29–Jul 2 · FIT 98 — apply to speak (CFP closes soon)</div>
+        <div class="pl-4">2. <span class="font-semibold">AI Council 2026</span> · May 12–14 · FIT 92 — register, attend all 3 days</div>
+        <div class="pl-4">3. <span class="font-semibold">Embodied AI Hackathon @ SPC</span> · May 15–17 · FIT 88 — apply as judge</div>
+        <div>Suggested SF trip: <span class="font-semibold">May 12–17</span> (covers AI Council + SPC hackathon back-to-back).</div>
+        <div>Action this week: apply to AIEWF speaker CFP, register for AI Council.</div>
+        <div>→ <span class="text-blue-700 underline">Open dashboard</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Reality check -->
+  <section class="bg-amber-50 border border-amber-200 rounded-lg p-5 text-sm">
+    <div class="font-semibold text-amber-900 mb-2">What's real in this prototype vs. mocked</div>
+    <ul class="text-amber-900 space-y-1 list-disc pl-5">
+      <li><span class="font-medium">Verified real events:</span> AI Engineer World's Fair (June 29–July 2), AI Council 2026 (May 12–14), Embodied AI Hackathon at SPC (May 15–17), AI Tinkerers Generative UI Hackathon (May 9), Bond AI community (recurring).</li>
+      <li><span class="font-medium">Real but unfetched:</span> Lu.ma host calendars (swyx, AGI House, Cerebral Valley, MLOps, LangChain) — all returned 403 Cloudflare blocks. Production scraper needs Playwright on Railway.</li>
+      <li><span class="font-medium">Estimated values:</span> FIT scores (production version uses LLM scoring against your archetype rubric), suggested actions, RSVP counts where not on the source page.</li>
+      <li><span class="font-medium">Still missing entirely:</span> Tier 3 invite-only dinners (Hamel, Eugene Yan, Jason Liu) — these don't surface publicly. Production version captures via Twitter/X signals + warm-intro flagging from your network graph.</li>
+    </ul>
+  </section>
+
+</main>
+
+<footer class="border-t border-stone-200 mt-12 py-6 text-center text-xs text-stone-500">
+  CAIS Recruitment · prototype v0.1 · static mockup with verified-real event data
+</footer>
+
+</body>
+</html>

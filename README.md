@@ -30,7 +30,7 @@ to `main`.
                             │  Vercel (Next.js)    │  ← Andrew opens
                             └──────────────────────┘
 
-  + Resend sends Monday digest to andrew@customaistudio.io
+  + AgentMail sends Monday digest to andrew@customaistudio.io
 ```
 
 Why this stack: every Monday's snapshot is a reviewable git commit. Manual
@@ -47,7 +47,7 @@ all-in.
 |---|---|---|
 | Vercel | Hosts the dashboard | Yes (Hobby) |
 | Anthropic | Scoring (Claude Haiku 4.5) | No — pay-as-you-go, ~$1–5/mo |
-| Resend | Sends the Monday digest | Yes (3,000 emails/mo) |
+| AgentMail | Sends the Monday digest (and captures replies for v2 outbound) | Yes for our volume |
 
 ### 2. Configure GitHub secrets and variables
 
@@ -55,12 +55,13 @@ Go to **Settings → Secrets and variables → Actions** on this repo.
 
 **Secrets** (encrypted):
 - `ANTHROPIC_API_KEY` — from https://console.anthropic.com
-- `RESEND_API_KEY` — from https://resend.com/api-keys
+- `AGENTMAIL_API_KEY` — from https://agentmail.to/ (Settings → API Keys)
 
 **Variables** (plain text):
-- `DIGEST_FROM` — e.g. `digest@yourdomain.com` (must be on a domain you've
-  verified in Resend; for testing use `onboarding@resend.dev`)
-- `DIGEST_TO` — `andrew@customaistudio.io`
+- `AGENTMAIL_INBOX` — the inbox to send FROM. Create one in AgentMail.
+  Default form: `digest@agentmail.to` (works immediately, no DNS).
+  Or use a verified custom domain in AgentMail: `digest@customaistudio.io`.
+- `DIGEST_TO` — `andrew@customaistudio.io` (comma-separate to add Devin)
 - `DASHBOARD_URL` — your Vercel URL once deployed
 
 ### 3. Deploy to Vercel
@@ -153,7 +154,7 @@ Disable the workflow in **Actions → Weekly Refresh** or comment out the
 | Vercel Hobby | $0 |
 | GitHub Actions (1 run/week, ~10 min) | $0 (free tier: 2,000 min) |
 | Anthropic Haiku scoring (~50 events/wk × 4) | $1–3 |
-| Resend (4 emails/mo) | $0 |
+| AgentMail (4 emails/mo) | $0 |
 | **Total** | **~$1–5/mo** |
 
 ---

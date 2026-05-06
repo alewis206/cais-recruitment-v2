@@ -1,4 +1,4 @@
-import { Resend } from "resend";
+import { AgentMailClient } from "agentmail";
 import { render } from "@react-email/render";
 import type { Event } from "../types";
 import { DigestEmail } from "./digest";
@@ -10,19 +10,21 @@ interface SendDigestArgs {
 }
 
 /**
- * Send the Monday digest. Picks the top 5 events by fit score and ships them
- * to DIGEST_TO via Resend. Returns ok=true on success, otherwise an error
- * payload — never throws so the cron can keep going.
+ * Send the Monday digest via AgentMail. Picks the top 5 events by fit
+ * score and ships them to DIGEST_TO from the configured AGENTMAIL_INBOX.
+ *
+ * Returns ok=true on success, otherwise an error payload — never throws
+ * so the cron run never fails because of an email failure.
  */
 export async function sendDigest(
   args: SendDigestArgs,
 ): Promise<{ ok: true; id: string } | { ok: false; error: string }> {
-  const apiKey = process.env.RESEND_API_KEY;
-  const from = process.env.DIGEST_FROM;
+  const apiKey = process.env.AGENTMAIL_API_KEY;
+  const inboxId = process.env.AGENTMAIL_INBOX;
   const toRaw = process.env.DIGEST_TO;
 
-  if (!apiKey) return { ok: false, error: "RESEND_API_KEY not set" };
-  if (!from) return { ok: false, error: "DIGEST_FROM not set" };
+  if (!apiKey) return { ok: false, error: "AGENTMAIL_API_KEY not set" };
+  if (!inboxId) return { ok: false, error: "AGENTMAIL_INBOX not set" };
   if (!toRaw) return { ok: false, error: "DIGEST_TO not set" };
 
   const to = toRaw
@@ -59,19 +61,48 @@ export async function sendDigest(
     }),
   );
 
+  const text = renderPlainText(top, totals, args.dashboardUrl);
+
   try {
-    const resend = new Resend(apiKey);
-    const result = await resend.emails.send({
-      from,
+    const client = new AgentMailClient({ apiKey });
+    const result = await client.inboxes.messages.send(inboxId, {
       to,
       subject,
       html,
+      text,
+      labels: ["cais-sourcing", "weekly-digest"],
     });
-    if (result.error) {
-      return { ok: false, error: result.error.message };
-    }
-    return { ok: true, id: result.data?.id ?? "unknown" };
+    return { ok: true, id: (result as { messageId?: string }).messageId ?? "unknown" };
   } catch (err) {
     return { ok: false, error: (err as Error).message };
   }
+}
+
+/**
+ * Plain-text fallback for clients that don't render HTML.
+ * Also functions as the email-archive log line in AgentMail's inbox view.
+ */
+function renderPlainText(
+  top: Event[],
+  totals: { total: number; tier1: number },
+  dashboardUrl: string,
+): string {
+  const lines = [
+    `CAIS Sourcing — Weekly Digest`,
+    ``,
+    `${totals.total} events in the next 60 days · ${totals.tier1} Tier 1.`,
+    ``,
+    `Top ${top.length}:`,
+  ];
+  top.forEach((e, i) => {
+    lines.push(``);
+    lines.push(`${i + 1}. ${e.title}`);
+    lines.push(`   ${new Date(e.startDate).toLocaleDateString("en-US", { timeZone: "America/Los_Angeles", weekday: "short", month: "short", day: "numeric" })} · ${e.hostName} · FIT ${e.score.fitScore}`);
+    lines.push(`   ${e.score.reasoning}`);
+    lines.push(`   → ${e.score.suggestedAction}`);
+    lines.push(`   ${e.url}`);
+  });
+  lines.push(``);
+  lines.push(`Open the dashboard: ${dashboardUrl}`);
+  return lines.join("\n");
 }

@@ -45,8 +45,8 @@ jobs:
       - name: Run weekly refresh
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          DIGEST_FROM: ${{ vars.DIGEST_FROM }}
+          AGENTMAIL_API_KEY: ${{ secrets.AGENTMAIL_API_KEY }}
+          AGENTMAIL_INBOX: ${{ vars.AGENTMAIL_INBOX }}
           DIGEST_TO: ${{ vars.DIGEST_TO }}
           DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
         run: |

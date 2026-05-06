@@ -1,34 +1,7 @@
 {
-  "generatedAt": "2026-05-06T00:38:48.226Z",
+  "generatedAt": "2026-05-06T01:28:54.371Z",
   "generatedBy": "weekly-refresh",
   "events": [
-    {
-      "id": "evt_1y951gb",
-      "title": "-1 to Snowflake with Sridhar Ramaswamy",
-      "url": "https://luma.com/sridhar-spc",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-22T16:30:00.000-07:00",
-      "endDate": "2026-06-22T18:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "South Park Commons is delighted to host Sridhar Ramaswamy, CEO of Snowflake as part of our -1 to Now series.\nEvent Details\n4:30pm: Doors Open\n5:00-6:00pm: Fireside Chat\n\nSridhar Ramaswamy currently serves as Snowflake’s CEO. After joining Snowflake in May 2023 in connection with the company’s acquisition of Neeva, the world’s first private AI powered search engine, Ramaswamy spearheaded Snowflake’s AI strategy as SVP of AI. Prior to joining Snowflake, Ramaswamy co-founded Neeva in 2019. Prior to founding Neeva, Ramaswamy led Google’s core product, developer, data infrastructure and privacy divisions, as well as Google’s Advertising products, which included search, display and video advertising, analytics, shopping, payments, and travel. During his 15 years at Google he was an integral part",
-      "speakers": [],
-      "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-05-06T00:38:29.667Z",
-      "verified": true
-    },
     {
       "id": "evt_1uwubn2",
       "title": "Autonomous GTM Hackathon with Vultr and OpenAI Codex",
@@ -44,9 +17,9 @@
       "description": "The go-to-market stack is being rebuilt in real time. The companies pulling ahead are not the ones hiring the biggest teams. They are the ones designing better systems: agents that research accounts autonomously, workflows that qualify inbound before a human ever steps in, and routing logic that gets the right rep on the right deal at the right time.\nAGI House x GTM Engineering presents an event for builders who want to move beyond theory and start shipping real autonomous systems that learn exceptionally.\nThe day kicks off with workshops led by AI Research and GTM Experts, starting with a virtual presentation from Stanford Professor Hamza Farooq, followed by a hackathon where participants will have access to OpenAI Codex credits to build.\nHack Categories:\nGTM Intelligence Benchmarks -- De",
       "speakers": [],
       "score": {
-        "fitScore": 72,
-        "reasoning": "AGI House hackathons consistently surface failed/winding-down founders and solo builders; the GTM-automation focus attracts practitioners shipping real systems, not academics. Vultr + Codex credits suggest hands-on builders. However, 9-hour single-day hackathon format favors pure IC shipping over the architect/lead visibility needed for Head of Delivery sourcing.",
-        "suggestedAction": "Request judge or mentor slot (frames CAIS as expert, surfaces founders organically); attend day-of if judge role unavailable.",
+        "fitScore": 78,
+        "reasoning": "AGI House SF hackathons reliably surface failed founders and solo builders shipping production systems. The GTM-specific focus (autonomous agents, workflows, routing logic) and hands-on hackathon format create high-probability proximity to architects who've shipped real agentic systems under pressure. Vultr + OpenAI Codex sponsorship signals serious builders, not hobbyists.",
+        "suggestedAction": "attend as participant or judge/mentor slot (request judge invite via AGI House SF organizers)",
         "archetypeMatches": [
           "failed-founder",
           "ai-native-staff"
@@ -54,7 +27,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:15.062Z",
+      "scrapedAt": "2026-05-06T01:28:14.008Z",
       "verified": true
     },
     {
@@ -64,7 +37,7 @@
       "hostSlug": "agi-house",
       "hostName": "AGI House SF",
       "tier": 2,
-      "format": "dinner",
+      "format": "other",
       "startDate": "2026-05-27T18:00:00.000-07:00",
       "endDate": "2026-05-27T19:00:00.000-07:00",
       "venue": "AGI House SF: 170 St. Germain Ave. San Francisco CA 94114",
@@ -73,15 +46,16 @@
       "speakers": [],
       "score": {
         "fitScore": 72,
-        "reasoning": "AGI House SF hosts multiple hackathons monthly and attracts solo builders—a direct pipeline to failed-founder archetypes. A casual pizza dinner lowers signal density vs. structured hackathon events, but the venue's founder-heavy flywheel and intimate format (implicit small group) create genuine serendipity opportunities for identifying technical founders between projects.",
-        "suggestedAction": "attend as participant",
+        "reasoning": "AGI House SF hosts multiple hackathons monthly with high concentration of solo builders and failed founders—exactly the archetype density we need. A casual pizza evening is lower-signal than a structured hackathon or dinner, but the venue's track record and informal setting create strong serendipity conditions for identifying technical co-founders between projects.",
+        "suggestedAction": "attend as participant; arrive early to work the room; ask host for intro to 2-3 recent hackathon winners or solo builders present",
         "archetypeMatches": [
-          "failed-founder"
+          "failed-founder",
+          "ai-native-staff"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:16.970Z",
+      "scrapedAt": "2026-05-06T01:28:16.367Z",
       "verified": true
     },
     {
@@ -100,16 +74,16 @@
       "speakers": [],
       "score": {
         "fitScore": 72,
-        "reasoning": "Bond AI's 'Context is King' series attracts working engineers shipping production AI agents (Chroma MTS, Flow AI co-founder). The focus on context engineering, tool use, and agent harnesses maps directly to LLM systems implementation—a core signal for the Head of Delivery role. Sold-out track record suggests quality attendee density, though as a large public event, archetype concentration is moderate.",
-        "suggestedAction": "attend as participant; focus hallway conversations on speakers' implementation playbooks and production failure stories",
+        "reasoning": "Bond AI/GenAI SF hosts high-volume events, but 'Context is King #4' targets the right technical depth: implementation stories on agentic systems, context windows, tool use, and MCP from frontier engineers. Chroma (Itai Smith) and Flow AI (co-founder) speakers signal hands-on shipping. Venue and format (talks + live demos) create hallway access to principals and failed founders iterating on production agents.",
+        "suggestedAction": "attend as participant; prioritize hallway conversations with speaker co-founders and early-stage implementers; request warm intro to Bernardo García del Río (Flow AI co-founder) if he fits archetype profile.",
         "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
+          "failed-founder",
+          "ai-native-staff"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:36.662Z",
+      "scrapedAt": "2026-05-06T01:28:38.227Z",
       "verified": true
     },
     {
@@ -128,16 +102,45 @@
       "speakers": [],
       "score": {
         "fitScore": 72,
-        "reasoning": "Bond AI's 'Proto to Prod' session directly targets builders shipping AI agents to production—a core signal for failed founders and staff engineers with hands-on shipping credibility. The follow-along format, infrastructure security focus, and emphasis on 'what breaks in production' suggest practical, post-pilot complexity rather than early-stage prototyping. However, GenAI SF's high frequency and broad audience (engineers + founders) means archetype density is diluted; attendees likely skew earlier-stage or product-focused rather than delivery-lead tier.",
-        "suggestedAction": "attend as participant; arrive early to network with founders in the 'already built something' cohort and identify 1-2 potential targets for warm intro follow-up",
+        "reasoning": "This event directly targets builders shipping AI agents to production—a core pain point for all three archetypes. The hands-on, follow-along format and focus on production infrastructure risk (not theory) suggests attendees have shipped or are actively shipping. Bond AI/GenAI SF hosts frequent events with mixed archetype density, but the specific 'proto to prod' and 'what breaks in production' framing indicates serious practitioners. AWS venue adds credibility.",
+        "suggestedAction": "attend as participant; position to network with other builders during follow-along and risk assessment segment; identify founders or senior engineers shipping AI agents.",
         "archetypeMatches": [
           "failed-founder",
-          "ai-native-staff"
+          "ai-native-staff",
+          "consulting-lead"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:43.762Z",
+      "scrapedAt": "2026-05-06T01:28:43.197Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1yqw8dy",
+      "title": "🧠 AI Founders Lab with The AI Collective SF x Avahi",
+      "url": "https://luma.com/lq9gj202",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "dinner",
+      "startDate": "2026-05-05T18:00:00.000-07:00",
+      "endDate": "2026-05-05T21:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "Calling all founders, operators, and builders in SF....\n\nAre you actively building a real product and thinking seriously about how AI could modernize or unlock its next phase?\nEvent Description\nThe AI Collective SF is hosting an invite-only, closed-door working session in San Francisco, in partnership with Avahi and AWS, bringing together founders and operators who are shipping products and exploring practical AI adoption.\nYou'll participate in small-group conversations, get real-time feedback on your product strategy, and leave with a clear roadmap for AI integration (plus potential access to substantial engineering support to actually build it).\nWho we’re looking for:\nFounders or operators with an existing product and traction (industry-agnostic)\nEarly-stage startups and legacy companies",
+      "speakers": [],
+      "score": {
+        "fitScore": 72,
+        "reasoning": "Invite-only founder/operator working session with product-shipping focus and partnership with AWS signals authentic founder density. However, the event targets founders seeking AI *adoption into existing products* rather than those shipping AI-native solutions or exiting AI startups—limiting direct archetype match for failed-founder profile. May surface consulting-leads exploring AI modernization plays.",
+        "suggestedAction": "Request warm intro through GenAI SF network; position as potential mentor/advisor for AI implementation strategy discussions rather than participant.",
+        "archetypeMatches": [
+          "failed-founder",
+          "consulting-lead"
+        ],
+        "warmIntroNeeded": true,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-05-06T01:28:45.949Z",
       "verified": true
     },
     {
@@ -156,8 +159,8 @@
       "speakers": [],
       "score": {
         "fitScore": 72,
-        "reasoning": "Multi-track SF conference with proven tier-2 host and substantive speaker roster (OpenAI/Anthropic/Databricks founders/architects). High likelihood of hallway conversations with Principal Engineers and failed founders in the AI infrastructure/tooling space. 'Engineers Who Ship' positioning suggests production-focused attendee base aligned with disqualifier filters.",
-        "suggestedAction": "attend as participant; prioritize hallway track and sponsor booth visits; request warm intro to OpenAI/Anthropic/LangChain speakers if available",
+        "reasoning": "Multi-track SF conference with explicitly technical focus ('Engineers Who Ship') and confirmed speakers from tier-1 AI firms (OpenAI, Anthropic, Databricks) plus infrastructure leaders (DuckDB, ClickHouse, LangChain). High likelihood of hallway conversations with Principal/Staff engineers and failed founders attending as participants or speakers, though large venue reduces 1:1 density vs. smaller operator events.",
+        "suggestedAction": "Attend as participant; identify speaking slots or sponsor booth to increase visibility; scout hallway track during breaks targeting Databricks/LangChain/Anthropic attendees.",
         "archetypeMatches": [
           "ai-native-staff",
           "failed-founder"
@@ -165,7 +168,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:48.225Z",
+      "scrapedAt": "2026-05-06T01:28:48.625Z",
       "verified": true
     },
     {
@@ -175,7 +178,7 @@
       "hostSlug": "langchain",
       "hostName": "LangChain",
       "tier": 1,
-      "format": "meetup",
+      "format": "talk",
       "startDate": "2026-05-19T18:00:00.000-07:00",
       "endDate": "2026-05-19T20:30:00.000-07:00",
       "venue": "San Francisco, CA",
@@ -184,15 +187,16 @@
       "speakers": [],
       "score": {
         "fitScore": 62,
-        "reasoning": "LangChain meetup with product/engineering speakers covering production agent deployment—directly relevant to agentic systems shipping. However, the format (evening meetup) and speaker titles (Product Lead, Deployed Engineer) suggest audience will skew toward builders and staff engineers rather than founders or senior delivery leads. Useful for identifying AI-native staff archetype but limited executive/founder network density.",
-        "suggestedAction": "attend as participant; position as potential technical advisor/reference; assess attendee quality in first 15 min, pivot to 1-on-1s with senior engineers if present",
+        "reasoning": "LangChain meetup with strong production-shipping focus (durable execution, checkpoints, human-in-the-loop) directly addresses agentic systems—a core signal for all three archetypes. However, the speaker lineup (Deployed Engineer + Product Lead) and typical LangChain meetup audience skew toward active IC builders and junior engineers rather than architect/lead-level operators. Venue and timing are excellent; content relevance is high, but attendee filtering required.",
+        "suggestedAction": "attend as participant; arrive early for networking; target conversations with attendees who speak to production horror stories or multi-team coordination challenges",
         "archetypeMatches": [
-          "ai-native-staff"
+          "ai-native-staff",
+          "failed-founder"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:12.558Z",
+      "scrapedAt": "2026-05-06T01:28:11.824Z",
       "verified": true
     },
     {
@@ -211,70 +215,16 @@
       "speakers": [],
       "score": {
         "fitScore": 62,
-        "reasoning": "Pinecone + Menlo Ventures venue attracts builders and founders, but the 'high-energy meetup' format with raffle/quiz and broad 'AI enthusiasts' framing suggests junior-skewed audience. Panel + demo is passive. Likely to surface some AI-native staff and failed founders in hallway track, but not a targeted operator venue.",
-        "suggestedAction": "attend as participant; focus on 1-on-1 conversations during breaks and post-event mingling rather than panels",
+        "reasoning": "Pinecone + GenAI SF hosted event at Menlo Ventures attracts builders and founders interested in RAG/agentic systems, which aligns with production AI work. However, the 'high-energy meetup' format with raffle/quiz and broad 'AI enthusiasts' positioning suggests lower archetype density than operator dinners or technical roundtables; expect junior engineers and hobbyists alongside potential targets.",
+        "suggestedAction": "attend as participant; work the room for 30-45 min focusing on hallway conversations post-panel rather than the structured agenda",
         "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-05-06T00:38:34.234Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1bjvj5t",
-      "title": "Daytona AI Builders w/ WorkOS & Coder - SF, May 2026",
-      "url": "https://luma.com/e1d5eql5",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-05-05T17:30:00.000-07:00",
-      "endDate": "2026-05-05T20:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "An event dedicated to exploring all things AI Engineering!\nEvent partners: WorkOS & Coder\nAgenda\n🕒 5:30 pm – 5:35 pm\nWelcome and Opening Remarks\n🎤 Asako Hayase, Community Ambassador - Pacer at Daytona\n\n🕒 5:35 pm – 5:50 pm\nTalk \"Forkable Sandboxes for Long-Running Agents\"\n🎤 Muhammad Annas Hashmi, DevRel at Daytona\nOutline:\nAgents are starting to do real software work: installing dependencies, editing files, running tests, starting servers, and debugging over long sessions. But most AI systems still treat each run like a disposable prompt-response loop. That breaks down once the useful state lives not just in tokens, but in the actual machine.\n\nThis talk is about the runtime layer agents need to become reliable builders. I’ll show how forkable Daytona sandboxes let you pause at important",
-      "speakers": [],
-      "score": {
-        "fitScore": 62,
-        "reasoning": "Bond AI/GenAI SF hosts high-frequency events with lower archetype density, but this particular session surfaces agentic systems engineering (long-running agents, stateful execution) and includes infrastructure partners (WorkOS, Coder) that appeal to technical architects. The talk on agent runtimes is credible; however, the 2.5-hour format and community-oriented framing suggest junior-to-mid-level audience and networking, not exec-level operator density.",
-        "suggestedAction": "attend as participant for hallway conversations; scout for any consulting leads or failed founders in attendance, but do not prioritize as a primary source event.",
-        "archetypeMatches": [
+          "failed-founder",
           "ai-native-staff"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:39.775Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1yqw8dy",
-      "title": "🧠 AI Founders Lab with The AI Collective SF x Avahi",
-      "url": "https://luma.com/lq9gj202",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "dinner",
-      "startDate": "2026-05-05T18:00:00.000-07:00",
-      "endDate": "2026-05-05T21:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Calling all founders, operators, and builders in SF....\n\nAre you actively building a real product and thinking seriously about how AI could modernize or unlock its next phase?\nEvent Description\nThe AI Collective SF is hosting an invite-only, closed-door working session in San Francisco, in partnership with Avahi and AWS, bringing together founders and operators who are shipping products and exploring practical AI adoption.\nYou'll participate in small-group conversations, get real-time feedback on your product strategy, and leave with a clear roadmap for AI integration (plus potential access to substantial engineering support to actually build it).\nWho we’re looking for:\nFounders or operators with an existing product and traction (industry-agnostic)\nEarly-stage startups and legacy companies",
-      "speakers": [],
-      "score": {
-        "fitScore": 62,
-        "reasoning": "Invite-only founder/operator working session with focus on shipping products and AI adoption—good venue for surfacing failed founders or operators with production experience. However, the event targets active builders seeking to *add* AI to existing products, not delivery leaders or consulting architects. The format (small-group strategy feedback) is collaborative but not sourcing-optimized for Head of Delivery archetypes.",
-        "suggestedAction": "request warm intro and attend as observer/participant; scout for failed-founder signals during small-group conversations, but don't expect high archetype density",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": true,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-05-06T00:38:45.991Z",
+      "scrapedAt": "2026-05-06T01:28:35.213Z",
       "verified": true
     },
     {
@@ -293,15 +243,69 @@
       "speakers": [],
       "score": {
         "fitScore": 52,
-        "reasoning": "South Park Commons demo nights attract 'between things' founders and technical leaders, but the public format and emphasis on early-stage demos (rather than production shipping at scale) suggests a junior-skewed audience. The named demoshows (Yutori, Roro) indicate pre-product or early-stage companies, not the proven production operators CAIS needs. Hallway potential exists but low probability of surfacing a Head of Delivery archetype.",
-        "suggestedAction": "attend as participant for network reconnaissance; skip if time-constrained",
+        "reasoning": "SPC Demo Night surfaces 'between things' founders and early-stage builders, but the public format and demo-heavy structure skew toward pre-product or prototype-stage work rather than production shipping at scale. The attendee mix is likely junior engineers and exploratory founders, not seasoned delivery leads or post-exit operators seeking operational roles.",
+        "suggestedAction": "skip",
         "archetypeMatches": [
           "failed-founder"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:25.412Z",
+      "scrapedAt": "2026-05-06T01:28:27.230Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1y951gb",
+      "title": "-1 to Snowflake with Sridhar Ramaswamy",
+      "url": "https://luma.com/sridhar-spc",
+      "hostSlug": "south-park-commons",
+      "hostName": "South Park Commons (public events)",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-06-22T16:30:00.000-07:00",
+      "endDate": "2026-06-22T18:30:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "South Park Commons is delighted to host Sridhar Ramaswamy, CEO of Snowflake as part of our -1 to Now series.\nEvent Details\n4:30pm: Doors Open\n5:00-6:00pm: Fireside Chat\n\nSridhar Ramaswamy currently serves as Snowflake’s CEO. After joining Snowflake in May 2023 in connection with the company’s acquisition of Neeva, the world’s first private AI powered search engine, Ramaswamy spearheaded Snowflake’s AI strategy as SVP of AI. Prior to joining Snowflake, Ramaswamy co-founded Neeva in 2019. Prior to founding Neeva, Ramaswamy led Google’s core product, developer, data infrastructure and privacy divisions, as well as Google’s Advertising products, which included search, display and video advertising, analytics, shopping, payments, and travel. During his 15 years at Google he was an integral part",
+      "speakers": [],
+      "score": {
+        "fitScore": 52,
+        "reasoning": "Sridhar is a founder (Neeva) acquired into Snowflake, which signals founder credibility and AI shipping experience. However, this is a public CEO fireside chat at South Park Commons—a large-audience format unlikely to enable direct relationship-building with the target archetype. The event surfaces founder pedigree but not the intimate operator conversations where delivery leadership gets vetted.",
+        "suggestedAction": "attend as participant for hallway track only; skip the main talk. Arrive early to identify other founders/operators in the room and initiate coffee conversations post-event.",
+        "archetypeMatches": [
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-05-06T01:28:30.377Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1bjvj5t",
+      "title": "Daytona AI Builders w/ WorkOS & Coder - SF, May 2026",
+      "url": "https://luma.com/e1d5eql5",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "meetup",
+      "startDate": "2026-05-05T17:30:00.000-07:00",
+      "endDate": "2026-05-05T20:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "An event dedicated to exploring all things AI Engineering!\nEvent partners: WorkOS & Coder\nAgenda\n🕒 5:30 pm – 5:35 pm\nWelcome and Opening Remarks\n🎤 Asako Hayase, Community Ambassador - Pacer at Daytona\n\n🕒 5:35 pm – 5:50 pm\nTalk \"Forkable Sandboxes for Long-Running Agents\"\n🎤 Muhammad Annas Hashmi, DevRel at Daytona\nOutline:\nAgents are starting to do real software work: installing dependencies, editing files, running tests, starting servers, and debugging over long sessions. But most AI systems still treat each run like a disposable prompt-response loop. That breaks down once the useful state lives not just in tokens, but in the actual machine.\n\nThis talk is about the runtime layer agents need to become reliable builders. I’ll show how forkable Daytona sandboxes let you pause at important",
+      "speakers": [],
+      "score": {
+        "fitScore": 52,
+        "reasoning": "Bond AI / GenAI SF is a high-volume aggregator with lower archetype density; this event skews toward AI engineers and builders rather than founder/leadership archetypes. The talk on agent sandboxes is technically solid but targets IC engineers, not delivery leads. No clear signal of consulting-leads, failed-founders, or principal architects.",
+        "suggestedAction": "skip",
+        "archetypeMatches": [
+          "ai-native-staff"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-05-06T01:28:40.624Z",
       "verified": true
     },
     {
@@ -319,16 +323,14 @@
       "description": "Lukasz Kaiser, co-inventor of the Transformer, is stepping into the ring for the most gloriously nerdy showdown in SF: a live, tongue-in-cheek Transformers vs. Post-Transformers boxing match of ideas! Adrian Kosowski from Pathway will step into the ring on the post-transformer side, alongside Liquid AI’s CTO Mathias Lechner, and Llion Jones, CTO of Sakana AI, another co-inventor of Transformers! \n\nThis is the battle between innovations that shape trillion dollar markets - presented by their very authors (!).\nThe Wall Street Journal just predicted that 2026 is the year post-Transformers will rule AI. We're making that prediction a reality, and we want to do it in the most memorable way possible.\nOn May 5, we’re turning the future of AI into a fast-paced evening of punchy rounds, playful reb",
       "speakers": [],
       "score": {
-        "fitScore": 52,
-        "reasoning": "High-profile technical content (Lukasz Kaiser, Transformer co-inventors) in a San Francisco venue attracts serious AI engineers and founders, but the format is entertainment-focused debate rather than operational/delivery-focused. Unlikely to surface operators shipping production systems or consulting delivery leads; skews toward researchers and early-stage engineers interested in model architecture rather than implementation at scale.",
+        "fitScore": 45,
+        "reasoning": "While the speaker lineup (Lukasz Kaiser, Llion Jones, Mathias Lechner) represents genuine AI architecture expertise, the format is entertainment-first debate theater rather than a venue for identifying operational leaders. The event skews toward AI enthusiasts and researchers rather than practitioners shipping production systems or founders solving delivery challenges. Bond AI's 'largest aggregator' status means low archetype density despite high attendance.",
         "suggestedAction": "skip",
-        "archetypeMatches": [
-          "ai-native-staff"
-        ],
+        "archetypeMatches": [],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:31.735Z",
+      "scrapedAt": "2026-05-06T01:28:32.391Z",
       "verified": true
     },
     {
@@ -347,13 +349,13 @@
       "speakers": [],
       "score": {
         "fitScore": 35,
-        "reasoning": "While AGI House SF hosts high-quality hackathons and attracts failed founders, this specific event is a baseball watch party with no technical or business content. The happy hour format offers networking potential, but the venue transition to Oracle Park dilutes focus and the 1-hour window is insufficient for meaningful depth conversations with target archetypes.",
+        "reasoning": "While AGI House SF is a strong venue for sourcing (high failed-founder density via hackathons), this specific event is a sports watch party + happy hour with no technical content, structured networking, or natural conversation hooks around AI delivery. The venue attracts the right crowd, but the format (baseball game) offers minimal signal differentiation and low intentionality for deeper recruitment conversations.",
         "suggestedAction": "skip",
         "archetypeMatches": [],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:20.684Z",
+      "scrapedAt": "2026-05-06T01:28:20.718Z",
       "verified": true
     },
     {
@@ -371,22 +373,110 @@
       "description": "Our first Open Mic Night was one of the most special and emotional nights we've had at the house.\nSo we're making this a recurring series. Share your best poetry, singing, piano, comedy, storytelling, live improv — whatever you've been holding back sharing.\nLeave your ego at the door. Drop all your expectations and fears. Jump on the stage, no questions asked. (Recordings only on request, dw 😉)\nThis is less about the performance and more about taking action — stepping into your artistic personality.\nWe'll have light bites, wine, and create an open atmosphere.\nSee you there 🤭",
       "speakers": [],
       "score": {
-        "fitScore": 32,
-        "reasoning": "While AGI House SF hosts high-quality hackathons and attracts solo builders (failed-founder signal), Open Mic Night is explicitly a creative/social event focused on poetry, music, and storytelling—not technical shipping, methodologies, or production AI systems. The venue and host community are strong, but the format and content have zero correlation with delivery leadership, architecture, or AI implementation credibility.",
+        "fitScore": 28,
+        "reasoning": "While AGI House SF hosts hackathons with high failed-founder density, this specific event is an open-mic poetry/comedy/storytelling night focused on artistic expression and ego-shedding, not technical shipping, business models, or delivery methodologies. The venue has strong signal value, but the format (performance art) does not surface the behavioral signals needed (production shipping, ROI articulation, architect-level decision-making).",
         "suggestedAction": "skip",
         "archetypeMatches": [],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-05-06T00:38:18.822Z",
+      "scrapedAt": "2026-05-06T01:28:18.623Z",
+      "verified": true
+    },
+    {
+      "id": "evt_l9poht",
+      "title": "Narrative Warfare: A Filmmaker on AI Beyond the Generated-Video",
+      "url": "https://luma.com/ivy40re3",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-05-05T18:30:00.000-07:00",
+      "endDate": "2026-05-05T20:30:00.000-07:00",
+      "venue": "Pebblebed",
+      "city": "San Francisco",
+      "description": "When people talk about AI and filmmaking, they usually mean generated video. That's a sliver of what's actually happening on a production, and mostly not the interesting part.\nMichael Morgenstern is finishing an independent feature Reality Games that premieres at the Victoria Theater on May 16. It's a gamified ride through disinformation, deepfakes, and narrative warfare, visually somewhere between Fight Club, Scott Pilgrim, and TikTok, starring Jared Scott (13 Reasons Why) and Keith Miller (Saved By The Bell). The team approached the film like a tech company would, taking an engineer's mindset to visual effects.\nWe're getting him in the Warehouse the week before release to show preview clips and walk through what actually building this thing required. On the table: what a tech-company min",
+      "speakers": [],
+      "score": {
+        "fitScore": 28,
+        "reasoning": "This is a filmmaker's creative talk about using engineering mindset for visual effects on an independent feature film. While the host (Lu.ma catch-all) casts a wide net, the content is primarily about film production and narrative craft, not B2B AI systems, production shipping with business ROI, or delivery leadership. No signal of founder experience, consulting methodology, or stakeholder-led engagement outcomes.",
+        "suggestedAction": "skip",
+        "archetypeMatches": [],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-05-06T01:28:52.926Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1lp832s",
+      "title": "AI Séance <> Art/Tech Performance with artist Avital Meshi",
+      "url": "https://luma.com/AIseance",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-05-05T19:00:00.000-07:00",
+      "endDate": "2026-05-05T20:00:00.000-07:00",
+      "venue": "tiat",
+      "city": "San Francisco",
+      "description": "AI Séance is a live, interactive performance where an AI wearable device transforms the artist into a spiritual medium. This captivating experience merges technology and mysticism, inviting participants to explore the boundaries of the digital and the spiritual.\nParticipants, ready to invite a spirit into the space, gather in a close circle, holding lights to create a connected and intimate atmosphere. Together, they agree on specific spirits to summon. The artist, equipped with the AI wearable device, initiates the séance, calling forth the chosen figures with the hope of making a connection. Participants are encouraged to engage by asking questions. The AI wearable, acting as a conduit, facilitates this unique communication, allowing participants an expanded conversation to unfold in rea",
+      "speakers": [],
+      "score": {
+        "fitScore": 28,
+        "reasoning": "Art/tech performance focused on experiential mysticism rather than production AI systems, business outcomes, or delivery methodology. No signal of founder experience, consulting leadership, or shipping real-world AI products with measurable ROI.",
+        "suggestedAction": "skip",
+        "archetypeMatches": [],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-05-06T01:28:54.370Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1flx49q",
+      "title": "Documentary Preview+ Conversation: Water Stewardship & Indigenous Knowledge",
+      "url": "https://luma.com/at7amlno",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-05-05T18:00:00.000-07:00",
+      "endDate": "2026-05-05T20:00:00.000-07:00",
+      "venue": "Pier 17",
+      "city": "San Francisco",
+      "description": "Presented as part of Hidden Currencies: Water Justice in the Age of AI.\nWhat does it mean to truly care for water — not just manage it, but treat it as a living part of our shared world?\nJoin us for a 15- minute preview of the upcoming feature documentary Undamming Klamath (Swiftwater Films) — which follows the historic 2024 removal of hydroelectric dams on the Klamath River — the largest dam removal project in U.S. history. The film captures what comes after: salmon returning, habitats healing, and communities reconnecting with a river restored through years of collaboration between tribal nations, government agencies, and conservation partners.\nThe screening will be followed by a conversation on water stewardship — how we relate to, protect, and restore freshwater systems at a time of gr",
+      "speakers": [],
+      "score": {
+        "fitScore": 15,
+        "reasoning": "Environmental documentary screening with indigenous knowledge focus has zero connection to AI consulting, B2B SaaS delivery, or technical leadership. The 'Age of AI' framing appears superficial (water justice theme); no signals of founder networks, AI practitioners, or delivery methodology discussion.",
+        "suggestedAction": "skip",
+        "archetypeMatches": [],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-05-06T01:28:50.320Z",
       "verified": true
     }
   ],
   "scrapeReport": {
-    "sourcesAttempted": 20,
-    "sourcesSucceeded": 20,
-    "eventsFound": 15,
-    "eventsScored": 15,
-    "failures": []
+    "sourcesAttempted": 49,
+    "sourcesSucceeded": 46,
+    "eventsFound": 18,
+    "eventsScored": 18,
+    "failures": [
+      {
+        "sourceSlug": "the-residency",
+        "reason": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://residency.so/\nCall log:\n  - navigating to \"https://residency.so/\", waiting until \"domcontentloaded\"\n"
+      },
+      {
+        "sourceSlug": "garry-tan",
+        "reason": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.garrytan.com/\nCall log:\n  - navigating to \"https://www.garrytan.com/\", waiting until \"domcontentloaded\"\n"
+      },
+      {
+        "sourceSlug": "aravind-srinivas",
+        "reason": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://aravsrinivas.com/\nCall log:\n  - navigating to \"https://aravsrinivas.com/\", waiting until \"domcontentloaded\"\n"
+      }
+    ]
   }
 }

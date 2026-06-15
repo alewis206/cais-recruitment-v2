@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:47:50.539Z",
+  "generatedAt": "2026-06-15T17:53:34.257Z",
   "generatedBy": "weekly-refresh",
   "events": [
     {
@@ -18,8 +18,8 @@
       "speakers": [],
       "score": {
         "fitScore": 72,
-        "reasoning": "Latent Space's AI Engineer World's Fair is Tier 1 operator territory with high-quality audience density. The NEO (New Engineer Orientation) is an intimate pre-event mixer hosted by swyx directly, offering early access to speakers and the broader AIEWF network. This surfaces failed founders, AI-native staff, and consulting leads who attend the main conference—though the orientation itself is more networking scaffold than deep signal.",
-        "suggestedAction": "attend as participant; use to identify target archetypes during AIEWF main event and request 1:1s with speakers/sponsors.",
+        "reasoning": "Latent Space (swyx) is Tier 1 operator hub with proven track record of attracting AI-native principals and failed founders. The AIE World's Fair itself surfaces high-signal technical leaders across multiple days. However, this specific event is an onboarding/orientation session rather than a substantive networking or talk format—it's optimized for first-timers and logistics, not depth conversations with operators or founders.",
+        "suggestedAction": "Attend as participant, but prioritize the main AIE World's Fair program (Jun 29-Jul 1) for substantive sessions and hallway track. Use this NEO to build rapport with swyx and identify which main conference tracks will have highest-signal talks (e.g., shipping, production systems, builder stories).",
         "archetypeMatches": [
           "failed-founder",
           "ai-native-staff",
@@ -28,7 +28,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-06-08T16:47:02.191Z",
+      "scrapedAt": "2026-06-15T17:52:57.843Z",
       "verified": true
     },
     {
@@ -47,70 +47,126 @@
       "speakers": [],
       "score": {
         "fitScore": 72,
-        "reasoning": "Kevin Weil (OpenAI CPO, ex-Instagram/Twitter product lead) represents a rare operator who shipped at scale across AI-native and consumer platforms, but this is a public fireside chat format with limited depth-of-conversation potential. South Park Commons 'between things' demographic skews founder/operator, which is relevant; however, a 60-minute public panel is unlikely to surface candidates unless CAIS can secure a post-event intro.",
-        "suggestedAction": "attend as participant; position for 1:1 post-event if Kevin stays for networking. Alternatively, reach out to South Park Commons organizers for warm intro if follow-up dinner is planned.",
+        "reasoning": "Kevin Weil (ex-OpenAI CPO, ex-Instagram/Twitter product leader) represents a rare operator who has shipped production AI at scale and led cross-functional delivery of consumer-facing AI products (ChatGPT, Codex, API). South Park Commons' 'between things' demographic attracts founders and senior operators in transition—high likelihood he'll discuss lessons from scaling AI products and org challenges. Fireside chat format allows real dialogue on methodology and business impact.",
+        "suggestedAction": "attend as participant; position for 1-on-1 conversation during doors-open or post-event networking",
         "archetypeMatches": [
+          "ai-native-staff",
+          "consulting-lead"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-06-15T17:53:14.896Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1bdzffj",
+      "title": "How We Built It: LangSmith Engine (San Francisco)",
+      "url": "https://luma.com/6s09di41",
+      "hostSlug": "langchain",
+      "hostName": "LangChain",
+      "tier": 1,
+      "format": "talk",
+      "startDate": "2026-06-24T18:00:00.000-07:00",
+      "endDate": "2026-06-24T20:30:00.000-07:00",
+      "venue": "San Francisco, California",
+      "city": "San Francisco",
+      "description": "Join us for an evening in San Francisco with Ben Tannyhill (Product Manager @ LangChain) and Brendan Falk (CEO @ Hercules).\nMost teams can build agents. Far fewer have a system to improve them.\n\nIn this meetup, Ben Tannyhill will walk through LangSmith Engine — an agent that sits on top of your traces, identifies recurring failure patterns, and suggests concrete next steps. We'll cover the architecture decisions behind it and how teams use it to operationalize the agent improvement loop.\n\nThen, Brendan Falk will talk about the behind the scenes of improving the Hercules Harness.\n\nAgenda ⏰\n 6:00 PM: Welcome + Food/Drinks\n6:30 PM:  Presentation with Ben Tannyhill (LangChain) - How We Built it: LangSmith Engine\n6:50 PM: Q&A Session with Ben Tannyhill\n7:00 PM: Presentation with Brendan Falk (H",
+      "speakers": [],
+      "score": {
+        "fitScore": 62,
+        "reasoning": "LangChain is tier-1 AI-native, and the technical depth (agent architecture, observability systems, operationalization) aligns with production shipping. However, the format (public meetup with product PM + CEO guest) skews toward builders and founders rather than delivery leads, and the audience will likely be junior engineers. Ben Tannyhill (PM) is not a target archetype; Brendan Falk (CEO, Hercules) *could* be a failed/pivoted founder worth meeting, but no signals confirm wound-down status or delivery leadership experience.",
+        "suggestedAction": "Attend as participant; position for 1:1 with Brendan Falk post-talk if he shows delivery/operations leadership depth. Skip if time is limited and no pre-event warm intro to speakers is possible.",
+        "archetypeMatches": [
+          "failed-founder",
           "ai-native-staff"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-06-08T16:47:17.247Z",
+      "scrapedAt": "2026-06-15T17:53:04.870Z",
       "verified": true
     },
     {
-      "id": "evt_bll5k6",
-      "title": "⌘ + AI + Design: How to prompt like a designer",
-      "url": "https://luma.com/717techseries-sfdesignweek-aidesign",
+      "id": "evt_i0ehwf",
+      "title": "Compile 2026 Opening Party",
+      "url": "https://luma.com/88e4g1zi",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
-      "format": "hackathon",
-      "startDate": "2026-06-08T17:30:00.000-07:00",
-      "endDate": "2026-06-08T20:00:00.000-07:00",
+      "format": "other",
+      "startDate": "2026-06-15T18:00:00.000-07:00",
+      "endDate": "2026-06-15T21:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Every startup's product looks like it was designed by the same depressed robot 🙄\nMinimalist. Purple gradient buttons. A hero section that says \"The future of [blank] is here.\" You know what I'm talking about.\nIn this hands-on workshop, you'll learn from an ex-Dropbox, award-winning product designer (Kathy Wang) how to prompt like a designer.\nYou’ll walk away with:\n👉 𝗱𝗲𝘀𝗶𝗴𝗻 𝘀𝘁𝘆𝗹𝗲𝘀 𝘁𝗵𝗮𝘁 𝗰𝗼𝗻𝘃𝗲𝗿𝘁 (neo-brutalism, vaporwave, glassmorphism...heard of them?)\n👉 𝗺𝗲𝘁𝗮𝗽𝗿𝗼𝗺𝗽𝘁𝗶𝗻𝗴 𝗵𝗮𝗰𝗸𝘀 (design psychology, Nikita-Bier-style)\n👉 𝗿𝗮𝗽𝗶𝗱 𝗽𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗶𝗻𝗴 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 (the playbook Kathy used to win 2nd place at a Manus hackathon with 5 minutes of work)\nAfter all, your product should look like a human made it...not a depressed robot.\nKathy Wang is",
+      "description": "Presented by Cursor + PlanetScale\nJoin us on June 15th at the Argonaut Hotel as we kick off Compile 2026 together.\nWe’re bringing together founders, engineers, builders, and friends across the ecosystem for a relaxed evening by the waterfront with good conversations, cocktails, and community.\nDoors open at 6pm. We'll be serving light bites, desserts, and Café Cursor espresso martinis.\nWhether you’re in town for the conference or local to SF, we’d love to see you there.\nSpace is limited. RSVP required.",
       "speakers": [],
       "score": {
-        "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Apply as judge or mentor",
+        "fitScore": 62,
+        "reasoning": "Opening party for Compile 2026 (a developer conference) hosted by Cursor + PlanetScale targets founders and builders in the SF ecosystem. The venue and format (evening networking at Argonaut Hotel) create hallway-track potential, but the event is explicitly casual/social rather than structured around shipping or methodology—lower density than a technical talk or dinner with decision-makers.",
+        "suggestedAction": "attend as participant if RSVP can be secured; prioritize hallway conversations with founders or engineering leads from AI-native companies over the formal program",
         "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-06-08T16:47:34.732Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1viyyig",
-      "title": "Design Chat with Joel Lewenstein",
-      "url": "https://luma.com/joel-spc",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-08T16:30:00.000-07:00",
-      "endDate": "2026-06-08T18:00:00.000-07:00",
-      "venue": "San Francisco, California",
-      "city": "San Francisco",
-      "description": "South Park Commons is delighted to host Joel Lewenstein for our Design Chat series with Soleio.\nEvent Details\n4:30pm: Doors Open\n5pm-6pm: Design Chat\nJoel leads the design team at Anthropic, and previously worked at Airtable, Quora, and Hustle. Outside of work he's a self-published children's book author and amateur magician.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next—what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at",
-      "speakers": [],
-      "score": {
-        "fitScore": 52,
-        "reasoning": "Joel Lewenstein leads design at Anthropic (tier-1 AI-native firm), which signals access to an operator who understands production AI systems at scale. However, the event is a design-focused chat series rather than a delivery/architecture discussion, and his background is primarily design/product rather than delivery leadership or technical implementation.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [
+          "failed-founder",
           "ai-native-staff"
         ],
         "warmIntroNeeded": true,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-06-08T16:47:10.751Z",
+      "scrapedAt": "2026-06-15T17:53:32.193Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1s64yp9",
+      "title": "The fast lane",
+      "url": "https://luma.com/chalk-data26",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "meetup",
+      "startDate": "2026-06-15T17:00:00.000-07:00",
+      "endDate": "2026-06-15T20:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "The Fast Lane is Chalk's kickoff for teams that win on milliseconds. Same obsession as F1, different track.\nIn F1, the closest pole ever was decided by 0.002 seconds. The fastest pit stop in history is 1.80 seconds. Every car runs 300 sensors, firing 1.1 million data points per second, and the strategy is made in real time. The race is won on data. So is yours.\nPizza, cocktails, games, and the people building production agents and real-time ML on Chalk.\nOne RSVP, one entry.\nGrand prize: two tickets to the F1 Las Vegas Grand Prix from November 19-22, 2206. All three nights on the Strip: practice, qualifying, and the race.\nDrawing at 7pm. Must be in the room to win. Low key. No pitch. No badge scan. Steps from Moscone.\nRSVP to request your spot. Lights out and away we go.",
+      "speakers": [],
+      "score": {
+        "fitScore": 52,
+        "reasoning": "Bond AI / GenAI SF is a high-frequency, broad-audience aggregator; this particular event focuses on real-time ML and production agents (on-brand for CAIS), but the format is a casual kickoff with games and giveaways rather than structured operator dialogue. Low archetype density risk—audience skews toward early-stage builders and engineers rather than founders or consulting leads with delivery experience.",
+        "suggestedAction": "skip",
+        "archetypeMatches": [
+          "ai-native-staff"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-06-15T17:53:19.561Z",
+      "verified": true
+    },
+    {
+      "id": "evt_11yxr3r",
+      "title": "Voice AI Goes Global — A Panel on Multilingual & Multiregional Deployment",
+      "url": "https://luma.com/f4ge0txz",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-06-15T18:00:00.000-07:00",
+      "endDate": "2026-06-15T20:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "Voice AI is being deployed at global scale — but making it actually work across languages, accents, and real-world conditions is still an unsolved engineering problem.\nJoin Maitreya Wagh (Bolna, YC-backed), Sudarshan Kamath (Smallest.ai, Series A), and Viktor Presber (KugelAudio, YC-backed) for an unfiltered panel on what it takes to build voice AI that holds up in production — across India's multilingual landscape, Europe's enterprise stack, low-bandwidth environments, and the next wave of multiregional deployments.\nSpeakers\nSudarshan Kamath — Co-Founder, Smallest.ai Sudarshan Kamath (CEO) and Akshat Mandloi (CTO) are the co-founders of Smallest AI, with 10+ years of experience each in Speech and AI. They lead a world-class team of researchers from MIT, Cambridge, and Max Planck Institute",
+      "speakers": [],
+      "score": {
+        "fitScore": 52,
+        "reasoning": "Panel features YC founders (Bolna, KugelAudio) and Series A CEO with production voice AI experience, but format is passive listening with no engagement mechanism. Voice AI is a vertical, not delivery methodology—speakers lack signals of broader systems architecture, stakeholder management at scale, or consulting-style engagement leadership.",
+        "suggestedAction": "skip",
+        "archetypeMatches": [
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "llm"
+      },
+      "scrapedAt": "2026-06-15T17:53:21.778Z",
       "verified": true
     },
     {
@@ -128,8 +184,8 @@
       "description": "South Park Commons is delighted to host Sridhar Ramaswamy, CEO of Snowflake as part of our -1 to Now series.\nEvent Details\n3:30pm: Doors Open\n4:00-5:00pm: Fireside Chat\n\nSridhar Ramaswamy currently serves as Snowflake’s CEO. After joining Snowflake in May 2023 in connection with the company’s acquisition of Neeva, the world’s first private AI powered search engine, Ramaswamy spearheaded Snowflake’s AI strategy as SVP of AI. Prior to joining Snowflake, Ramaswamy co-founded Neeva in 2019. Prior to founding Neeva, Ramaswamy led Google’s core product, developer, data infrastructure and privacy divisions, as well as Google’s Advertising products, which included search, display and video advertising, analytics, shopping, payments, and travel. During his 15 years at Google he was an integral part",
       "speakers": [],
       "score": {
-        "fitScore": 52,
-        "reasoning": "Sridhar is a successful founder (Neeva) acquired into a major cloud platform, but he's now a public company CEO giving a fireside chat at a large public venue. This is executive positioning, not a working engineer or delivery lead in transition. South Park Commons' 'between things' demographic may surface some attendees, but the event format (CEO stage talk) and audience size don't create intimate executive networking conditions where CAIS could meaningfully screen for Head of Delivery archetype.",
+        "fitScore": 45,
+        "reasoning": "Sridhar is a founder-turned-executive (Neeva acquisition → Snowflake SVP → CEO), which signals founder credibility, but the event format is a large public fireside chat at a tier-2 venue with no hands-on shipping narrative tied to AI consulting or delivery methodology. Snowflake's AI strategy is data/infrastructure-focused, not agentic/LLM systems or production implementation consulting—misaligned with CAIS's core mandate.",
         "suggestedAction": "skip",
         "archetypeMatches": [
           "failed-founder"
@@ -137,138 +193,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-06-08T16:47:13.633Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1h8i321",
-      "title": "Scrappy AI Founders Play Soccer",
-      "url": "https://luma.com/ppab3gxi",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-06-08T18:00:00.000-07:00",
-      "endDate": "2026-06-08T20:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "12 Scrappy Founders - outdoor and endurance community for founders and investors the Bay Area.\n\nWhat is this? \n\n10 AI founders and investors play 5x5 soccer.\nThink an hour of running around, some friendly competition and drinks after.\n\nWho is it for?\nYou love sports, competition and meeting folks outside of dinner/mixer setting\nRaised pre-seed+ and/or post-revenue\nActively invest in pre-seed/seed stages\nBeginners welcome!\n\nWhere & When? \n\nJun 8 (Monday) | 6-7pm \nDrinks after the game.",
-      "speakers": [],
-      "score": {
-        "fitScore": 52,
-        "reasoning": "Bond AI / GenAI SF hosts founder-focused events at scale, but this particular gathering is primarily social/athletic rather than substantive. While it may surface pre-seed founders and early-stage investors, the format (soccer + drinks) offers minimal signal for production shipping experience, methodology, or technical depth—core signals for Head of Delivery fit. Better suited for early-stage networking than vetting operators.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:24.730Z",
-      "verified": true
-    },
-    {
-      "id": "evt_11mqa8x",
-      "title": "Beyond Text: Future of Voice AI",
-      "url": "https://luma.com/smallest-hpyc",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-08T17:00:00.000-07:00",
-      "endDate": "2026-06-08T20:00:00.000-07:00",
-      "venue": "Menlo Park, CA",
-      "city": "Menlo Park",
-      "description": "Join us for an evening of research talks with the people actually building voice AI — writing the papers, training the models, solving the problems the rest of the industry is still naming.\nSpeakers\nArjun Jain — Chief Scientist, Smallest.ai\nPhD from Max Planck Institute, worked with Turing Award winner Yann LeCun at NYU, Adjunct Faculty at IISc. His research spans generative AI, computer vision, and speech — with a long view on how multimodal architectures evolve from research to production.\nTalk: The Speech-to-Speech Landscape - Half-Duplex, Full-Duplex, and What It All Means. A researcher's worldview on where S2S models are today, how half and full-duplex architectures compare, and what the design choices actually imply for real conversational AI.\n\nSameer Khurana — Lead AI Researcher, Sm",
-      "speakers": [],
-      "score": {
-        "fitScore": 52,
-        "reasoning": "Voice AI research talks at a catch-all Lu.ma venue attract academics and junior builders, not seasoned delivery leads or failed founders. Arjun Jain's background is pure research (Max Planck, NYU with LeCun, faculty) with no visible production shipping or founder track record. The talk title ('landscape,' 'worldview') signals research framing, not hands-on implementation challenges.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:32.789Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1w03asi",
-      "title": "[Fireside Discussion] From Tokens to Robots",
-      "url": "https://luma.com/vla-night-panel",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-09T16:30:00.000-07:00",
-      "endDate": "2026-06-09T20:30:00.000-07:00",
-      "venue": "625 2nd St",
-      "city": "San Francisco",
-      "description": "From Tokens to Robots\nA fireside discussion on VLAs, robotics, and world models.\nWhat does it actually take to build systems that can see, understand, and act?\nThis event explores how developers and researchers can use web-scale data to power the next generation of vision, multimodal, and robotics applications. We’ll look at how teams are thinking about training data, data pipelines, and real-world use cases for Vision-Language-Action systems — and why access to the right data layer matters.\nExpect a fireside chat and capability showcase focused on what’s possible today, with concrete examples of how web data can support multimodal workflows. Rather than a hands-on workshop, this session is designed to help you understand the landscape, see example implementations, and leave with a clearer",
-      "speakers": [],
-      "score": {
-        "fitScore": 52,
-        "reasoning": "Fireside on VLAs and robotics attracts AI practitioners, but the focus on training data pipelines and web-scale data suggests a research/infrastructure tilt rather than production delivery leadership. The capability showcase format signals demo-oriented content; unclear if speakers include shipping leaders or consulting veterans who've solved multimodal systems in production.",
-        "suggestedAction": "attend as participant; use hallway track to identify speakers and ask about production deployment challenges they've solved",
-        "archetypeMatches": [
-          "ai-native-staff"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:36.958Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1tiy021",
-      "title": "ClawCamp Campfire: Get Your Agent Running + Obsidian Integration to View and Access Personal Data",
-      "url": "https://luma.com/clawcamp-weekly-6-8",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "meetup",
-      "startDate": "2026-06-08T18:00:00.000-07:00",
-      "endDate": "2026-06-08T21:00:00.000-07:00",
-      "venue": "Frontier Tower 🧑‍🚀",
-      "city": "San Francisco",
-      "description": "The OpenClaw movement is not just an evolution – it’s a revolution.\n🦞 Up-Level Your Personal Agent Superpowers\n\nAgenda for this ClawCamp Campfire:\nGetting Up and Running with Your Personal Agent\nObsidian Integration for Agent View and Access Personal Data\n\n📅 Schedule\n6-6:15PM: Welcome + IntrosSteven Echtman, Founder of Aiify.io, ClawCamp.us, HealthTechWeek.org\n6:15-6:30PM: Dave Nielsen, Advisor to ClawMax.ai & Head of DevRel of Cognee.ai\n6:30-6:45PM: Colin Lowenberg, DevlRel of Nebius\n6:45-7PM: Augmenting & Alignment: A2H, A2A, H2H with  Phillip Wessels, Platform Architect & Agentic Systems Builder\n7-7:15PM: Move to Breakout Sessions\n7:15- 8:45PM: Breakout Sessions\n8:45-9PM: Wrap Up and Networking\n\nSponsors\n\n\n\n🦞 About ClawCamp\nClawCamp is a community dedicated to advancing proficiency a",
-      "speakers": [],
-      "score": {
-        "fitScore": 48,
-        "reasoning": "This is a grassroots agentic systems meetup with decent speaker quality (Platform Architect from Nebius, DevRel from Cognee.ai) but heavily skewed toward developers learning agent frameworks rather than senior operators or failed founders. The Obsidian integration focus and 'personal agent superpowers' framing suggests an early-adopter builder crowd, not delivery leads or ex-founders evaluating production shipping decisions. Bond AI / GenAI SF is high-frequency, low-selectivity, and the 3-hour format dilutes signal density.",
-        "suggestedAction": "skip — or attend as silent observer if Phillip Wessels' agentic systems talk reveals depth in production architecture. Not a primary sourcing venue.",
-        "archetypeMatches": [
-          "ai-native-staff"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:22.620Z",
-      "verified": true
-    },
-    {
-      "id": "evt_12sod1",
-      "title": "Sci-Fi Reading + Movie Night Ep. II: The Expanse",
-      "url": "https://luma.com/scifinight2",
-      "hostSlug": "agi-house",
-      "hostName": "AGI House SF",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-06-10T19:00:00.000-07:00",
-      "endDate": "2026-06-10T23:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "We are so back.\nJoin us for an interactive Sci-Fi night, we're we read, analyze, and criticize the physics of some of the greatest Sci-Fi movies and Series of all time.\nUnwind in an intellectually and creatively stimulating setting.\n6-8 pm: Sci-Fi Reading with Candlelight and sci-fi soundtrack. We'll put out Sci-Fi masterpieces, but feel free to bring your own!\n8.15 pm: The Expanse, episodes 1 and 2 (\"Dulcinea\" and \"The Big Empty\") on a 100 inch flatscreen.\nClovis will give a presentation on the physical feasibiliy of technologies used!\nThis is the hardest science fiction ever put on screen: ships that flip and burn to slow down, gravity that comes from thrust and spin instead of movie magic, and combat that actually respects momentum and orbital mechanics.\nWe'll watch humanity spread acro",
-      "speakers": [],
-      "score": {
-        "fitScore": 35,
-        "reasoning": "While AGI House SF hosts relevant hackathons and attracts failed founders, this specific event is a sci-fi social/educational evening with no shipping, delivery, or business context. A physics presentation on fictional tech does not surface production AI leadership, methodology, or ROI articulation. Low probability of engaging target archetypes in meaningful conversation about real problems.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:04.071Z",
+      "scrapedAt": "2026-06-15T17:53:12.020Z",
       "verified": true
     },
     {
@@ -286,197 +211,72 @@
       "description": "South Park Commons is delighted to host co-founder of Guardant Health, Helmy Eltoukhy.\nEvent Details\n3:30pm: Doors Open\n4:00-5:00pm: Fireside Chat\n\nHelmy Eltoukhy is the co-founder and chairman of the Board of Directors for Guardant Health and has served as the company’s Co-Chief Executive Officer since August 2021. Prior to founding Guardant, Dr. Eltoukhy held various positions at Illumina, from August 2008 to December 2012, including Senior Director of Advanced Technology Research, where he developed novel chemistries, hardware and informatics for genetic analysis systems. In June 2007, he co-founded Avantome Inc. to commercialize semiconductor sequencing to help speed up the democratization of high throughput DNA sequencing and served as Chief Executive Officer until its acquisition by ",
       "speakers": [],
       "score": {
-        "fitScore": 35,
-        "reasoning": "Helmy Eltoukhy is a biotech founder, not AI-native or AI consulting. While he has deep technical/operations pedigree (Illumina, serial founder), Guardant Health is a diagnostics/oncology play with no agentic AI or LLM systems exposure. The audience skews biotech/life sciences, not AI systems practitioners.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:19.492Z",
-      "verified": true
-    },
-    {
-      "id": "evt_k3bn2b",
-      "title": "Reimagining Creative Work in the Age of AI w/ Emmett Shine",
-      "url": "https://luma.com/61aoo5la",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-09T17:00:00.000-07:00",
-      "endDate": "2026-06-09T19:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "New tools don't just speed up old work. In the right hands, they push boundaries and open a door to what didn’t exist before. Stranger, sharper, more specific. More human, not less.\nWhat can you make now that you couldn't a year ago? What happens when AI is thoughtfully integrated in the design process, not just used as a research tool? And since everyone is talking about taste, yes we’ll talk about that too.\nEmmett Shine has been sitting with these questions (and experimented the crap out of them.)\nOn this SF Design Week, Emmett will walk us through how he has pushed his creative work with AI, reshaped his studio’s process, share some recent case studies and talk about his point of view on brand & creativity in the age of AI.\n🤓 What you'll takeaway:\nA clearer picture of what AI-native cr",
-      "speakers": [],
-      "score": {
-        "fitScore": 35,
-        "reasoning": "Event focuses on creative AI integration and design thinking rather than production system delivery, shipping methodology, or stakeholder leadership. Emmett Shine's background is design/creative-focused, not engineering/delivery leadership—unlikely to surface failed founders, AI-native staff engineers, or consulting delivery leads with hard shipping track records.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:40.831Z",
-      "verified": true
-    },
-    {
-      "id": "evt_2j1jwj",
-      "title": "Banking on Startups: An Evening with Immad Akhund",
-      "url": "https://luma.com/immad",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-09T18:00:00.000-07:00",
-      "endDate": "2026-06-09T20:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Join us for an in-person evening with Immad Akhund, co-founder and CEO of Mercury, the banking* platform powering hundreds of thousands of startups and small businesses, and one of the more active angel investors in tech.\nOur portfolio manager Ankur Nagpal will sit down with Immad for a candid fireside chat on building Mercury from the ground up, what he's learned backing early-stage founders, and where he sees fintech and private markets heading next.\nUSVC is a regulated investment fund built by AngelList that aims to give retail and institutional investors exposure to some of the highest-growth private companies in the world, starting with as little as $500.\nThe current portfolio includes companies like Anthropic, OpenAI, xAI, Sierra, Vercel, Crusoe, and Legora. We also recently announce",
-      "speakers": [],
-      "score": {
-        "fitScore": 35,
-        "reasoning": "Immad Akhund is a fintech founder/CEO and angel investor, not an AI systems operator or delivery lead. The event focuses on banking infrastructure and early-stage investing, with no signal of production AI shipping, agentic systems, or consulting delivery methodology. Mercury is a fintech platform, not an AI consulting or implementation business.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:48.297Z",
-      "verified": true
-    },
-    {
-      "id": "evt_i4eahk",
-      "title": "Antidatasets with Morry Kolman",
-      "url": "https://luma.com/tiat-l5yd",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-09T19:00:00.000-07:00",
-      "endDate": "2026-06-09T20:00:00.000-07:00",
-      "venue": "tiat",
-      "city": "San Francisco",
-      "description": "Roll through Tiat on Tuesday for a lecture from Morry Kolman ahead of the opening of his installation “First Light” at the San Francisco Exploratorium!\nMorry Kolman (@WTTDOTM) is a multimedia artist coming to Tiat to debut a new talk about “antidatasets” and the art that can come from the byproducts, forgotten remnants, and blind spots (intentional or not) of data creation and capture. Tracing the concept through artistic interventions over the past century as well as Kolman’s own work with datasets like MNIST, star catalogs, and traffic camera listings, it will flesh out the concept of antidata and explore ways to deploy it in a practice. The talk will be followed by an informal Q&A and discussion, attendees are welcome to come with their own datasets or projects to show and workshop toge",
-      "speakers": [],
-      "score": {
         "fitScore": 32,
-        "reasoning": "This is an art-focused lecture on datasets and creative practice, not a business/delivery/shipping-focused event. While Morry Kolman has touched ML datasets (MNIST), the frame is artistic intervention and conceptual exploration, not production AI systems, delivery methodology, or consulting playbooks. No signals of founder networks, engineering leadership, or delivery expertise.",
+        "reasoning": "Helmy Eltoukhy is a successful founder (Guardant Health, public company) but his domain is genomics/sequencing, not AI/LLM systems. No signals in the description of agentic AI, production LLM work, or delivery methodology relevant to CAIS. The talk format (fireside chat) is also passive listening, not a networking or depth conversation environment.",
         "suggestedAction": "skip",
         "archetypeMatches": [],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-06-08T16:47:50.539Z",
+      "scrapedAt": "2026-06-15T17:53:16.965Z",
       "verified": true
     },
     {
-      "id": "evt_1dzi9ka",
-      "title": "Designing AI for Kids: What It Actually Takes",
-      "url": "https://luma.com/v2gu7zft",
+      "id": "evt_19pdj7n",
+      "title": "Taste of Asia 2026 - San Francisco",
+      "url": "https://luma.com/38ddve7c",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-09T17:30:00.000-07:00",
-      "endDate": "2026-06-09T20:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Join leaders in AI, education, and product design for a conversation about how to build AI learning experiences that kids genuinely trust.\nAs AI becomes more embedded in children’s learning and everyday lives, designers are facing a new set of questions: What makes AI feel emotionally safe for kids? How should children relate to AI characters? And how do we design experiences that support curiosity, confidence, and agency?\nThis panel brings together experts across learning design, child safety, character systems, and educational technology to discuss the future of AI-powered learning for children.\nStay afterward for a happy hour so the conversation can continue!\nModerator: Dr. Elizabeth Adams (Co-Founder and CXO, Ello)\nPanelists:\nPeter Cho (VP of Design, Brilliant.org)\nShu Lai (Head of Des",
+      "format": "conference",
+      "startDate": "2026-06-15T11:30:00.000-07:00",
+      "endDate": "2026-06-15T15:30:00.000-07:00",
+      "venue": "Shenzhen Bay Innovation Center",
+      "city": "Santa Clara",
+      "description": "Taste of Asia (TOA) San Francisco  【第八届北美餐饮行业峰会 - 旧金山场】 is a curated industry gathering bringing together Asian food & beverage brands, restaurant operators, distributors, investors, and ecosystem partners across North America.\nThe event combines focused content, meaningful conversations, and an in-person networking mixer, creating a space where real business connections happen beyond traditional expos. Attendees will gain firsthand insights into market trends, brand growth strategies, and cross-border opportunities, while connecting with decision-makers shaping the future of the Asian food industry.\nDesigned for founders, operators, and industry leaders, TOA SF is not a trade show — it’s a relationship-driven platform for collaboration, knowledge sharing, and long-term partnership buildin",
       "speakers": [],
       "score": {
-        "fitScore": 28,
-        "reasoning": "Event focuses on AI for children's education and emotional design—a consumer/EdTech vertical with no clear signals for production B2B AI shipping, consulting delivery methodology, or founder technical credibility. Panelists (Ello, Brilliant.org, design-focused roles) skew product/UX, not infrastructure, agentic systems, or enterprise delivery.",
+        "fitScore": 15,
+        "reasoning": "This is a food & beverage industry summit with zero relevance to AI, software, or technical delivery. The venue, content pillars (restaurant operators, distributors, Asian food brands), and networking focus are entirely orthogonal to sourcing for a Head of Delivery role at an AI consulting firm.",
         "suggestedAction": "skip",
         "archetypeMatches": [],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-06-08T16:47:43.200Z",
+      "scrapedAt": "2026-06-15T17:53:29.105Z",
       "verified": true
     },
     {
-      "id": "evt_1dl95j1",
-      "title": "Next.js Night SF",
-      "url": "https://luma.com/vercel-408x",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-06-09T17:30:00.000-07:00",
-      "endDate": "2026-06-09T20:00:00.000-07:00",
-      "venue": "The Melody of San Francisco",
-      "city": "San Francisco",
-      "description": "Join us for an evening with the Next.js team and the community!\n\nMeet Jimmy Lai, Head of Next.js, alongside Vercel team members for an inside look at what's new in Next.js for the age of AI and Agents.\nWhether you're shipping production apps or just getting started, come learn, ask questions, and connect with fellow developers building the future of the web.\nSchedule\n5:30 - 6:00 PM — Doors open, check-in\n6:00 - 6:15 PM — Jimmy Lai, Head of Next.js | What's new with Next.js 16.3\n6:15 - 6:30 PM — Andrew Clark, Engineer Next.js | Instant Navigations with Next.js\n6:30 - 6: 50 PM — Panel discussion with Jimmy Lai (Head of Next.js) and the Vercel team. \n6:50 - 8:00 PM — Networking & community hangout\n8:00 PM — Doors Close\nFood and drinks provided. Bring your questions, your projects, and your cu",
-      "speakers": [],
-      "score": {
-        "fitScore": 28,
-        "reasoning": "Next.js Night is a web framework developer event hosted by Vercel, focused on frontend tooling and web development patterns. While the description mentions 'AI and Agents,' the agenda centers on Next.js 16.3 features and navigation—not production AI systems, LLM integration, or agentic workflows. Attendees skew junior-to-mid frontend engineers, not the architect/lead/founder personas CAIS needs.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [],
-        "warmIntroNeeded": false,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:45.664Z",
-      "verified": true
-    },
-    {
-      "id": "evt_zng4fr",
-      "title": "The California Peptide Club III",
-      "url": "https://luma.com/californiapeptideclub3",
-      "hostSlug": "agi-house",
-      "hostName": "AGI House SF",
-      "tier": 2,
-      "format": "dinner",
-      "startDate": "2026-06-13T17:30:00.000-07:00",
-      "endDate": "2026-06-14T00:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "[Private Event. Access only when admitted]\nThe peptide moment is here.\n12 peptides were just administratively reclassified out of Category 2, and the PCAC advisory panel will review 7 more in July.\nEli Lilly is suing the FDA over whether retatrutide is a drug or a biologic, and the outcome will determine whether the next generation of peptides is ever accessible.\nAnd get to be right in the middle of it.\nAbout the California Peptide Club\nWe’re building the community out of AGI House SF in which frontier physicians, peptide researchers and high-perfomers take their health into their own hands.\nWe’re not a biohacking conference or a wellness club. We remove information asymmetry by educating on peptide protocols, risks, their history and science.\nLast time, we were 3x oversubscribed, so apply",
-      "speakers": [],
-      "score": {
-        "fitScore": 18,
-        "reasoning": "Event is focused on peptide biotech/longevity, not AI systems or consulting delivery. While AGI House SF hosts relevant hackathons, this specific event targets frontier physicians and biohackers with zero relevance to CAIS's AI implementation mandate. No signal for any archetype.",
-        "suggestedAction": "skip",
-        "archetypeMatches": [],
-        "warmIntroNeeded": true,
-        "scoringMethod": "llm"
-      },
-      "scrapedAt": "2026-06-08T16:47:05.888Z",
-      "verified": true
-    },
-    {
-      "id": "evt_cqhb9i",
-      "title": "“Diamond Diplomacy” Screening and Special Director’s Talk",
-      "url": "https://luma.com/c5sq3igl",
+      "id": "evt_bwgbho",
+      "title": "FALCON FANTASIA",
+      "url": "https://luma.com/u0fiw8ei",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-06-09T17:00:00.000-07:00",
-      "endDate": "2026-06-09T19:00:00.000-07:00",
-      "venue": "100 Larkin St",
+      "startDate": "2026-06-15T18:00:00.000-07:00",
+      "endDate": "2026-06-15T21:00:00.000-07:00",
+      "venue": "Kindred Studio",
       "city": "San Francisco",
-      "description": "Join us at the San Francisco Main Library for a screening of Diamond Diplomacy, directed by Yuriko Gamo Romer. This engaging documentary explores how baseball became a beloved sport in Japan despite complex political tensions with the United States.\nDiamond Diplomacy explores 150+ years of shared history between the United States and Japan through our shared love of baseball. Anchored by the stories of two former players—Japan’s Masanori “Mashi” Murakami and the USA’s Warren Cromartie—the film traces the evolution of a complex international relationship, touching on racism, diplomacy, and the unifying power of sports.\nThe screening will be followed by a special talk with director Yuriko Gamo Romer and executive producer Glen S. Fukushima.\nDate & Time:\n\nVenue:\n\nParking:\n\nAgenda:",
+      "description": "reconnect w human creativity.\nlive design + music set , baklava lattes, and a limited merch drop.\nif you tired of the \"AI this, AI that\"\nor the \"she raised x millies, he got y investors\"\nif you wana be in a space that encourages srs play\ncalling all CREATIVES\n[DESIGNERS, FILM, JEWLERY, ALL OF YA'LL]\n\nwe want you.\nyes YOU.\nY.O.U.\nto pull up on us on Monday to Falcon Fantasia\n\nwait what's a falcon?\nbefore that, what's an Ahmed? (you naturally asked, right?)\nthis is ahmed\n\nhe is the ceo of a design company called Falcon GX. he's here with his guys [Gabe, Haider, Suhail, Steven]\n(if you're from toronto, they don't speak guyanese but they're real guys)\nthey just publicly launched their product. they wana celebrate it with some new friends.\nthat's why we're giving out baklava lattes and we found",
       "speakers": [],
       "score": {
         "fitScore": 15,
-        "reasoning": "Documentary screening about baseball and US-Japan diplomacy has zero connection to AI, technical delivery, or startup/consulting ecosystems. Host is a generic Lu.ma catch-all with no AI focus. Venue and content are entirely orthogonal to CAIS sourcing.",
+        "reasoning": "This is a creative/design celebration event with no evident AI technical depth, production shipping narrative, or consulting/delivery leadership signals. The host (Falcon GX, a design company) and attendee profile (designers, filmmakers, creatives) are orthogonal to our target archetypes.",
         "suggestedAction": "skip",
         "archetypeMatches": [],
         "warmIntroNeeded": false,
         "scoringMethod": "llm"
       },
-      "scrapedAt": "2026-06-08T16:47:38.790Z",
+      "scrapedAt": "2026-06-15T17:53:34.256Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 20,
-    "eventsScored": 20,
+    "eventsFound": 12,
+    "eventsScored": 12,
     "failures": [
       {
         "sourceSlug": "the-residency",

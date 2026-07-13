@@ -1,34 +1,7 @@
 {
-  "generatedAt": "2026-07-06T16:17:01.844Z",
+  "generatedAt": "2026-07-13T15:41:05.034Z",
   "generatedBy": "weekly-refresh",
   "events": [
-    {
-      "id": "evt_19b9m9h",
-      "title": "SPC Post-Training Forum: Baseten",
-      "url": "https://luma.com/ucucuszh",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-07-09T14:00:00.000-07:00",
-      "endDate": "2026-07-09T15:00:00.000-07:00",
-      "venue": "San Francisco, California",
-      "city": "San Francisco",
-      "description": "More and more companies are opting to build their own models and agentic stacks rather than using off-the-shelf models as token spend explodes, the need for differentiation arises, and regulation for frontier AI grows more uncertain.\nJoin SPC's Post-Training Forum for a technical and product-focused conversation with former Parsed founding team members Charles O'Neill, Head of Model Training, and Harry Partridge, Research Scientist, at Baseten.  We'll talk about their vision for post-training and how that fits into a future that looks increasingly multi-model.\nWhen: Thursday, July 9, 2–3pm\nWhere: SPC SF\nModerated by Nick Mecklenburg (prev Microsoft Superintelligence) and Vatsal Bajaj (prev Netflix ML).\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated ",
-      "speakers": [],
-      "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-06T16:16:59.295Z",
-      "verified": true
-    },
     {
       "id": "evt_q43rhp",
       "title": "-1 to Guardant Health with Helmy Eltoukhy",
@@ -53,22 +26,105 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-06T16:16:59.559Z",
+      "scrapedAt": "2026-07-13T15:41:02.945Z",
       "verified": true
     },
     {
-      "id": "evt_jghabz",
-      "title": "Find your Co Founder",
-      "url": "https://luma.com/ruthht0e",
+      "id": "evt_m8lvgt",
+      "title": "Sports World Cup Hackathon",
+      "url": "https://luma.com/ai-pq8b",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-07-13T10:00:00.000-07:00",
+      "endDate": "2026-07-17T21:00:00.000-07:00",
+      "venue": "San Francisco",
+      "city": "San Francisco",
+      "description": "🏆 Sports World Cup Hackathon\nBuild the future of sports with AI, data, and technology.\nThe Sports World Cup Hackathon is a 5-day online hackathon where developers, designers, founders, and sports enthusiasts come together to build innovative products for the sports industry.\nParticipants will build online from July 13–1 on July 17, and the top finalist teams will be invited to present live in San Francisco to judges, sponsors, and the community.\nTracks\n🏃 Track 1: Athlete Performance & Coaching\nBuild tools that help athletes and coaches improve performance through AI, analytics, training, wearables, injury prevention, biomechanics, or video analysis.\n🎉 Track 2: Fan Experience & Engagement\nCreate products that enhance the fan experience through fantasy sports, social engagement, predictio",
+      "speakers": [],
+      "score": {
+        "fitScore": 80,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a hackathon. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Apply as judge or mentor",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-13T15:41:03.073Z",
+      "verified": true
+    },
+    {
+      "id": "evt_l83c5u",
+      "title": "Holo AI Night w/ NVIDIA & Black Forest Labs",
+      "url": "https://luma.com/o5xmousw",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-07-13T18:00:00.000-07:00",
+      "endDate": "2026-07-13T21:00:00.000-07:00",
+      "venue": "Ayoub & Kubein Building",
+      "city": "San Francisco",
+      "description": "⚡ Holo AI Night - SF Edition\nWe’re kicking off Holo AI Night, H Company's first technical meetup ever and it's happening in San Francisco!\nIt’s happening right after a weekend hackathon, where a bunch of builders will have been experimenting, prototyping, and shipping AI projects at speed.\nWe’ll keep it simple: a few short technical talks from top notch companies building real stuff, then plenty of time to hang out, eat, and chat.\n\nThe rundown\n6:00 – 6:30 PM | Doors open, drinks & arrivals\n6:30 – 6:45 PM | \"Dynamo for RL\" by Kyle Kranen from NVIDIA\n6:45 – 7:00 PM | \"The art of babysitting compute\" by Saksham Consul from Black Forest Labs\n7:00 – 7:15 PM | \"Computer Use Agents That Learn From Failures\" by Jules Belveze from H Company\n7:15 – 9:00 PM | Pizza, drinks & networking\n\nWhat to expec",
+      "speakers": [],
+      "score": {
+        "fitScore": 80,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a hackathon. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Apply as judge or mentor",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-13T15:41:03.257Z",
+      "verified": true
+    },
+    {
+      "id": "evt_gq81l7",
+      "title": "AI Philosophy Nights: Indifferent Intelligence",
+      "url": "https://luma.com/4esilsg5",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "dinner",
+      "startDate": "2026-07-14T18:30:00.000-07:00",
+      "endDate": "2026-07-14T21:30:00.000-07:00",
+      "venue": "San Francisco, California",
+      "city": "San Francisco",
+      "description": "Join us for the next edition of our monthly AI Philosophy Nights where we attempt communal sense-making.\nEach month, we bring together philosophers, historians, technologists, and social scientists for a high-level fireside chat, followed by small-group salon style discussions.\nThis session: Giving a Damn in the Age of Indifferent Intelligence\nThe problem with artificial intelligence, as our guest puts it, is that computers don't give a damn. Machines can now write, converse, and optimize but they cannot care. And as AI systems take over more of our work and cater ever more precisely to our preferences, the deeper risk is the slow erosion of our capacity to care, to commit, and to find things worth wanting in the first place.\nIn this session, our founder Banu Kellner sits down with B. Scot",
+      "speakers": [],
+      "score": {
+        "fitScore": 76,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a dinner. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Request warm intro",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": true,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-13T15:41:04.657Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1voo9iz",
+      "title": "All-In: A Founders' Poker Night",
+      "url": "https://luma.com/leverage-yl7l",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-07-06T17:00:00.000-07:00",
-      "endDate": "2026-07-06T20:00:00.000-07:00",
-      "venue": "Homebrew Club",
+      "startDate": "2026-07-13T19:00:00.000-07:00",
+      "endDate": "2026-07-13T23:00:00.000-07:00",
       "city": "San Francisco",
-      "description": "Building something ambitious starts with finding the right person. Whether you're a technical founder looking for a business partner, a non-technical founder searching for an engineer, or simply exploring your next startup idea, this event is designed to help you make meaningful connections.\nJoin a curated community of entrepreneurs, builders, designers, engineers, operators, researchers, and investors for an evening of networking and founder matching.\nWhat to expect:\n🎤 Quick introductions and founder pitches\n🤝 Structured networking and co-founder matching\n💡 Discussions around startup ideas and problem spaces\n🚀 Opportunities to meet potential collaborators for your next venture\nCome with an idea, a skill set, or simply curiosity. You don't need a startup or a pitch deck—just an interes",
+      "description": "Poker is the founder's game for a reason. Read the table, manage the risk, push when the odds are yours. The same instincts you run a company on.\nOn Monday, July 13 in San Francisco, we're opening the summer with a founders' poker night, hosted with ChargeBee and e2.vc at the e2.vc office. Cards, chips, and a room of people building hard things.\nThis one is for founders and early operators. 30 to 50 people, no panels, no pitches. Just a real night with the kind of company you want around a table at 10pm.\nBring your read. We'll bring the chips, the drinks, and the room.\nSeats are limited. Request yours below.",
       "speakers": [],
       "score": {
         "fitScore": 70,
@@ -81,27 +137,27 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-06T16:16:59.760Z",
+      "scrapedAt": "2026-07-13T15:41:03.390Z",
       "verified": true
     },
     {
-      "id": "evt_1t5p39s",
-      "title": "HackwithBay 3.0",
-      "url": "https://luma.com/sv61aqlg",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
+      "id": "evt_15adnfi",
+      "title": "9030 club reading \"Qwen Agent World\": #60 - ML Paper Reading Group",
+      "url": "https://luma.com/a17esobq",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
       "tier": 2,
-      "format": "hackathon",
-      "startDate": "2026-07-07T09:30:00.000-07:00",
-      "endDate": "2026-07-07T18:30:00.000-07:00",
-      "venue": "AWS Builder Loft",
+      "format": "other",
+      "startDate": "2026-07-13T19:00:00.000-07:00",
+      "endDate": "2026-07-13T21:00:00.000-07:00",
+      "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "🎉 HackwithBay 3.0 – 8-Hour Hackathon at AWS Builder Loft, SF 🎉\nJoin us for HackwithBay 3.0, an electrifying 8-hour hackathon bringing together the brightest minds in tech, creativity, and innovation — all under one roof at the iconic AWS Builder Loft in San Fransisco!\n🚀 Whether you're a seasoned hacker, a budding coder, a design wizard, or an idea machine, HackwithBay 2.0 is your chance to build, learn, and connect with the most passionate problem-solvers in the city.\n🗓️ Event Details\nWhen: 09:30 AM – 7:00 PM, 07th July 2026\nWhere: AWS Builder Loft\nTheme: Thoughtful Agents for Productivity\n💡 What to Expect:\nHigh-energy hacking sessions\nChallenges that push you to build impactful products\nSwag, snacks & networking\nExpert mentorship\nExciting prizes for top teams\nA chance to demo your pr",
+      "description": "☕️📝 Paper Link 📝☕️\nhttps://arxiv.org/pdf/2606.24597\nAbstract: Qwen-AgentWorld introduces a new class of language world models designed to simulate how environments respond to an agent's actions, enabling agents to reason about future states before interacting with the real world. Rather than focusing solely on decision-making, the framework teaches language models to predict state transitions across seven interactive domains, including software engineering, terminal environments, web browsing, operating systems, Android, search, and MCP tool use, using over 10 million real interaction trajectories. The paper presents a three-stage training pipeline (continual pre-training, supervised fine-tuning, and reinforcement learning) alongside AgentWorldBench, a benchmark for evaluating simulation",
       "speakers": [],
       "score": {
         "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Apply as judge or mentor",
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
           "failed-founder"
@@ -109,22 +165,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-06T16:16:59.908Z",
+      "scrapedAt": "2026-07-13T15:41:03.517Z",
       "verified": true
     },
     {
-      "id": "evt_1qp2r43",
-      "title": "O1 Strategy and Fireside",
-      "url": "https://luma.com/bzfdiv3p",
+      "id": "evt_saold5",
+      "title": "Rethinking Token Economics: A Conversation with Deedy Das (Menlo Ventures) & Shashank Goyal (OpenRouter)",
+      "url": "https://luma.com/openro-kwy3",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "talk",
-      "startDate": "2026-07-08T18:00:00.000-07:00",
-      "endDate": "2026-07-08T20:30:00.000-07:00",
-      "venue": "AngelList",
+      "startDate": "2026-07-14T17:30:00.000-07:00",
+      "endDate": "2026-07-14T20:30:00.000-07:00",
+      "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Thinking about applying for an O-1 visa as a founder, builder, researcher, engineer, or community leader? Join us for an evening focused on understanding the O-1 pathway, building a strong profile, and connecting with others pursuing similar goals.\nWhether you're early in your journey or actively preparing an application, our guest speaker, Karishma Mandal, will share practical strategies for navigating the O-1 process, strengthening your application, and positioning your work for long-term success.\nCheck out and build a personal O1 strategy with: https://o1assist.com/\nAgenda\n6:00 PM – 6:30 PM\nWelcome & Introductions\n6:30 PM – 7:30 PM\nO-1 Visa Strategy Talk with Karishma Mandal\n7:30 PM – 8:30 PM\nNetworking, Q&A, and Fireside Chat\nWho Should Attend?\nStartup founders and entrepreneurs\nSoftwa",
+      "description": "Every model choice is a bet. It shouldn't be a blind one.\nJoin us for a fireside conversation with Deedy Das, Partner at Menlo Ventures, and Shashank Goyal, Founding Engineer & Head of Provider Ecosystem at OpenRouter, on how to make smarter model decisions. Drawing on investments across the AI infrastructure stack and insights from 750T+ tokens routed across every major model and provider, they’ll explore what matters beyond benchmarks.\nWhen frontier models are worth it. When smaller models quietly win. Why token efficiency is becoming a real competitive advantage - and what it means for latency, reliability, and your margins.\n\nPlenty of time for audience questions - we want this to be a conversation, not a presentation.\n\nAnd yes, we'll be meeting at the top of Salesforce Tower, with 360-",
       "speakers": [],
       "score": {
         "fitScore": 68,
@@ -137,26 +193,82 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-06T16:17:00.379Z",
+      "scrapedAt": "2026-07-13T15:41:03.979Z",
       "verified": true
     },
     {
-      "id": "evt_4260pi",
-      "title": "Open Tab № 02",
-      "url": "https://luma.com/opentab002",
+      "id": "evt_asox1l",
+      "title": "THE SF DATABASE MEETUP",
+      "url": "https://luma.com/5yqbakgz",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
-      "format": "talk",
-      "startDate": "2026-07-08T18:00:00.000-07:00",
-      "endDate": "2026-07-08T21:00:00.000-07:00",
+      "format": "meetup",
+      "startDate": "2026-07-14T17:30:00.000-07:00",
+      "endDate": "2026-07-14T20:00:00.000-07:00",
+      "venue": "PlanetScale",
+      "city": "San Francisco",
+      "description": "Join us for PlanetScale’s first SF database meetup! We’ll be joined by Ovais Tariq for an in depth on his conversation building and scaling database systems at Uber and now at Tigris Data.\nThis will be an in depth conversation covering the tradeoffs between MySQL and MyRocks, performing migrations at Uber scale between engines, the challenges of moving data between regions at a global scale and more.\nSchedule:\n5:30 - 6:00: Doors Open and Networking\n6:00 - 7:15: Ovais Tariq Panel\n7:15 - 7:30: Questions\n7:30 - 8:00: Networking\nCan’t make this one? Sign up here to learn about future events 🎉",
+      "speakers": [],
+      "score": {
+        "fitScore": 64,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-13T15:41:04.334Z",
+      "verified": true
+    },
+    {
+      "id": "evt_4js0bp",
+      "title": "Show & Tell: AI for GTM @Notion with Baseten, Cognition and Samsara",
+      "url": "https://luma.com/b8ie1m1s",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-07-14T18:00:00.000-07:00",
+      "endDate": "2026-07-14T21:00:00.000-07:00",
+      "venue": "Notion HQ",
+      "city": "San Francisco",
+      "description": "We've all been to the AI events. The panels. The hot takes. The \"we're exploring AI\" platitudes. Everyone's talking — almost nobody is showing.\nThis is the opposite of that.\nShow & Tell: AI for GTM is a demo-only event for go-to-market teams actually building with AI. No slides. No pitches. No thought leadership. Just practitioners opening up their laptops and walking you through the workflows they've built — the ones they use at work, every day.\nWe're bringing together 5–6 GTM operators and engineers who will each demo a real AI-powered workflow live: how they set it up, why they built it, what it actually does, and what they'd do differently. Expect to see real tools, real data flows, and real results — not a product pitch dressed up as a case study.\nSubmit a proposal: https://forms.gle/",
+      "speakers": [],
+      "score": {
+        "fitScore": 60,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-13T15:41:04.512Z",
+      "verified": true
+    },
+    {
+      "id": "evt_h3zvil",
+      "title": "late night creating cafe w/ Krea",
+      "url": "https://luma.com/Kreacafe",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-07-14T19:00:00.000-07:00",
+      "endDate": "2026-07-14T22:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "The tools got easier. The thinking didn't.\nMeridian's open tab is a short-form talk series where designers share what they're exploring outside of work— a side project, a craft obsession, a question they're chewing on, something with no deliverable attached. Decks welcome, polish optional.\nThree speakers. 10 minutes each. Then the room.\n\nJuly's lineup\nOmar Mohammad, design and research at CAMEL • A windmill, earth mosque(s), a minaret, an airport, and a village: indigenous and vernacular architecture in Afghanistan\nEric Howard, co-founder of Direct Message, Hyperdeck, and Hard Objects • The Magic Button: Design in an era of extreme automation\nMichelle Chang, founder of Seafoam Studio • DaaS (dance as a service), Using service design to create joy through movement\nProgram\n- 6:30pm doors ope",
+      "description": "training LoRAs on Krea 2 at our late night gallery / cafe.\n\nthis is a late session for learning how to train a LoRA on a specific style, object, or character on top of Krea 2, a new foundation image model, with friends old and new. we'll share n tell our creations at the end :~)\n\nwe'll also have matcha from elsewhere! the first 30 get a matcha on us <3\n\n++++\n\nKrea AI is an AI creative suite that allows users to generate and edit images, videos, and 3D assets using generative AI. It brings together multiple cutting-edge AI models into a single platform, eliminating the need to juggle different applications.\n\nKrea 2 is a foundation image model trained from scratch to give teams full control over the look, feel, and creative direction of every image they produce, and it's built to be an excep",
       "speakers": [],
       "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "fitScore": 60,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -165,22 +277,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-06T16:17:00.633Z",
+      "scrapedAt": "2026-07-13T15:41:04.890Z",
       "verified": true
     },
     {
-      "id": "evt_cqz13q",
-      "title": "Punk Software Hack Night: Build Tools That Work for You",
-      "url": "https://luma.com/e494jmrl",
+      "id": "evt_1vc9xqz",
+      "title": "Poker Night",
+      "url": "https://luma.com/gs5lwsmn",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-07-07T17:30:00.000-07:00",
-      "endDate": "2026-07-07T21:00:00.000-07:00",
+      "startDate": "2026-07-14T19:00:00.000-07:00",
+      "endDate": "2026-07-14T23:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Software used to be a tool you owned. Now it's mostly something that's done to you: apps that harvest your data, platforms that lock you in, feeds designed to monetize the gap between your intentions and your attention. Punk software is the alternative. Software that's loyal to you. Tools you build, own, understand, and can change.\nAs Kanjun Qiu, Imbue CEO, puts it: “You don’t have to wait for policymakers anymore, because cheap AI coding means you can now choose, build, and tear down the software in your own life.”\nThis hack night is for anyone who’s unhappy with the way tech and AI is going and wants to do something about it. You do not need to be a programmer; we'll teach you how to use AI tools. Come if you code, design, write, organize, research, make spreadsheets, break workflows, ha",
+      "description": "Join us for a relaxed Poker Night with bites, drinks, and professional dealers to keep the games moving. All experience levels are welcome! Texas Hold'em style tournament, payout to top 3 at the end of the night, buy-in $25.\nLocation upon RSVP. Marina, San Francisco.\nHosted by Adverb Ventures + Known Swipeless Dating.",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -193,183 +305,15 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-06T16:17:00.066Z",
-      "verified": true
-    },
-    {
-      "id": "evt_aqsqcj",
-      "title": "Andera x Reducto: GeoGuessr Olympics",
-      "url": "https://luma.com/xso9g6fr",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-07T18:30:00.000-07:00",
-      "endDate": "2026-07-07T22:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Can you spot a random street corner in rural Finland from a Google Street View image?\nProve it at the Reducto x Andera GeoGuessr Olympics!\n⏰ Tuesday, 07/07, 6:30 PM\nCome for a night of competitive fun, food around the world, and surprises along the way.\nSpots are limited. RSVP NOW!\n\nAndera is building the AI-native platform that automates internal audit end-to-end. \n\nReducto is the complete agentic document platform for leading AI teams needing performance at enterprise scale.",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-06T16:17:00.226Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1tz2tcl",
-      "title": "The Epic of… Will O'Brien (Ulysses)",
-      "url": "https://luma.com/sv79uxnf",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-08T18:00:00.000-07:00",
-      "endDate": "2026-07-08T21:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "We're kicking off a new monthly series. The concept is simple: we put a founder who's building something straight out of a sci-fi novel on stage, break down their grand vision, and let a live crowd decide if it actually holds water.\nOur first guest is Will O'Brien, co-founder of Ulysses. They build cheap, autonomous ocean robots. They’re starting off by restoring seagrass meadows (which trap carbon faster than rainforests), but the plan is to tackle any part of the ocean economy that still relies on expensive human crews. They’ve already got real revenue, five generations of vehicles, and they name their robots after sea monsters. The company is literally called Ulysses, so the epic branding writes itself.\nThe format is a live narrative stress-test. We'll spend 45 minutes with Will unpacki",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-06T16:17:00.872Z",
-      "verified": true
-    },
-    {
-      "id": "evt_7fu4b4",
-      "title": "cherry presents: \"for the eldest daughters only\" walk",
-      "url": "https://luma.com/p8vl0pqz",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-08T19:00:00.000-07:00",
-      "endDate": "2026-07-08T20:30:00.000-07:00",
-      "venue": "Little Marina Green Picnic Area",
-      "city": "San Francisco",
-      "description": "Our first eldest daughters event completely blew up with HUNDREDS of women on the waitlist. It clearly struck a chord, which told us everything we needed to know.\nSo, we're opening it up to all eldest daughters in SF! No cap, no list to get off of. Just come as you are <3\nWe'll kick things off with a few low-key exercises so you can actually meet the people around you (no awkward name-tag energy, promise) — and then we will collectively swarm the San Francisco Bay Trail in droves at sunset walk along the water. It may be the most powerful walk in Bay Area history...\nHere's what to bring:\n👯 A fellow eldest daughter friend (or come solo and make one)\n🫶 Yourself, exactly as you are\nThat's it. I genuinely can't wait to meet my kindred spirits in person! Already counting down the days!\nCan't ",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-06T16:17:01.136Z",
-      "verified": true
-    },
-    {
-      "id": "evt_zjgch9",
-      "title": "Market of the Future",
-      "url": "https://luma.com/future-market-sf",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-08T19:00:00.000-07:00",
-      "endDate": "2026-07-08T22:00:00.000-07:00",
-      "venue": "The Nook",
-      "city": "San Francisco",
-      "description": "⚡️The SF Market of the Future\nOverview\nIn 50 years, how will you find food, clothing, art, and friends? In an age of rising inequality, AI disruption, climate change, and loneliness, we need to explore new ways to support each other.\nThe Market of the Future is a goods marketplace, social experiment, community convening, and rebellion against dystopia! We are bringing together businesses and community groups who are already building a better future, one based on solidarity, sustainability, and reciprocity.\nWhat to Expect\nNo money allowed! All participants should bring an offering to the market. Your community will provide for you in return.\nThere will be:\nFood & Drinks from Arizmendi, Rainbow Grocery, and Panchita's Pupuseria\nClothes, Books & Other Goods from Strange Exchange, SF Public Li",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-06T16:17:01.289Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1qmh15t",
-      "title": "Rhythm AI",
-      "url": "https://luma.com/RhythmAI",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-08T19:00:00.000-07:00",
-      "endDate": "2026-07-08T20:00:00.000-07:00",
-      "venue": "tiat",
-      "city": "San Francisco",
-      "description": "Rhythm AI is an artwork performed by a large language model (LLM) embodied on 5 iPads. For the performance, the audience is invited to physically engage with the LLM however they desire using any of the objects provided to them, for example: a flower, a hammer, a feather, chains, a taser. This re-performance of Marina Abramovic’s, Rhythm 0 (1974) considers the ways in which agentic AI problematizes and necessitates a return to issues surrounding gender, violence, and objectification.\nPerformed by Angelina Almukhametova and Dann Disciglio\nAngelina Almukhametova (b. Kazan, Russia) is a US-based artist whose work investigates cybernetics and techno-culture through digital and analog technologies set in conversation with each other. Her works are indeterminate systems that manifest as performa",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-06T16:17:01.459Z",
-      "verified": true
-    },
-    {
-      "id": "evt_lcnbc8",
-      "title": "San Francisco, Uncovered: Things Born in SF",
-      "url": "https://luma.com/uig1fhsv",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-08T19:00:00.000-07:00",
-      "endDate": "2026-07-08T21:00:00.000-07:00",
-      "venue": "The Faight Collective",
-      "city": "San Francisco",
-      "description": "🌉 Some of America's most surprising firsts happened in San Francisco.\nLong before Silicon Valley, San Francisco was shaping the world in unexpected ways. The city's streets hold the stories behind everything from the martini and the first underground parking garage to the founding of the United Nations and the birth of topless dancing. Yet most of these stories are hiding in plain sight.\nIn this lecture, Hannah Blazei, journalist, KPIX News editor, and creator of Good Stories San Francisco, uncovers the stories behind some of San Francisco's most iconic things. She brings to life the people, moments, and unlikely events that helped make San Francisco unlike anywhere else in the world.\nOne story is still unwritten... because you'll choose it! Before the lecture, we'll ask our community wha",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-06T16:17:01.843Z",
+      "scrapedAt": "2026-07-13T15:41:05.034Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 15,
-    "eventsScored": 15,
+    "eventsFound": 14,
+    "eventsScored": 14,
     "failures": [
       {
         "sourceSlug": "the-residency",

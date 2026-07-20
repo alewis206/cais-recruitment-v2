@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:41:05.034Z",
+  "generatedAt": "2026-07-20T15:07:04.216Z",
   "generatedBy": "weekly-refresh",
   "events": [
     {
@@ -26,78 +26,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-13T15:41:02.945Z",
+      "scrapedAt": "2026-07-20T15:07:03.880Z",
       "verified": true
     },
     {
-      "id": "evt_m8lvgt",
-      "title": "Sports World Cup Hackathon",
-      "url": "https://luma.com/ai-pq8b",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "hackathon",
-      "startDate": "2026-07-13T10:00:00.000-07:00",
-      "endDate": "2026-07-17T21:00:00.000-07:00",
-      "venue": "San Francisco",
-      "city": "San Francisco",
-      "description": "🏆 Sports World Cup Hackathon\nBuild the future of sports with AI, data, and technology.\nThe Sports World Cup Hackathon is a 5-day online hackathon where developers, designers, founders, and sports enthusiasts come together to build innovative products for the sports industry.\nParticipants will build online from July 13–1 on July 17, and the top finalist teams will be invited to present live in San Francisco to judges, sponsors, and the community.\nTracks\n🏃 Track 1: Athlete Performance & Coaching\nBuild tools that help athletes and coaches improve performance through AI, analytics, training, wearables, injury prevention, biomechanics, or video analysis.\n🎉 Track 2: Fan Experience & Engagement\nCreate products that enhance the fan experience through fantasy sports, social engagement, predictio",
-      "speakers": [],
-      "score": {
-        "fitScore": 80,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a hackathon. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Apply as judge or mentor",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-13T15:41:03.073Z",
-      "verified": true
-    },
-    {
-      "id": "evt_l83c5u",
-      "title": "Holo AI Night w/ NVIDIA & Black Forest Labs",
-      "url": "https://luma.com/o5xmousw",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "hackathon",
-      "startDate": "2026-07-13T18:00:00.000-07:00",
-      "endDate": "2026-07-13T21:00:00.000-07:00",
-      "venue": "Ayoub & Kubein Building",
-      "city": "San Francisco",
-      "description": "⚡ Holo AI Night - SF Edition\nWe’re kicking off Holo AI Night, H Company's first technical meetup ever and it's happening in San Francisco!\nIt’s happening right after a weekend hackathon, where a bunch of builders will have been experimenting, prototyping, and shipping AI projects at speed.\nWe’ll keep it simple: a few short technical talks from top notch companies building real stuff, then plenty of time to hang out, eat, and chat.\n\nThe rundown\n6:00 – 6:30 PM | Doors open, drinks & arrivals\n6:30 – 6:45 PM | \"Dynamo for RL\" by Kyle Kranen from NVIDIA\n6:45 – 7:00 PM | \"The art of babysitting compute\" by Saksham Consul from Black Forest Labs\n7:00 – 7:15 PM | \"Computer Use Agents That Learn From Failures\" by Jules Belveze from H Company\n7:15 – 9:00 PM | Pizza, drinks & networking\n\nWhat to expec",
-      "speakers": [],
-      "score": {
-        "fitScore": 80,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a hackathon. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Apply as judge or mentor",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-13T15:41:03.257Z",
-      "verified": true
-    },
-    {
-      "id": "evt_gq81l7",
-      "title": "AI Philosophy Nights: Indifferent Intelligence",
-      "url": "https://luma.com/4esilsg5",
+      "id": "evt_1if7s7r",
+      "title": "Italian Dinner & Founder Mash Up",
+      "url": "https://luma.com/olpuh9ir",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "dinner",
-      "startDate": "2026-07-14T18:30:00.000-07:00",
-      "endDate": "2026-07-14T21:30:00.000-07:00",
-      "venue": "San Francisco, California",
+      "startDate": "2026-07-20T18:30:00.000-07:00",
+      "endDate": "2026-07-20T21:00:00.000-07:00",
+      "venue": "1153 Bush St",
       "city": "San Francisco",
-      "description": "Join us for the next edition of our monthly AI Philosophy Nights where we attempt communal sense-making.\nEach month, we bring together philosophers, historians, technologists, and social scientists for a high-level fireside chat, followed by small-group salon style discussions.\nThis session: Giving a Damn in the Age of Indifferent Intelligence\nThe problem with artificial intelligence, as our guest puts it, is that computers don't give a damn. Machines can now write, converse, and optimize but they cannot care. And as AI systems take over more of our work and cater ever more precisely to our preferences, the deeper risk is the slow erosion of our capacity to care, to commit, and to find things worth wanting in the first place.\nIn this session, our founder Banu Kellner sits down with B. Scot",
+      "description": "Italian Dinner at The Residency!\nEnjoy fresh Carbonara, Cacio e Pepe, Pasta with Ragu alla bolognese, and Tiramisu, made by Jules and Co.\nAll welcome.",
       "speakers": [],
       "score": {
         "fitScore": 76,
@@ -110,21 +54,22 @@
         "warmIntroNeeded": true,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-13T15:41:04.657Z",
+      "scrapedAt": "2026-07-20T15:07:04.216Z",
       "verified": true
     },
     {
-      "id": "evt_1voo9iz",
-      "title": "All-In: A Founders' Poker Night",
-      "url": "https://luma.com/leverage-yl7l",
+      "id": "evt_mcc5w2",
+      "title": "Startup Workflows Art Gallery with Portal & Persona",
+      "url": "https://luma.com/artgallery",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-07-13T19:00:00.000-07:00",
-      "endDate": "2026-07-13T23:00:00.000-07:00",
+      "startDate": "2026-07-20T17:30:00.000-07:00",
+      "endDate": "2026-07-20T20:30:00.000-07:00",
+      "venue": "50 Beale St",
       "city": "San Francisco",
-      "description": "Poker is the founder's game for a reason. Read the table, manage the risk, push when the odds are yours. The same instincts you run a company on.\nOn Monday, July 13 in San Francisco, we're opening the summer with a founders' poker night, hosted with ChargeBee and e2.vc at the e2.vc office. Cards, chips, and a room of people building hard things.\nThis one is for founders and early operators. 30 to 50 people, no panels, no pitches. Just a real night with the kind of company you want around a table at 10pm.\nBring your read. We'll bring the chips, the drinks, and the room.\nSeats are limited. Request yours below.",
+      "description": "Note: Registration is required and subject to approval. This is not a walk-in event, only folks who are approved on the Luma by Friday 7/17 can attend. Building security requires every attendee’s full name and email in advance, and all guests must present a valid ID.\n\nAt most startup events, you watch founders pitch, nod along, and maybe scan a landing page later.\nAt Startup Workflows Art Gallery, every featured product is something you can actually try.\nOur Partners:\n- Simular (simular.ai): Your computer, now autonomous.\n- Janet AI (janet.ai): The autonomous product management system. Janet listens to all your information channels, to auto-capture and update your task board 24/7. Janet AI is backed by Y Combinator, Formosa Capital, Paul Graham, Charles Ferguson, and others.\n- Plain (plain",
       "speakers": [],
       "score": {
         "fitScore": 70,
@@ -137,27 +82,27 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-13T15:41:03.390Z",
+      "scrapedAt": "2026-07-20T15:07:03.946Z",
       "verified": true
     },
     {
-      "id": "evt_15adnfi",
-      "title": "9030 club reading \"Qwen Agent World\": #60 - ML Paper Reading Group",
-      "url": "https://luma.com/a17esobq",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
+      "id": "evt_1dmp06e",
+      "title": "How to prompt like a designer.",
+      "url": "https://luma.com/dx7dbdxv",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-13T19:00:00.000-07:00",
-      "endDate": "2026-07-13T21:00:00.000-07:00",
+      "format": "hackathon",
+      "startDate": "2026-07-20T18:30:00.000-07:00",
+      "endDate": "2026-07-20T21:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "☕️📝 Paper Link 📝☕️\nhttps://arxiv.org/pdf/2606.24597\nAbstract: Qwen-AgentWorld introduces a new class of language world models designed to simulate how environments respond to an agent's actions, enabling agents to reason about future states before interacting with the real world. Rather than focusing solely on decision-making, the framework teaches language models to predict state transitions across seven interactive domains, including software engineering, terminal environments, web browsing, operating systems, Android, search, and MCP tool use, using over 10 million real interaction trajectories. The paper presents a three-stage training pipeline (continual pre-training, supervised fine-tuning, and reinforcement learning) alongside AgentWorldBench, a benchmark for evaluating simulation",
+      "description": "Every startup's product looks like it was designed by the same depressed robot 🙄\nMinimalist. Purple gradient buttons. A hero section that says \"The future of [blank] is here.\" You know what I'm talking about.\nIn this hands-on workshop, you'll learn from an ex-Dropbox, award-winning product designer (Kathy Wang) how to prompt like a designer.\nYou’ll walk away with:\n👉 𝗱𝗲𝘀𝗶𝗴𝗻 𝘀𝘁𝘆𝗹𝗲𝘀 𝘁𝗵𝗮𝘁 𝗰𝗼𝗻𝘃𝗲𝗿𝘁 (neo-brutalism, vaporwave, glassmorphism...heard of them?)\n👉 𝗺𝗲𝘁𝗮𝗽𝗿𝗼𝗺𝗽𝘁𝗶𝗻𝗴 𝗵𝗮𝗰𝗸𝘀 (design psychology, Nikita-Bier-style)\n👉 𝗿𝗮𝗽𝗶𝗱 𝗽𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗶𝗻𝗴 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 (the playbook Kathy used to win 2nd place at a Manus hackathon with 5 minutes of work)\nAfter all, your product should look like a human made it...not a depressed robot.\nThis is not a",
       "speakers": [],
       "score": {
         "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Apply as judge or mentor",
         "archetypeMatches": [
           "ai-native-staff",
           "failed-founder"
@@ -165,78 +110,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-13T15:41:03.517Z",
+      "scrapedAt": "2026-07-20T15:07:04.139Z",
       "verified": true
     },
     {
-      "id": "evt_saold5",
-      "title": "Rethinking Token Economics: A Conversation with Deedy Das (Menlo Ventures) & Shashank Goyal (OpenRouter)",
-      "url": "https://luma.com/openro-kwy3",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-07-14T17:30:00.000-07:00",
-      "endDate": "2026-07-14T20:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Every model choice is a bet. It shouldn't be a blind one.\nJoin us for a fireside conversation with Deedy Das, Partner at Menlo Ventures, and Shashank Goyal, Founding Engineer & Head of Provider Ecosystem at OpenRouter, on how to make smarter model decisions. Drawing on investments across the AI infrastructure stack and insights from 750T+ tokens routed across every major model and provider, they’ll explore what matters beyond benchmarks.\nWhen frontier models are worth it. When smaller models quietly win. Why token efficiency is becoming a real competitive advantage - and what it means for latency, reliability, and your margins.\n\nPlenty of time for audience questions - we want this to be a conversation, not a presentation.\n\nAnd yes, we'll be meeting at the top of Salesforce Tower, with 360-",
-      "speakers": [],
-      "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-13T15:41:03.979Z",
-      "verified": true
-    },
-    {
-      "id": "evt_asox1l",
-      "title": "THE SF DATABASE MEETUP",
-      "url": "https://luma.com/5yqbakgz",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "meetup",
-      "startDate": "2026-07-14T17:30:00.000-07:00",
-      "endDate": "2026-07-14T20:00:00.000-07:00",
-      "venue": "PlanetScale",
-      "city": "San Francisco",
-      "description": "Join us for PlanetScale’s first SF database meetup! We’ll be joined by Ovais Tariq for an in depth on his conversation building and scaling database systems at Uber and now at Tigris Data.\nThis will be an in depth conversation covering the tradeoffs between MySQL and MyRocks, performing migrations at Uber scale between engines, the challenges of moving data between regions at a global scale and more.\nSchedule:\n5:30 - 6:00: Doors Open and Networking\n6:00 - 7:15: Ovais Tariq Panel\n7:15 - 7:30: Questions\n7:30 - 8:00: Networking\nCan’t make this one? Sign up here to learn about future events 🎉",
-      "speakers": [],
-      "score": {
-        "fitScore": 64,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-13T15:41:04.334Z",
-      "verified": true
-    },
-    {
-      "id": "evt_4js0bp",
-      "title": "Show & Tell: AI for GTM @Notion with Baseten, Cognition and Samsara",
-      "url": "https://luma.com/b8ie1m1s",
+      "id": "evt_1hnqdym",
+      "title": "Cafe Cursor San Francisco: Startup Edition",
+      "url": "https://luma.com/cafe-cursor-sf-startups",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-07-14T18:00:00.000-07:00",
-      "endDate": "2026-07-14T21:00:00.000-07:00",
-      "venue": "Notion HQ",
+      "startDate": "2026-07-20T10:00:00.000-07:00",
+      "endDate": "2026-07-20T18:00:00.000-07:00",
+      "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "We've all been to the AI events. The panels. The hot takes. The \"we're exploring AI\" platitudes. Everyone's talking — almost nobody is showing.\nThis is the opposite of that.\nShow & Tell: AI for GTM is a demo-only event for go-to-market teams actually building with AI. No slides. No pitches. No thought leadership. Just practitioners opening up their laptops and walking you through the workflows they've built — the ones they use at work, every day.\nWe're bringing together 5–6 GTM operators and engineers who will each demo a real AI-powered workflow live: how they set it up, why they built it, what it actually does, and what they'd do differently. Expect to see real tools, real data flows, and real results — not a product pitch dressed up as a case study.\nSubmit a proposal: https://forms.gle/",
+      "description": "Founders and startup builders (engineers, designers, PMs): join us at Cafe Cursor.\nWe're taking over a cafe in North Beach and inviting Cursor users to swing by.\nBring your laptop with you and spend some time building with other Cursor users and meet the Cursor team. We'll have some Cursor credits and coffee waiting for you. You can also just pop by for coffee and to say hi!\nA bunch of engineers from the Cursor team will be around throughout the day at the cafe. Welcome to ask any questions and share what you're building.\nWe have two slots available for co-working. When you sign up, please choose whichever works best for you. We have limited space and will do our best to accommodate.\n10am - 2pm - grab a table and co-work for a few hours\n2pm - 6pm - grab a table and co-work for a few hours\n",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -249,71 +138,15 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-13T15:41:04.512Z",
-      "verified": true
-    },
-    {
-      "id": "evt_h3zvil",
-      "title": "late night creating cafe w/ Krea",
-      "url": "https://luma.com/Kreacafe",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-14T19:00:00.000-07:00",
-      "endDate": "2026-07-14T22:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "training LoRAs on Krea 2 at our late night gallery / cafe.\n\nthis is a late session for learning how to train a LoRA on a specific style, object, or character on top of Krea 2, a new foundation image model, with friends old and new. we'll share n tell our creations at the end :~)\n\nwe'll also have matcha from elsewhere! the first 30 get a matcha on us <3\n\n++++\n\nKrea AI is an AI creative suite that allows users to generate and edit images, videos, and 3D assets using generative AI. It brings together multiple cutting-edge AI models into a single platform, eliminating the need to juggle different applications.\n\nKrea 2 is a foundation image model trained from scratch to give teams full control over the look, feel, and creative direction of every image they produce, and it's built to be an excep",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-13T15:41:04.890Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1vc9xqz",
-      "title": "Poker Night",
-      "url": "https://luma.com/gs5lwsmn",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-14T19:00:00.000-07:00",
-      "endDate": "2026-07-14T23:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Join us for a relaxed Poker Night with bites, drinks, and professional dealers to keep the games moving. All experience levels are welcome! Texas Hold'em style tournament, payout to top 3 at the end of the night, buy-in $25.\nLocation upon RSVP. Marina, San Francisco.\nHosted by Adverb Ventures + Known Swipeless Dating.",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-13T15:41:05.034Z",
+      "scrapedAt": "2026-07-20T15:07:04.071Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 14,
-    "eventsScored": 14,
+    "eventsFound": 8,
+    "eventsScored": 8,
     "failures": [
       {
         "sourceSlug": "the-residency",

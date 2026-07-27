@@ -1,47 +1,104 @@
 {
-  "generatedAt": "2026-07-20T15:07:04.216Z",
+  "generatedAt": "2026-07-27T15:41:34.906Z",
   "generatedBy": "weekly-refresh",
   "events": [
     {
-      "id": "evt_q43rhp",
-      "title": "-1 to Guardant Health with Helmy Eltoukhy",
-      "url": "https://luma.com/helmy-spc",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
+      "id": "evt_1w26fcb",
+      "title": "Jam Session 4 - AGI House Community",
+      "url": "https://luma.com/jamsession4",
+      "hostSlug": "agi-house",
+      "hostName": "AGI House SF",
       "tier": 2,
-      "format": "talk",
-      "startDate": "2026-07-23T15:30:00.000-07:00",
-      "endDate": "2026-07-23T17:00:00.000-07:00",
-      "venue": "San Francisco, California",
+      "format": "hackathon",
+      "startDate": "2026-07-29T20:00:00.000-07:00",
+      "endDate": "2026-07-29T22:00:00.000-07:00",
+      "venue": "AGI House SF: 170 St. Germain Ave. San Francisco CA 94114",
       "city": "San Francisco",
-      "description": "South Park Commons is delighted to host co-founder of Guardant Health, Helmy Eltoukhy.\nEvent Details\n3:30pm: Doors Open\n4:00-5:00pm: Fireside Chat\n\nHelmy Eltoukhy is the co-founder and chairman of the Board of Directors for Guardant Health and has served as the company’s Co-Chief Executive Officer since August 2021. Prior to founding Guardant, Dr. Eltoukhy held various positions at Illumina, from August 2008 to December 2012, including Senior Director of Advanced Technology Research, where he developed novel chemistries, hardware and informatics for genetic analysis systems. In June 2007, he co-founded Avantome Inc. to commercialize semiconductor sequencing to help speed up the democratization of high throughput DNA sequencing and served as Chief Executive Officer until its acquisition by ",
+      "description": "[Please read before applying]\nFellow musicians and singers in the AGI House community,\nWe've run a few smaller jam sessions and they've become some of our favorite nights. We're now opening applications to grow this part of the community.\nMost of what we do in our day-to-day is heads-down technical work. Music is the counterweight, pulling us out of our heads and reminding us why making something beautiful together, just because it feels good, is worth the time.\nWe can accommodate most singers. If you're playing or bringing an instrument, please fill out the corresponding questions in the sign-up sheet. A short video of you playing is welcome too if you'd rather show than write.\nIn this session, we'll play a mix of popular songs with a focus on musicals. Bring a song you want to sing or pl",
       "speakers": [],
       "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Attend as participant",
+        "fitScore": 92,
+        "reasoning": "Rule-based score: Tier 2 host (AGI House SF) running a hackathon. Multiple hackathons/month. Solo builders = failed-founder density.",
+        "suggestedAction": "Apply as judge or mentor",
         "archetypeMatches": [
+          "ai-native-staff",
           "failed-founder"
         ],
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-20T15:07:03.880Z",
+      "scrapedAt": "2026-07-27T15:41:34.255Z",
       "verified": true
     },
     {
-      "id": "evt_1if7s7r",
-      "title": "Italian Dinner & Founder Mash Up",
-      "url": "https://luma.com/olpuh9ir",
+      "id": "evt_1kdcmx7",
+      "title": "LangChain SF Meetup: LLM Wikis and Giving Your Agents Memory",
+      "url": "https://luma.com/mylwoabu",
+      "hostSlug": "langchain",
+      "hostName": "LangChain",
+      "tier": 1,
+      "format": "meetup",
+      "startDate": "2026-07-28T18:00:00.000-07:00",
+      "endDate": "2026-07-28T21:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "Join us for an meetup in San Francisco with Brace Sproul (Head of Applied AI at LangChain), and Jacob Teo (Research & Engineering at Cognition).\nMost agents fail not because the model is weak, but because it doesn't have the right context.\nLLM wikis are emerging as a common pattern for solving this: a structured knowledge base an agent can query to understand a codebase, product, or domain. LangChain recently open sourced OpenWiki, a project for building and maintaining your own LLM wiki.\nThis meetup will feature two talks. First, Brace will break down how to actually build these systems, and whether \"wiki\" is even the right way to think about them. Then, Jacob will share more on Cognition's DeepWiki.\nWe'll cover:\nWhat is an LLM wiki?\nAre LLM wikis the right abstraction for agent context?\n",
+      "speakers": [],
+      "score": {
+        "fitScore": 86,
+        "reasoning": "Rule-based score: Tier 1 host (LangChain) running a meetup. Framework-specific = active builders. Skews junior; filter hard.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-27T15:41:34.177Z",
+      "verified": true
+    },
+    {
+      "id": "evt_fa4gde",
+      "title": "Post YC SUS Tech Founder & Researcher Happy Hour at Berkeley Summit House",
+      "url": "https://luma.com/ka4bo75j",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "conference",
+      "startDate": "2026-07-27T18:00:00.000-07:00",
+      "endDate": "2026-07-27T21:00:00.000-07:00",
+      "venue": "Berkeley, CA",
+      "city": "Berkeley",
+      "description": "A casual evening for technical founders, founding engineers, A casual evening for technical founders, CTOs, founding engineers, PhD researchers, AI researchers, and future founders to reconnect after YC Startup School and continue the conversations beyond the event.\nMeet fellow builders and researchers working at the frontier of AI, whether you’re building a company, exploring your next idea, conducting cutting-edge research, or looking for the right collaborators and cofounders.\nNo pitches, no panels, just thoughtful conversations, new connections, and people who genuinely love building.\nCohosted by Berkeley Summit House and Quest Space.",
+      "speakers": [],
+      "score": {
+        "fitScore": 76,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a conference. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-27T15:41:34.494Z",
+      "verified": true
+    },
+    {
+      "id": "evt_17nadig",
+      "title": "Founder Gala | YC Startup School Afterparty",
+      "url": "https://luma.com/z9teb942",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "dinner",
-      "startDate": "2026-07-20T18:30:00.000-07:00",
-      "endDate": "2026-07-20T21:00:00.000-07:00",
-      "venue": "1153 Bush St",
+      "startDate": "2026-07-27T18:00:00.000-07:00",
+      "endDate": "2026-07-27T22:00:00.000-07:00",
+      "venue": "Frontier Tower 🧑‍🚀",
       "city": "San Francisco",
-      "description": "Italian Dinner at The Residency!\nEnjoy fresh Carbonara, Cacio e Pepe, Pasta with Ragu alla bolognese, and Tiramisu, made by Jules and Co.\nAll welcome.",
+      "description": "An official Startup School Day 1 Afterparty.\nJoin founders, builders, investors, and YC alumni for an evening of dinner, drinks, networking, and music after Day 1 of Startup School.\nSchedule\n6:00 PM – 8:00 PM\nFounder Happy Hour, Bites & Networking\n8:00 PM – 10:00 PM\nAfrobeats/Jazzhouse/DJ Set, Drinks & Afterparty\nAs the sun sets, we’ll transition into an intimate afterparty featuring Afrobeats, Jazz House, and an open-format DJ set—the perfect backdrop for meeting fellow founders over drinks.\nFounders spend all day growing companies.\nTonight, grow something else.\nWith Plain.com, every guest will receive a mini succulent or create a personalized keychain as a reminder that resilience is built one day at a time. Between great conversations, good music, and drinks, you’ll leave with more than",
       "speakers": [],
       "score": {
         "fitScore": 76,
@@ -54,78 +111,22 @@
         "warmIntroNeeded": true,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-20T15:07:04.216Z",
+      "scrapedAt": "2026-07-27T15:41:34.747Z",
       "verified": true
     },
     {
-      "id": "evt_mcc5w2",
-      "title": "Startup Workflows Art Gallery with Portal & Persona",
-      "url": "https://luma.com/artgallery",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-07-20T17:30:00.000-07:00",
-      "endDate": "2026-07-20T20:30:00.000-07:00",
-      "venue": "50 Beale St",
-      "city": "San Francisco",
-      "description": "Note: Registration is required and subject to approval. This is not a walk-in event, only folks who are approved on the Luma by Friday 7/17 can attend. Building security requires every attendee’s full name and email in advance, and all guests must present a valid ID.\n\nAt most startup events, you watch founders pitch, nod along, and maybe scan a landing page later.\nAt Startup Workflows Art Gallery, every featured product is something you can actually try.\nOur Partners:\n- Simular (simular.ai): Your computer, now autonomous.\n- Janet AI (janet.ai): The autonomous product management system. Janet listens to all your information channels, to auto-capture and update your task board 24/7. Janet AI is backed by Y Combinator, Formosa Capital, Paul Graham, Charles Ferguson, and others.\n- Plain (plain",
-      "speakers": [],
-      "score": {
-        "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-20T15:07:03.946Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1dmp06e",
-      "title": "How to prompt like a designer.",
-      "url": "https://luma.com/dx7dbdxv",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "hackathon",
-      "startDate": "2026-07-20T18:30:00.000-07:00",
-      "endDate": "2026-07-20T21:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Every startup's product looks like it was designed by the same depressed robot 🙄\nMinimalist. Purple gradient buttons. A hero section that says \"The future of [blank] is here.\" You know what I'm talking about.\nIn this hands-on workshop, you'll learn from an ex-Dropbox, award-winning product designer (Kathy Wang) how to prompt like a designer.\nYou’ll walk away with:\n👉 𝗱𝗲𝘀𝗶𝗴𝗻 𝘀𝘁𝘆𝗹𝗲𝘀 𝘁𝗵𝗮𝘁 𝗰𝗼𝗻𝘃𝗲𝗿𝘁 (neo-brutalism, vaporwave, glassmorphism...heard of them?)\n👉 𝗺𝗲𝘁𝗮𝗽𝗿𝗼𝗺𝗽𝘁𝗶𝗻𝗴 𝗵𝗮𝗰𝗸𝘀 (design psychology, Nikita-Bier-style)\n👉 𝗿𝗮𝗽𝗶𝗱 𝗽𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗶𝗻𝗴 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 (the playbook Kathy used to win 2nd place at a Manus hackathon with 5 minutes of work)\nAfter all, your product should look like a human made it...not a depressed robot.\nThis is not a",
-      "speakers": [],
-      "score": {
-        "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Apply as judge or mentor",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-07-20T15:07:04.139Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1hnqdym",
-      "title": "Cafe Cursor San Francisco: Startup Edition",
-      "url": "https://luma.com/cafe-cursor-sf-startups",
+      "id": "evt_rfrrf",
+      "title": "Corgi Coffee Co-op: DIY Coffee for Founders",
+      "url": "https://luma.com/5w78yjyy",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-07-20T10:00:00.000-07:00",
-      "endDate": "2026-07-20T18:00:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-07-27T11:00:00.000-07:00",
+      "endDate": "2026-07-27T14:30:00.000-07:00",
+      "venue": "Corgi Cafe",
       "city": "San Francisco",
-      "description": "Founders and startup builders (engineers, designers, PMs): join us at Cafe Cursor.\nWe're taking over a cafe in North Beach and inviting Cursor users to swing by.\nBring your laptop with you and spend some time building with other Cursor users and meet the Cursor team. We'll have some Cursor credits and coffee waiting for you. You can also just pop by for coffee and to say hi!\nA bunch of engineers from the Cursor team will be around throughout the day at the cafe. Welcome to ask any questions and share what you're building.\nWe have two slots available for co-working. When you sign up, please choose whichever works best for you. We have limited space and will do our best to accommodate.\n10am - 2pm - grab a table and co-work for a few hours\n2pm - 6pm - grab a table and co-work for a few hours\n",
+      "description": "Founders, want to make your own coffee at the Corgi Cafe?\nJoin us for Corgi Coffee Co-op: a DIY coffee bar where you can mix your own latte, try different flavors, and meet other founders.\nNo barista skills required. Just grab a cup, build your drink, and meet other people building things.\nWhat to expect:\nDIY coffee, strong instant coffee, good conversations, and enough caffeine to keep you awake all day.",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -138,15 +139,71 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-07-20T15:07:04.071Z",
+      "scrapedAt": "2026-07-27T15:41:34.674Z",
+      "verified": true
+    },
+    {
+      "id": "evt_rndxqv",
+      "title": "Summer Soiree with Entire",
+      "url": "https://luma.com/bf1psict",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-07-27T19:00:00.000-07:00",
+      "endDate": "2026-07-27T22:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "We're renting out a wine bar in the Mission! Celebrate summer and Entire.io's latest product launch! We'll have good food, drinks, conversations, and no demos.\n(But you should still sign up for Entire here)",
+      "speakers": [],
+      "score": {
+        "fitScore": 60,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-27T15:41:34.823Z",
+      "verified": true
+    },
+    {
+      "id": "evt_8epj4v",
+      "title": "Pebblebed's Builders Late Night Café",
+      "url": "https://luma.com/5lcn6pt8",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-07-27T19:30:00.000-07:00",
+      "endDate": "2026-07-28T00:00:00.000-07:00",
+      "venue": "San Francisco, California",
+      "city": "San Francisco",
+      "description": "There's something magical about working late with other people who are also in the zone. That flow state hits different - focused energy and the smell of fresh coffee.\nPebblebed Late Night Cafe, Monday, once a month, 7:30pm-midnight: free barista-made coffee, fresh pastries, lofi beats in the background, and a room full of builders. Whether you're coding, writing, designing, or finally tackling that side project you keep putting off - this is your space.\nGrab a spot at our long tables or curl up in a corner. Work in silence or take a break to chat with someone working on something equally ambitious.\n\nBring your laptop and your project. We'll bring the caffeine, the snacks, and the community. See you Monday night.\n\nEveryone who shows up need to be approved (we have limited spots). \n\n Hosted",
+      "speakers": [],
+      "score": {
+        "fitScore": 60,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-07-27T15:41:34.905Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 8,
-    "eventsScored": 8,
+    "eventsFound": 10,
+    "eventsScored": 10,
     "failures": [
       {
         "sourceSlug": "the-residency",

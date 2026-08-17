@@ -1,52 +1,79 @@
 {
-  "generatedAt": "2026-08-10T14:18:33.561Z",
+  "generatedAt": "2026-08-17T13:35:48.992Z",
   "generatedBy": "weekly-refresh",
   "events": [
     {
-      "id": "evt_11c45ly",
-      "title": "San Francisco Apache DataFusion Meetup",
-      "url": "https://luma.com/gk3s2vib",
-      "hostSlug": "langchain",
-      "hostName": "LangChain",
-      "tier": 1,
-      "format": "meetup",
-      "startDate": "2026-08-13T17:30:00.000-07:00",
-      "endDate": "2026-08-13T20:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Join us for an evening of talks and community discussion about Apache DataFusion and its growing role in modern data infrastructure. This meetup will spotlight real-world applications, performance innovations, and evolving integrations\nNOTE: due to venue requirements, it is required to register with your actual name. We will provide the front desk with the names and you will need to show ID to get in.\nAgenda\n5:30 – 6:30 PM | Welcome, food, and networking\n6:30 – 8:00 PM | Talks (Expect 10-15 minutes talks, with an opportunity to ask questions afterwards)\n8:00 – 8:30 PM | Wrap-up and mingling\nSpeaker Lineup\nAlexander Bianchi (Software Engineer, Datadog)Adaptive Query Execution in DataFusion Distributed\nShehab Amin (CEO, LakeSail)Inside Sail: Rebuilding The Spark Lakehouse Ecosystem in Rust\nA",
-      "speakers": [],
-      "score": {
-        "fitScore": 86,
-        "reasoning": "Rule-based score: Tier 1 host (LangChain) running a meetup. Framework-specific = active builders. Skews junior; filter hard.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:32.228Z",
-      "verified": true
-    },
-    {
-      "id": "evt_kpbr0q",
-      "title": "Masterclass: Power. How to Stop Giving Yours Away.",
-      "url": "https://luma.com/powermasterclass",
+      "id": "evt_rocfod",
+      "title": "The AI Debates Hackathon",
+      "url": "https://luma.com/aidebates",
       "hostSlug": "agi-house",
       "hostName": "AGI House SF",
       "tier": 2,
-      "format": "other",
-      "startDate": "2026-08-10T19:00:00.000-07:00",
-      "endDate": "2026-08-10T21:30:00.000-07:00",
+      "format": "hackathon",
+      "startDate": "2026-09-05T09:00:00.000-07:00",
+      "endDate": "2026-09-05T22:30:00.000-07:00",
       "venue": "AGI House SF: 170 St. Germain Ave. San Francisco CA 94114",
       "city": "San Francisco",
-      "description": "Real power isn't leverage over other people. It's the absence of the fear that makes leverage feel necessary.\nMost people never get there. They give power away without noticing: to a co-founder, a board, the star hire they're afraid will walk, an investor, the loudest voice in the room. This masterclass shows you where it's leaking, how to stop, and how to lead from a place that doesn't depend on any of it.\nWe start with power as it operates in the world: the laws that govern it, the organizational reality of how influence actually works, and why competence and influence are only loosely related. You'll learn to read the dynamics you're already standing inside.\nThen we turn inward, from playing the game to operating from a place that doesn't depend on it. You'll map where you hand power aw",
+      "description": "Machines argue. Humans judge.\nThe first AI debate tournament. You get one Saturday to build a voice agent that argues AI ethics and risk: it hears the opposing case live, forms a rebuttal in seconds, and answers out loud. In the evening the laptops close and the agents face each other in public forum rounds, motion by motion, in front of a live audience and a human judging panel. The bracket runs until one agent takes the final round.\nYou will build with\nSambaNova SN40L inference credits, so rebuttals come back in conversation time instead of dead air\nHume voice credits for live spoken replies with tone that reacts to the argument\nCompute credits from General Compute\nEngineers from the sponsor teams in the room to unblock you\nJudges score argument quality. The scoreboard also tracks reply ",
+      "speakers": [],
+      "score": {
+        "fitScore": 92,
+        "reasoning": "Rule-based score: Tier 2 host (AGI House SF) running a hackathon. Multiple hackathons/month. Solo builders = failed-founder density.",
+        "suggestedAction": "Apply as judge or mentor",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-17T13:35:47.723Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1ovpbm1",
+      "title": "Scrappy AI Founders Play Soccer",
+      "url": "https://luma.com/p1funmb5",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "dinner",
+      "startDate": "2026-08-17T18:00:00.000-07:00",
+      "endDate": "2026-08-17T20:30:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "12 Scrappy Founders - outdoor endurance community for founders and investors the Bay Area.\n\nWhat is this? \n\n18 AI founders and investors play two 5x5 soccer games.\nThink an hour of running around, some friendly competition and drinks after.\n\nWho is it for?\nYou love sports, competition and meeting folks outside of dinner/mixer setting\nRaised pre-seed+ and/or post-revenue\nActively invest in pre-seed/seed stages\nBeginners welcome!\n\nWhere & When? \n\nAug 17 (Monday) | 6-7pm \nDrinks/snacks after the game.",
+      "speakers": [],
+      "score": {
+        "fitScore": 86,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a dinner. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Request warm intro",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": true,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-17T13:35:48.557Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1whoqgt",
+      "title": "LangChain Presents: The Learning Loop",
+      "url": "https://luma.com/cwn8mze6",
+      "hostSlug": "langchain",
+      "hostName": "LangChain",
+      "tier": 1,
+      "format": "other",
+      "startDate": "2026-09-02T17:30:00.000-07:00",
+      "endDate": "2026-09-02T21:00:00.000-07:00",
+      "city": "San Francisco",
+      "description": "A summer evening on Continual Learning\nAn evening of technical talks, meeting builders, and end-of-summer vibes.\nJoin us at LangChain's new San Francisco office for an evening exploring continual learning and what's next for agent development.\nHear from engineers building at the frontier from Prime Intellect & Baseten, meet the team behind LangSmith Engine, and connect with fellow builders over drinks, food, and interactive experiences on our patio.\nWith limited capacity, this is designed to be an intimate evening for the Bay Area agent engineer community.\nWhat to Expect\nTechnical Sessions\nHear from LangChain Labs engineers and guest speakers from Baseten and Prime Intellect as they explore topics around continual learning.\nFeatured speakers include:\nBen Tannyhill, Product Manager, LangCha",
       "speakers": [],
       "score": {
         "fitScore": 82,
-        "reasoning": "Rule-based score: Tier 2 host (AGI House SF) running a other. Multiple hackathons/month. Solo builders = failed-founder density.",
+        "reasoning": "Rule-based score: Tier 1 host (LangChain) running a other. Framework-specific = active builders. Skews junior; filter hard.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -55,7 +82,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:32.269Z",
+      "scrapedAt": "2026-08-17T13:35:47.630Z",
       "verified": true
     },
     {
@@ -83,222 +110,110 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:32.340Z",
+      "scrapedAt": "2026-08-17T13:35:47.823Z",
       "verified": true
     },
     {
-      "id": "evt_yyj0lb",
-      "title": "SF Founder Dinner: Summer Edition!",
-      "url": "https://luma.com/iwkyqv6c",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
+      "id": "evt_1nz3mui",
+      "title": "Reading Group (+🧋): Train-to-Test (T²) Scaling Laws",
+      "url": "https://luma.com/civuvp99",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
       "tier": 2,
-      "format": "dinner",
-      "startDate": "2026-08-11T18:00:00.000-07:00",
-      "endDate": "2026-08-11T20:00:00.000-07:00",
+      "format": "talk",
+      "startDate": "2026-08-17T16:00:00.000-07:00",
+      "endDate": "2026-08-17T18:30:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Join us for a very special summer event! We are hosting a small and curated dinner for founders building for the 2nd Industrial Revolution: the climate reindustrialization.\n\nI am excited to co-host this one with my friends Mariane Bekker from Founders Bay and Puya Vossoughi from Mercury.\n\nRegister your interest to attend - we will approve registrations for a limited number of founders prioritizing those who fit the criteria.\n\nCheers,\nKaren Sheffield\nFounder & Managing Partner at Pachamama Ventures\nMeet your hosts:\n\nFounders Bay is a network of 200,000+ people discovering the best founder and AI events, meeting the right people, and building what's next.\n\n\nMercury is a radically different banking* product — engineered from the ground up to hold, move, and help you truly understand your mone",
+      "description": "Join the Snorkel AI Reading Group, a recurring forum to explore the latest frontier developments in AI while building meaningful connections within the community.\n\nIn this afternoon's session, Nicholas Roberts will present his recent paper, Train-to-Test (T²) Scaling Laws: Test-Time Scaling Makes Overtraining Compute-Optimal, work that will be featured at COLM 2026 (arXiv preprint available here).\nAgenda:\n4 pm - doors open\n4:30 pm - talk begins\n🧋🧋🧋 Boba tea and other refreshments will be provided ! 🧋🧋🧋\nAmong other things, you'll learn:\nWhy pre-training scaling laws like Chinchilla don't account for test-time compute, and the trade-off that creates once inference cost scales with model size and sample count.\nHow Train-to-Test (T²) scaling laws modernize pretraining scaling laws with p",
+      "speakers": [],
+      "score": {
+        "fitScore": 78,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a talk. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-17T13:35:48.095Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1f0fksk",
+      "title": "Trossen Academic Night @ Mission Robotics",
+      "url": "https://luma.com/trossen-academic-night",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-08-17T18:00:00.000-07:00",
+      "endDate": "2026-08-17T21:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "We're in San Francisco for three weeks, and Monday the 17th belongs to the research community.\nThis is a casual evening at our showroom. Our arms will be running all night, our engineers will be on the floor, and you're welcome to take the controls yourself. Teleoperate a WidowX arm through Glide and get a feel for what data collection actually looks like when the hardware isn't fighting you.\nEnjoy a room full of researchers, robots, and drinks. Come for twenty minutes or stay the whole three hours.\nWhat you can do:\nTeleoperate our arms hands-on via Glide\nSee Rivet, the WidowX family, and the Workbench setup running live\nTalk directly to the engineers who build and support the hardware\nMeet other people working on manipulation, imitation learning, and physical AI in the Bay\nGet entered to ",
+      "speakers": [],
+      "score": {
+        "fitScore": 78,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a talk. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-17T13:35:48.468Z",
+      "verified": true
+    },
+    {
+      "id": "evt_8pgj3u",
+      "title": "AI Agent Builder Day",
+      "url": "https://luma.com/oss4ai-jiv6",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "demo",
+      "startDate": "2026-08-17T09:30:00.000-07:00",
+      "endDate": "2026-08-17T19:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "A day for AI Agent Builders to get together.\nAgenda\n9:30 - 10:30: Arrival\n10:30 - 11:15: Agents Don't Have a UI Problem, They Have a Feedback ProblemMark Fogle, OSS Engineer @ CopilotKit\n11:15 - 12:00: Identity Tips to Secure AI Agents and MCP ServersMrunank Pawar, DevRel Engineer @ Descope\n12:00 - 1:00: Lunch\n1:00 - 1:45: Automating Video Intelligence WorkflowsJoshua Alphonse, Community Engineer @ Mux\n1:45 - 2:30: Automatic Agent Improvement with Agent Traces using Open Source MLFlowYuki Watanabe, Engineering Lead for OSS MLflow @ Databricks\n2:30 - 3:00: Break\n3:00 - 3:45: Uptime and Visibility for AI Agents in KubernetesMatt Brown, Solutions Engineer @ groundcover\n4:30 - 5:00: Break\n5:00 - 6:00: Demo Day. Apply Here.Locality, Saurabh Misra\nEpoch, Adesola Adedewe\nEnterprise Layer Intellig",
       "speakers": [],
       "score": {
         "fitScore": 76,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a dinner. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Request warm intro",
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a demo. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
           "failed-founder"
         ],
-        "warmIntroNeeded": true,
+        "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:33.446Z",
+      "scrapedAt": "2026-08-17T13:35:48.004Z",
       "verified": true
     },
     {
-      "id": "evt_1kjeu4v",
-      "title": "Got an AI Business Idea? Pitch It",
-      "url": "https://luma.com/kw0izstx",
+      "id": "evt_iui1j",
+      "title": "🌐 AI Cluster Meetup - Neuromorphic Computing: The Brain's Lessons for Reducing AI Energy Consumption 🧠",
+      "url": "https://luma.com/vazlk2kw",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-08-11T17:00:00.000-07:00",
-      "endDate": "2026-08-11T19:30:00.000-07:00",
-      "venue": "The House by Edge & Node",
-      "city": "San Francisco",
-      "description": "Join this event and learn about how to Pitch super{set}\nSpark Tank is a live founder pitch competition debuting at Rewire 2026 in September: a competition where ambitious founders and builders bring their best AI ideas and compete for a spot at super{set} venture studio; a hands-on program backed by a $200M fund.\nWe're hosting this evening event so you'll hear about it first, ask questions, and figure out if Spark Tank is for you.  You will meet in person with the super{set} venture team, plus general partners. Also mingle with like-minded founders and get the full picture on how it works.\nAgenda flow:\n5.00pm \tArrival, Networking, Pizza and Beverages\n5.30pm\tsuper{set} intro (Peter Day, General Partner, super{set})\nWhat’s Spark Tank? How do I participate?\n5:50pm\tOpen Questions + networking\n",
-      "speakers": [],
-      "score": {
-        "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:32.574Z",
-      "verified": true
-    },
-    {
-      "id": "evt_ontjse",
-      "title": "Founders 5k Sunset Run with Lore and LlamaIndex",
-      "url": "https://luma.com/4iiiprxj",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-08-11T18:00:00.000-07:00",
-      "endDate": "2026-08-11T20:00:00.000-07:00",
-      "venue": "Sue Bierman Park",
-      "city": "San Francisco",
-      "description": "Join us for a chill 5k run with Lore and LlamaIndex 🏃‍♂️🏃‍♀️\nIf you are a founder or a founding engineer, we know how hard you have been working this summer. So we're doing something easy to enjoy sunny afternoon, and meet the community.\n📍We will meet at Sue Bierman Park, and start running around 6:15.\n👟The route is around 3 miles (5k). We will run to Pier 39 and back, with a short break by sea lions 🦭\n🗺️ Full route here\nAll paces welcome!",
-      "speakers": [],
-      "score": {
-        "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:32.760Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1y7kxsi",
-      "title": "Slash X Temporal After Hours ☕",
-      "url": "https://luma.com/slash-a5ml",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-08-11T19:00:00.000-07:00",
-      "endDate": "2026-08-12T00:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Free chai, great coffee, light bites, and a room full of builders hacking on the coolest things they can think of.\nA couple times a month, we open up the Slash office in Downtown SF from 7PM – midnight for a late-night builder session.\n\nOnly rule: No job. No school work. Just personal projects, weird ideas, and things you’ve been wanting to ship.\nBring your laptop, grab a drink, find a spot, and drop into flow with other engineers, designers, and creators building something cool. We'll also have quick demos at the end of the night for anyone who wants to show what they built.\nWhether you're shipping a tiny tool, testing a wild idea, or finally starting that side project you’ve been putting off, this is the place.\nBuild something fun. Meet other builders. Stay late.\n📍 Slash HQ, San Francis",
-      "speakers": [],
-      "score": {
-        "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:32.828Z",
-      "verified": true
-    },
-    {
-      "id": "evt_sd99i",
-      "title": "World Labs x BITKRAFT World Model Builders Meetup @ Founders, Inc.",
-      "url": "https://luma.com/4hemhurn",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-08-10T17:30:00.000-07:00",
-      "endDate": "2026-08-10T21:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "World models are moving fast, and spatial intelligence is closing the gap between our digital and physical worlds. So we're bringing the community into one room at Founders Inc. for a special evening: builders, researchers, and anyone curious enough to want a closer look.\nExpect a fireside chat with World Labs on where world models are headed, live demos, and plenty of unstructured time to talk. Casual drinks, food, and the kind of conversation that's hard to schedule.\nSpace is limited to ~70, so RSVP early to secure a spot. 🌍\nSchedule\n5:30 Doors open, food and drinks\n6:30 Welcome\n6:40 Fireside chat with World Labs\n7:00 Live demos and showcase\n7:30 Networking\nHosted by\nBITKRAFT Ventures is an early-stage VC with >$1B in AUM investing in the future of experience: the content, enabling tech",
-      "speakers": [],
-      "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:33.044Z",
-      "verified": true
-    },
-    {
-      "id": "evt_o6u407",
-      "title": "Porffor Alpha Launch Meetup",
-      "url": "https://luma.com/wzp44hd7",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-08-11T17:30:00.000-07:00",
-      "endDate": "2026-08-11T20:00:00.000-07:00",
-      "venue": "PlanetScale",
-      "city": "San Francisco",
-      "description": "Porffor is a new JS runtime built by Oliver Medhurst ( CanadaHonk ). Oliver was previously at Mozilla working on Firefox and is also a part of TC39 JS steering committee. We're happy to have him launching his new JS runtime at PlanetScaleHQ!\nThe main program will be a talk about the launch, followed by Q&A, hanging out, and networking.\nSchedule:\n5:30 - 6:00: Welcome, Networking\n6:00 - 6:30: Porffor alpha announcement, demo, and release\n6:30 - 7:00: Q&A\n7:15 - 8:00: Networking\n\nCan’t make this one? Sign up here to learn about future events 🎉",
-      "speakers": [],
-      "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:33.236Z",
-      "verified": true
-    },
-    {
-      "id": "evt_4hhl7s",
-      "title": "SF Hardware & Manufacturing Happy Hour",
-      "url": "https://luma.com/i6z09k0p",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-08-11T18:00:00.000-07:00",
-      "endDate": "2026-08-11T21:00:00.000-07:00",
-      "venue": "San Francisco, California",
-      "city": "San Francisco",
-      "description": "Hardware FYI is hosting a happy hour for engineers, operators, and founders building in the physical world.\nCome talk shop with other people working on real products, factories, and industrial systems. Applications are open; we’ll share the San Francisco location with confirmed guests!\n\nAbout Hardware FYI\nHardware FYI is a weekly newsletter for engineers, founders, and operators building at the intersection of hardware and manufacturing. We cover the latest in engineering and startup funding, with technical insights trusted by 20,000+ subscribers.",
-      "speakers": [],
-      "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:33.517Z",
-      "verified": true
-    },
-    {
-      "id": "evt_15grid0",
-      "title": "San Francisco Data Engineering Meetup with ClickHouse",
-      "url": "https://luma.com/clickh-z578",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "meetup",
-      "startDate": "2026-08-11T17:30:00.000-07:00",
-      "endDate": "2026-08-11T20:30:00.000-07:00",
-      "venue": "CANOPY Jackson Square",
+      "startDate": "2026-08-17T17:00:00.000-07:00",
+      "endDate": "2026-08-17T19:00:00.000-07:00",
+      "venue": "9Zero Climate Innovation Hub",
       "city": "San Francisco",
-      "description": "We are excited to be doing another meetup at the canopy office! You'll have an opportunity to connect with your peers, share industry insights, and learn more about ClickHouse and how folks are using us to solve their big data challenges.\nThe evening will be filled with user presentations, interactive discussions, and the opportunity to network with ClickHouse experts and users.\n5:30 PM: Arrivals, Check-In and Networking + Food and Drink\n6:00 PM: Welcome and Introductions\n6:05 - 6:25PM: Julian Bouchard - Founding Engineer @Clera &\nDaniel Wintermeyer - CTO & Co-Founder @Clera\n6:25 - 6:50 PM: Sherwood Callaway Founder @ Sazabi\n”Sazabi: A Next-Generation Observability Platform\"\n6:50 - 7:15 PM: Abhi Aiyer @ Mastra \"Agent Learning on Clickhouse cloud\"\n7:30 - 8:30 PM: Q&A, Networking\n8:30 PM: Me",
+      "description": "Welcome to the AI Climate Cluster Meetup!\n\n🤔 What 18W computer is capable of general intelligence?\n\nRamashish Gaurav will teach us about how neuromorphic computing offers a potential path towards improving the efficiency of AI hardware by 10-100x (read 10-100x less potential environmental impact).\n\nRamashish Gaurav is a Ph.D. candidate in the BRICCS lab at Virginia Tech, where he builds energy-efficient Spiking Neural Networks (SNNs) and has hands-on experience of deploying them on Intel's Loihi-1 and Loihi-2 neuromorphic chips. He is currently an intern in the Neuromorphic Computing Lab at Intel, SC. From developing SNN training algorithms to tackling time series classification with brain-inspired hardware, Ramashish brings a rare blend of theoretical depth and real silicon deployment ex",
       "speakers": [],
       "score": {
-        "fitScore": 64,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "fitScore": 74,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a meetup. Largest aggregator. High frequency, lower archetype density.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -307,54 +222,26 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:33.306Z",
+      "scrapedAt": "2026-08-17T13:35:48.274Z",
       "verified": true
     },
     {
-      "id": "evt_1bq3ite",
-      "title": "AiOS Meetup - San Francisco Edition",
-      "url": "https://luma.com/cboi9km9",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "meetup",
-      "startDate": "2026-08-11T18:00:00.000-07:00",
-      "endDate": "2026-08-11T20:30:00.000-07:00",
-      "venue": "Convex",
-      "city": "San Francisco",
-      "description": "AiOS San Francisco is happening—and you’re invited! 🤖\nJoin us for an evening with people who are as excited about AI and Apple platforms as you are. Whether you’re building with the latest Apple frameworks, experimenting with on-device AI, or simply curious about what’s next, expect live demos, fresh ideas, and plenty of opportunities to connect.\nSpeakers and demos\nJoannis Orlandos of Wendy Labs will demonstrate how to deploy Swift-powered AI applications to robots and embedded devices.\nVictor Su-Ortiz of MiniMax, joined by Alexine (MiniMax ambassador, Inference DevRel & FDE), will demo MiniMax’s H3 video-generation model running locally on a Mac.\nThe evening will be presented by Ray Fernando, ex-Apple and YouTube creator.\nCome meet fellow builders, share what you’ve been working on, and ",
-      "speakers": [],
-      "score": {
-        "fitScore": 64,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-10T14:18:33.378Z",
-      "verified": true
-    },
-    {
-      "id": "evt_yclg62",
-      "title": "No Data Centers In My Backyard: a midwest field report on the AI buildout",
-      "url": "https://luma.com/00ewrebj",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
+      "id": "evt_hi8q54",
+      "title": "Move it Forward: Workato × AI Valley",
+      "url": "https://luma.com/aivalley-tdlu",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-08-10T17:30:00.000-07:00",
-      "endDate": "2026-08-10T20:00:00.000-07:00",
+      "startDate": "2026-08-17T17:00:00.000-07:00",
+      "endDate": "2026-08-17T20:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Data center opposition is the issue bringing together MAGA farmers and feminist academics, conservative NIMBYs and Bernie bros. Midwest comedians are calling it the \"most bipartisan issue since beer.\" New York has just passed a statewide moratorium: the first in the country, but probably not the last.\nHonestly, we didn't get it. So we spent 10 days road-tripping across data center sites in Wisconsin and Michigan to try and find out. We talked to residents, technicians, politicians, activists, planners, and businesspeople to learn why Americans hate them so much — water? AI anxiety? billionaires? something else? — and whether there's a way to build them right.\nJoin us at Notion HQ for drinks, bites, and a short presentation and Q&A. Doors/refreshments at 5:30; program from 6-7; hang out unt",
+      "description": "Bring what you’re building. Find the right people. Move it forward.\nMove it Forward by Workato and AI Valley is a three-hour working session for founders, engineers, designers, operators, and creators who already have a product, prototype, workflow, or idea in motion.\nInstead of starting from scratch, you’ll use the evening to make meaningful progress: improve your project, explore new automations with Workato, get technical support, and meet collaborators who can help you take it further.\nCome with something concrete. Leave with a stronger project, new connections, and clear next steps.\nWhat You’ll Get\n$1000 in prizes\nHands-on support from Workato experts\nFocused time to improve an existing project\nStructured introductions to potential collaborators or co-founders\nFeedback from other seri",
       "speakers": [],
       "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "fitScore": 70,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -363,22 +250,78 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:32.971Z",
+      "scrapedAt": "2026-08-17T13:35:48.186Z",
       "verified": true
     },
     {
-      "id": "evt_t80vy2",
-      "title": "Claude Code Workshop - San Francisco",
-      "url": "https://luma.com/claude-code-workshop-sf-aug-11",
+      "id": "evt_jo3y4l",
+      "title": "Builders Campfire",
+      "url": "https://luma.com/vsl63ftr",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-08-17T18:00:00.000-07:00",
+      "endDate": "2026-08-17T21:00:00.000-07:00",
+      "venue": "Homebrew Club",
+      "city": "San Francisco",
+      "description": "An intimate night for founders, engineers, and creators building the future\nThe best products are built when ambitious people come together.\nBuilder Campfire is a private gathering for founders, engineers, and creators to connect through real conversations, shared experiences, and the stories behind the things they build.\nThis is not another networking event.\nNo awkward introductions.\nNo endless pitches.\nNo collecting random LinkedIn connections.\nJust a room full of builders sharing ideas, lessons, challenges, and opportunities.\nThe Builder Bingo Challenge 🎯\nEveryone receives a Builder Bingo Card designed to spark meaningful conversations.\nYour mission:\nMeet other builders, discover their stories, and complete your card.\nSample squares:\n☐ Has shipped a product used by real users\n☐ Has bui",
+      "speakers": [],
+      "score": {
+        "fitScore": 70,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-17T13:35:48.363Z",
+      "verified": true
+    },
+    {
+      "id": "evt_z6gc93",
+      "title": "The Physical AI Sprint Hackathon",
+      "url": "https://luma.com/nkknxvrz",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-08-17T08:00:00.000-07:00",
+      "endDate": "2026-08-17T17:30:00.000-07:00",
+      "venue": "DG717",
+      "city": "San Francisco",
+      "description": "Get warmed up for Actuate the best way possible—by building!\nJoin Nebius, NVIDIA, Antioch, and Toloka for a day of workshops, rapid experimentation, and building at the intersection of AI and the physical world.\nWe’ll begin with technical workshops designed to help you get familiar with the tools, infrastructure, and challenge space. Then, you’ll form a team—or work independently—and spend the rest of the day building a working prototype.\nWhat to expect\nRobotics workshops\nA focused physical AI challenge\nAccess to tools, infrastructure, and technical support\nProject demos and judging\nPrizes for the strongest submissions\nSchedule (*subject to change)\n8:00am: Doors open and check-in, grab breakfast, form teams\n9:00am:  Welcome and challenge briefing\n9:15am: Technical workshops by HostsDhruv D",
+      "speakers": [],
+      "score": {
+        "fitScore": 70,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Apply as judge or mentor",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-17T13:35:48.730Z",
+      "verified": true
+    },
+    {
+      "id": "evt_14jrrev",
+      "title": "Find Your Next 1K+ Customers Power Panel (ft. Apollo) 🚀",
+      "url": "https://luma.com/MGxApolloSF",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-08-11T13:00:00.000-07:00",
-      "endDate": "2026-08-11T17:00:00.000-07:00",
+      "startDate": "2026-08-17T17:30:00.000-07:00",
+      "endDate": "2026-08-17T20:30:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Learn to orchestrate AI agents that write and ship code for you.\n\nClaude Code is already changing how the best engineering teams ship. This workshop, presented with Provectus, is a chance to build with it directly — not watch a demo, not sit through slides about it. You'll leave having shipped something real, with a working sense of how to bring this back to your own team.\n\nWe'll spend a little time on context — how Claude Code fits into modern engineering workflows and where teams are seeing the biggest wins. Then the slides go away, and you're at a build station with Anthropic engineers and Provectus partners beside you, orchestrating agents that write and ship code while you direct the work.\n\nWhy attend\nShip real output. Your agents write the code — you direct them. You'll leave with so",
+      "description": "Monday Girl x Apollo.io\nFind Your Next 1K+ Customers Power Panel\n✨ Monday Girl is thrilled to partner with Apollo for a power panel exploring what it actually takes to build and scale a modern go-to-market motion in 2026 - from demand gen to closed deals.\nApollo has built one of the most comprehensive AI-native GTM platforms on the market, powering the pipeline for teams looking to move faster and smarter.\nWe're bringing together sharp minds in marketing, demand gen, and GTM strategy for a candid conversation on what's working right now - and what founders and marketers need to know to stay ahead.\nJoin us for a conversation covering:\nBuilding demand gen strategies that actually convert\nWhat GTM and marketing teams are getting wrong (and right) in 2026\nHow AI is changing the shape of pipeli",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -391,22 +334,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:33.086Z",
+      "scrapedAt": "2026-08-17T13:35:48.815Z",
       "verified": true
     },
     {
-      "id": "evt_1jxvezo",
-      "title": "Claude Coworkshop - San Francisco",
-      "url": "https://luma.com/claude-coworkshop-sf-aug-11",
+      "id": "evt_1mwpyuq",
+      "title": "Moonlighting with Gemini + Exa",
+      "url": "https://luma.com/buildclub-ua0n",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-08-11T13:00:00.000-07:00",
-      "endDate": "2026-08-11T17:00:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-08-17T17:30:00.000-07:00",
+      "endDate": "2026-08-17T20:30:00.000-07:00",
+      "venue": "WorkOS",
       "city": "San Francisco",
-      "description": "Direct access to Claude, the Anthropic team, and a morning built around the work you actually do.\nThis Claude Coworkshop, presented with Provectus, is a half-day product experience for business leaders who live in documents, spreadsheets, decks, and cross-tool workflows — Finance, Operations, Marketing, HR, Legal, Sales.\nYou'll experience a live \"Day in the Life\" demo that follows a business leader through a real workday with Claude: the morning brief pulled from Slack and Salesforce, the variance analysis the CFO needed by noon, the board deck that built itself, the internal tool Engineering said they couldn't get to this quarter. Then you'll open your own laptop and build something real for your role — with the Anthropic and Provectus team in the room to help.\nThe focus is the product, t",
+      "description": "An invite-only AI hack night for top researchers, engineers + technical founders in SF.\nHosted by Build Club with Gemini / Google DeepMind + Exa, alongside WorkOS, Convex, GMI Cloud, Photon, Mosaic, Vapi, ElevenLabs, AdaL + Apify.\nThe challenge: launch your side hustle in one night.\nCome meet other researchers, engineers + founders, then get 1.5 hours of focused build time to turn a research insight, side project or technical idea into something real. We’ll finish with lightning demos from the best builds, judged by an expert panel.\nThe Prizes\nJudges' Choice: $200 cash awarded on the day\nPeople's Choice (Voting): 1st place $200 cash + $500 in Vapi credits; 2nd place $200 cash + $300 in Vapi credits; 3rd place $200 cash + $100 in Vapi credits\nBest Use of Apify: 1st place $250 Visa gift card",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -419,22 +362,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:33.161Z",
+      "scrapedAt": "2026-08-17T13:35:48.901Z",
       "verified": true
     },
     {
-      "id": "evt_1tkqacg",
-      "title": "Techno Retro Poetics w/ Ana María Caballero & Halim Madi",
-      "url": "https://luma.com/technoretropoet",
+      "id": "evt_160p0wu",
+      "title": "The Integration Gap: Why Life-Changing Experiences Don’t Always Change Your Life",
+      "url": "https://luma.com/14cyqfdg",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-08-11T18:00:00.000-07:00",
-      "endDate": "2026-08-11T19:00:00.000-07:00",
-      "venue": "tiat",
-      "city": "San Francisco",
-      "description": "Join Halim Madi and Ana María Caballero as they deliver analog and multimedia presentations of their poems, using the page as a point of departure. Caballero will be reading from Material, her new book, which she will sign for attendees at the end.\n—\nAna María Caballero is a Colombian-American multidisciplinary artist and poet whose work critically examines how biology shapes cultural structures, particularly gendered ideals of sacrifice. Through a practice spanning poetry, performance, sculpture, and installation, Caballero explores memory and the evolution of the book in the contemporary and digital world. Caballero's fusion of literature and technology has positioned her at the forefront of digital poetry. She co-founded theVERSEverse, a digital poetry gallery, and became the first livi",
+      "startDate": "2026-08-17T19:00:00.000-07:00",
+      "endDate": "2026-08-17T21:00:00.000-07:00",
+      "venue": "The New Parkway Theater",
+      "city": "Oakland",
+      "description": "🦋 Why do the most meaningful moments of our lives sometimes leave us feeling more lost, not less?\nAfter a big trip, a relationship ending, a new baby, a move, a career change, or a powerful moment in nature, many people return to ordinary life feeling restless, sad, confused, or strangely unlike themselves. It can feel like something is wrong, even though nothing technically went wrong.\nIn this lecture, Dr. Suzy Ross, professor, author, and social scientist who has spent more than 20 years studying transformation and integration, explains why this disorienting aftermath is not a sign of failure. It is a recognizable, even necessary, phase in becoming someone new.\nDrawing on her research-based Figure-8 Model of Transformation, outlined in her book The Map to Wholeness, Dr. Ross offers a fr",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -447,15 +390,15 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-10T14:18:33.561Z",
+      "scrapedAt": "2026-08-17T13:35:48.991Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 19,
-    "eventsScored": 19,
+    "eventsFound": 16,
+    "eventsScored": 16,
     "failures": [
       {
         "sourceSlug": "the-residency",

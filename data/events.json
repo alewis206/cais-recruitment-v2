@@ -1,34 +1,7 @@
 {
-  "generatedAt": "2026-08-24T13:45:59.146Z",
+  "generatedAt": "2026-08-31T19:21:51.676Z",
   "generatedBy": "weekly-refresh",
   "events": [
-    {
-      "id": "evt_etu99f",
-      "title": "Fireside with Hans Robertson, Verkada",
-      "url": "https://luma.com/hans-robertson-spc",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-08-26T09:30:00.000-07:00",
-      "endDate": "2026-08-26T11:00:00.000-07:00",
-      "venue": "380 Brannan St",
-      "city": "San Francisco",
-      "description": "South Park Commons is delighted to host Hans Robertson, Executive Chairman and Co-Founder of Verkada for a fireside chat. \n\nHans Robertson is executive chairman and co-founder of Verkada, a leader in cloud-based physical security solutions. Founded in 2016 with just four employees, Hans has helped scale Verkada to more than 2,200 employees, 31,000 enterprise customers, and a valuation of $5.8 billion. Today, Hans leads Verkada’s daily operations in partnership with Verkada’s CEO, Filip Kaliszan.\nPrior to Verkada, Hans co-founded another Silicon Valley Unicorn, Meraki, where he served as chief operating officer for almost a decade. During this time, he helped design the first cloud-managed enterprise networking products – including Wi-Fi, firewall, and switching systems – and led the compan",
-      "speakers": [],
-      "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-24T13:45:58.501Z",
-      "verified": true
-    },
     {
       "id": "evt_rocfod",
       "title": "The AI Debates Hackathon",
@@ -37,8 +10,8 @@
       "hostName": "AGI House SF",
       "tier": 2,
       "format": "hackathon",
-      "startDate": "2026-09-05T09:00:00.000-07:00",
-      "endDate": "2026-09-05T22:30:00.000-07:00",
+      "startDate": "2026-09-20T09:00:00.000-07:00",
+      "endDate": "2026-09-20T22:30:00.000-07:00",
       "venue": "AGI House SF: 170 St. Germain Ave. San Francisco CA 94114",
       "city": "San Francisco",
       "description": "Machines argue. Humans judge.\nThe first AI debate tournament. You get one Saturday to build a voice agent that argues AI ethics and risk: it hears the opposing case live, forms a rebuttal in seconds, and answers out loud. In the evening the laptops close and the agents face each other in public forum rounds, motion by motion, in front of a live audience and a human judging panel. The bracket runs until one agent takes the final round.\nYou will build with\nSambaNova SN40L inference credits, so rebuttals come back in conversation time instead of dead air\nHume voice credits for live spoken replies with tone that reacts to the argument\nCompute credits from General Compute\nEngineers from the sponsor teams in the room to unblock you\nJudges score argument quality. The scoreboard also tracks reply ",
@@ -54,7 +27,34 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:58.243Z",
+      "scrapedAt": "2026-08-31T19:21:50.973Z",
+      "verified": true
+    },
+    {
+      "id": "evt_20jhox",
+      "title": "SPC Post-Training Forum: Mercor CEO, Brendan Foody",
+      "url": "https://luma.com/spcforummercor9-9",
+      "hostSlug": "south-park-commons",
+      "hostName": "South Park Commons (public events)",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-09-09T13:30:00.000-07:00",
+      "endDate": "2026-09-09T14:30:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "New frontiers in modeling, architecture, algorithms, and infra are often the loudest advancements in AI. But beneath all of it is a fundamental layer without which no models would exist: data.\nJoin SPC's Post-Training forum for a technical and product-focused conversation with Mercor's CEO, Brendan Foody. We'll dig into what it takes to design data and environments at the frontier, and the unique challenges of sourcing the expert human intelligence required to power the post-training and RL recipes of tomorrow's models.\nWhen: Wednesday, September 9th, 1:30 - 2:30pm\nWhere: SPC SF\nModerated by Nick Mecklenburg (CTO, Whitney AI; prev post-training at Microsoft Superintelligence)\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researc",
+      "speakers": [],
+      "score": {
+        "fitScore": 88,
+        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a other. 'Between things' demographic. Public events only without sponsor.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-31T19:21:51.147Z",
       "verified": true
     },
     {
@@ -81,7 +81,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:58.164Z",
+      "scrapedAt": "2026-08-31T19:21:50.915Z",
       "verified": true
     },
     {
@@ -109,22 +109,50 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:58.315Z",
+      "scrapedAt": "2026-08-31T19:21:51.029Z",
       "verified": true
     },
     {
-      "id": "evt_28chj9",
-      "title": "How Top Startups Build Lean, AI-Powered GTM Stacks",
-      "url": "https://luma.com/sghq-73rn",
+      "id": "evt_j9x8mi",
+      "title": "The Reality Gap: A Sim-to-Real Seminar",
+      "url": "https://luma.com/rallysf-uqiv",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "dinner",
+      "startDate": "2026-09-01T18:00:00.000-07:00",
+      "endDate": "2026-09-01T21:00:00.000-07:00",
+      "venue": "3001 19th St",
+      "city": "San Francisco",
+      "description": "The Reality Gap is a monthly working seminar on sim-to-real transfer running September through January. Each session takes up a different part of the problem: perception, contact and manipulation, data collection, locomotion (the field's one clear success), and world models.\nThe format is the same every month: a talk from a researcher working on the problem, then a working discussion over dinner. Talks are recorded. The discussion is not.\nSession one opens with a short talk and the discussion that follows sets the baseline for the series: what each person in the room is trying to transfer, where it breaks, and what's missing. We write the answers down and return to them in January.\nThe room is capped at 40 and registration requires approval. Fifteen to twenty seats belong to a core group t",
+      "speakers": [],
+      "score": {
+        "fitScore": 76,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a dinner. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Request warm intro",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": true,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-31T19:21:51.622Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1p8hep",
+      "title": "Scrappy AI Founders Play Soccer (seed to series A)",
+      "url": "https://luma.com/zpfac8dv",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-08-24T17:00:00.000-07:00",
-      "endDate": "2026-08-24T20:00:00.000-07:00",
+      "startDate": "2026-08-31T18:00:00.000-07:00",
+      "endDate": "2026-08-31T21:30:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "How Top Startups Build Lean, AI-Powered GTM Stacks\nFor SaaS & AI founders scaling beyond the early stage.\nGetting to your first customers is one challenge. Building a repeatable, efficient go-to-market engine is another.\nAs your company grows, complexity creeps in. More tools. More manual work. More disconnected data. More time spent managing systems instead of winning customers.\nJoin Startup Grind, Designli, Salesbricks, and Unify for an evening exploring how today's fastest-growing SaaS and AI startups are building lean, AI-powered GTM stacks that scale.\nWe'll cover:\nHow leading startups automate prospecting, outreach, and customer engagement with AI\nThe GTM tech stack founders actually need (and what to avoid)\nConnecting product, sales, and customer data without creating operational cha",
+      "description": "12 Scrappy Founders - outdoor endurance community for founders and investors the Bay Area.\n\nWhat is this? \n18 AI founders and investors play two 5x5 soccer games.\nThink an hour of running around, some friendly competition and drinks after.\n\nWho is it for?\nFounders who've raised seed to Series A+\nFounders with 1M+ ARR\nInvestors focused on seed to series A\n\nWhere & When? \nAug 31 (Monday) - San Francisco\nGame: 6-7pm \nDrinks/food: 7:30-9pm",
       "speakers": [],
       "score": {
         "fitScore": 70,
@@ -137,27 +165,27 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:58.572Z",
+      "scrapedAt": "2026-08-31T19:21:51.204Z",
       "verified": true
     },
     {
-      "id": "evt_xkjfaf",
-      "title": "Live from SF : AI infra Startup Showcase",
-      "url": "https://luma.com/dt6233ym",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
+      "id": "evt_1o83b1",
+      "title": "Degrees of Freedom: Bring Your Own Robot @ Mission Robotics",
+      "url": "https://luma.com/278ujx64",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
-      "format": "other",
-      "startDate": "2026-08-24T17:00:00.000-07:00",
-      "endDate": "2026-08-24T19:30:00.000-07:00",
-      "venue": "San Francisco",
+      "format": "hackathon",
+      "startDate": "2026-08-31T18:00:00.000-07:00",
+      "endDate": "2026-08-31T21:00:00.000-07:00",
+      "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Attention : AI Infra founders, developers and investors.\nFirst edition of Live  from SF Arash and Ray will live stream AI infra stratup demo pitches from SF to their global audience and give a quick review.\nAgenda :\nDoors open - 5:00 P.M\nLive Demo  - 5:30 P.M - 6:30 P.M\nOpen networking - 6:30-7:30 P.M\n\nIf you are building in AI infrastructure or developer tools, this is a chance to put your product in front of a strong room and get candid, practical feedback while your demo is streamed live across X, TikTok, YouTube, and Instagram.\nFive startups will be selected to demo live, with reviews focused on what is working, what needs sharpening, and what founders can improve right away.\nExpect a high-energy evening with product demos, sharp conversations, and a room full of enterprise buyers, fou",
+      "description": "A twice-monthly working night for people building embodied AI. No robot required.\nYou built the arm at your kitchen table. You trained the policy overnight on your gaming rig. You collected the teleop data in your garage. The one thing none of it came with: labmates.\nDegrees of Freedom is a monthly working night at Mission Robotics for everyone building physical AI without a lab around them. Bring the robot. Bring the sim that refuses to transfer. Bring the gripper that's been 80% assembled since the hackathon. For two hours, the people at the next bench are your labmates.\nSchedule\n6:00 - Kickoff: Who you are, what you're building, what you want working by 9pm.\n6:30-8:30 - Bench time: two hours of real work, quiet enough to think, loud enough to ask the room when you're stuck.\n8:30 - Demos",
       "speakers": [],
       "score": {
         "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Apply as judge or mentor",
         "archetypeMatches": [
           "ai-native-staff",
           "failed-founder"
@@ -165,82 +193,26 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:58.684Z",
+      "scrapedAt": "2026-08-31T19:21:51.313Z",
       "verified": true
     },
     {
-      "id": "evt_1fyuz3",
-      "title": "Cash Pay to Covered: Agentic Insurance Ops for GLP-1s w/ Neon, Mochi & Elion",
-      "url": "https://luma.com/h6kko30n",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-08-24T17:30:00.000-07:00",
-      "endDate": "2026-08-24T20:00:00.000-07:00",
-      "venue": "435 Brannan St",
-      "city": "San Francisco",
-      "description": "Cash pay got a generation of digital health companies to scale, including GLP-1s, birth control, hair medications, and sexual health drugs. Insurance is where the next order of magnitude sits, and it is a different operational problem entirely: benefit verification against several hundred payers, prior authorization portal chaos, and endless waiting on hold. Most teams model the revenue upside long before they model the operations.\nWe are putting both sides of that problem on stage: the team building the agents, and the team running a D2C healthcare organization at national scale. Expect specifics on where agents unlock new revenue opportunities, and where they do not.\nSpeakers\nStedman Hood, Co-Founder & CEO at Neon Health\nMyra Ahmad, MD, CEO & Founder at Mochi Health // 500,000+ patients ",
-      "speakers": [],
-      "score": {
-        "fitScore": 70,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-24T13:45:58.764Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1px9pkd",
-      "title": "vLLM x NVIDIA Dynamo Meetup",
-      "url": "https://luma.com/r8o604o0",
+      "id": "evt_1ppc31z",
+      "title": "Grok @bot builder demos",
+      "url": "https://luma.com/p4rvaf0y",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
-      "format": "conference",
-      "startDate": "2026-08-24T18:00:00.000-07:00",
-      "endDate": "2026-08-24T21:00:00.000-07:00",
-      "venue": "Saluhall SF",
-      "city": "San Francisco",
-      "description": "Join the vLLM community and the NVIDIA Dynamo team for an evening of tech talks and conversation during vLLM conference week.\nWe'll dig into what it takes to serve LLMs efficiently at scale—covering the latest work across vLLM and NVIDIA Dynamo, from inference optimization and distributed serving to the practical challenges of running these systems in production. After the talks, stick around to connect with engineers, researchers, and builders from across the inference community over food and drinks.\nWhether you're deep in the internals of an inference engine or just getting started with LLM serving, come learn, ask questions, and meet the people pushing this work forward.\nWhen: Monday, August 24 · 6-9pm PT\nSchedule:\n6:00pm: Doors open\n6:30-6:45pm: vLLM tech talk\n6:45-7pm: Dynamo tech tal",
-      "speakers": [],
-      "score": {
-        "fitScore": 66,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a conference. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-08-24T13:45:58.996Z",
-      "verified": true
-    },
-    {
-      "id": "evt_8rsd7k",
-      "title": "Corgi Cafe Co-op - Make Your Own Coffee Dogpatch Edition",
-      "url": "https://luma.com/ncoebbg5",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-08-24T12:00:00.000-07:00",
-      "endDate": "2026-08-24T14:00:00.000-07:00",
+      "format": "talk",
+      "startDate": "2026-09-01T18:00:00.000-07:00",
+      "endDate": "2026-09-01T20:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Founders, make your own coffee is back at the new Dogpatch Corgi Cafe ☕️\nJoin us for Corgi Coffee Co-op: a DIY coffee bar where you can make your own latte, experiment different flavors, and meet other founders.\nNo barista skills required. Grab a cup, build your drink, and meet other people building things.\nWhat to expect:\nDIY coffee, strong instant coffee, good conversations, and enough caffeine to keep you awake all day.\nCorgi - Business Insurance at the Speed of Compute",
+      "description": "SpaceXAI released Grok Aug 11 and it's having a moment\n“I haven’t been this excited about a new AI product in a while… like OpenClaw, but super easy.” - Lenny Rachitsky (@lennysan)\n“first product that really nails the virtual co-worker.” - Martin Casado (@martin_casado)\n“damn good product.” - Hiten Shah (@hnshah)\nSpeakers\nKrista Letz (enterprise @SpaceXAI) - Wrote \"Grok Bot for GTM\" (1.5M views)\nAlex Finn (Henry Intelligent Machines) - Grok @bot power user\nShub Gaur (startups @cursor_ai) - Grok @bot savant\n$100 in Grok Bot credits for accepted attendees. Limited to first people to show up only.\nWe invite everyone (technical/non-technical) to join us to talk about the use cases and demos\nThis is an in-person sf meetup.\n\nPresented by Forward Future & Amplitude",
       "speakers": [],
       "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "fitScore": 68,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -249,22 +221,78 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:58.924Z",
+      "scrapedAt": "2026-08-31T19:21:51.556Z",
       "verified": true
     },
     {
-      "id": "evt_1nri38x",
-      "title": "Seldon Research Night",
-      "url": "https://luma.com/asduh92v",
+      "id": "evt_8m79bv",
+      "title": "Agentic + AI Night: Multi-Agent Governance and Security",
+      "url": "https://luma.com/agenticaiobsnightsf-9-1",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "meetup",
+      "startDate": "2026-09-01T15:30:00.000-07:00",
+      "endDate": "2026-09-01T21:00:00.000-07:00",
+      "venue": "Terra Gallery & Event Venue",
+      "city": "San Francisco",
+      "description": "Join us for another Agentic + AI Night: Multi-agent Governance and Security on Tuesday, September 1 from 3:30pm - 9:00pm PT in SF for a multi-track deep dive into agentic architectures, security governance, and AI observability using Omnigent, an open-source meta-harness for coordinating agents such as Claude Code, Codex and custom agents in a shared workflow.\nThis meetup is built for engineers, security practitioners, ML/AI developers, and AI startup founders who are building or deploying autonomous agents and want to go deeper into the tech. We’ll dive into real-world patterns, failure modes, and governance models for building a reliable meta-harness layer that manages agent execution, sandboxing, state, and runtime policies across multiple agents and model providers.\nWhether you’re at a",
+      "speakers": [],
+      "score": {
+        "fitScore": 64,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-31T19:21:51.437Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1cavz3h",
+      "title": "Berkeley's Next Wave: A Deep Tech Founder & Investor Mixer",
+      "url": "https://luma.com/berkeley-2seh",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "meetup",
+      "startDate": "2026-09-01T16:30:00.000-07:00",
+      "endDate": "2026-09-01T18:30:00.000-07:00",
+      "venue": "Berkeley, CA",
+      "city": "Berkeley",
+      "description": "Six founders. Two minutes each. Zero filler.\nCal Innovation Fund and Berkeley Gateway Accelerator of Future Frontier Capital are teaming up for a two-hour mixer connecting investors with the next generation of deep tech founders.\nFormat: Six companies, three from each portfolio: take the floor for rapid-fire pitches. These are founders building in the hard stuff: the kind of science and engineering that doesn't fit in a pitch deck template, working on problems that actually matter. After the pitches, the rest of the night is yours, open mingling with institutional investors, angels, and fellow deep tech enthusiasts over drinks and bites.\nWho's in the room: Active investors across venture and angel networks, founders at the frontier of deep tech, and friends of the ecosystem who want a fron",
+      "speakers": [],
+      "score": {
+        "fitScore": 64,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-08-31T19:21:51.489Z",
+      "verified": true
+    },
+    {
+      "id": "evt_wzlkkb",
+      "title": "90/30 Club Reading - Robots Need More than VLA and World Models",
+      "url": "https://luma.com/je0wu83j",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-08-24T19:00:00.000-07:00",
-      "endDate": "2026-08-24T22:00:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-08-31T19:00:00.000-07:00",
+      "endDate": "2026-08-31T22:00:00.000-07:00",
+      "venue": "Mox",
       "city": "San Francisco",
-      "description": "Seldon is hosting an evening of talks and conversation, bringing together researchers to share what they’ve been working on and the ideas shaping their work.\nWe’ll hear three short talks from researchers at Seldon and the Head of Research at Prime Intellect, with topics ranging from measuring visual reasoning and building robust vision evals to creating safe, scalable RL environments for computer use.\nAfterwards, we’ll continue the evening over drinks and snacks with a thoughtfully curated group of researchers, builders, and curious minds.\nMonday, August 24\nFrom 7:00 PM to 10:00 PM\nSF - Location shared with approved guests\nWe’re excited to see you there!",
+      "description": "☕️📝 Paper Link 📝☕️\n\nFull paper: https://www.alphaxiv.org/abs/2606.06556\nGeneralist robot intelligence is often framed as a policy-scaling problem: collect more robot demonstrations, train larger Vision-Language-Action (VLA) models, and expect broader generalisation. In this position paper, we argue that this framing is incomplete. \n\nThe central bottleneck is not only policy learning, but the absence of mechanisms that convert the world's abundant unstructured behavioural data into grounded robot supervision. Human motion, internet video, simulation rollouts, and interactive demonstrations contain rich information about tasks, goals, contacts, failures, and physical constraints, yet most of this information is not directly usable by robot policies because it lacks embodiment-specific acti",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -277,22 +305,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:59.071Z",
+      "scrapedAt": "2026-08-31T19:21:51.377Z",
       "verified": true
     },
     {
-      "id": "evt_1c6zhhh",
-      "title": "Pebblebed's Builders Late Night Café",
-      "url": "https://luma.com/2657uqcm",
+      "id": "evt_8jkff",
+      "title": "Wasmer: Beyond Containers",
+      "url": "https://luma.com/3ns1f786",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-08-24T19:30:00.000-07:00",
-      "endDate": "2026-08-25T00:00:00.000-07:00",
-      "venue": "San Francisco, California",
+      "startDate": "2026-09-01T18:30:00.000-07:00",
+      "endDate": "2026-09-01T21:30:00.000-07:00",
+      "venue": "760 Market St",
       "city": "San Francisco",
-      "description": "There's something magical about working late with other people who are also in the zone. That flow state hits different - focused energy and the smell of fresh coffee.\nPebblebed Late Night Cafe, Monday, once a month, 7:30pm-midnight: free barista-made coffee, fresh pastries, lofi beats in the background, and a room full of builders. Whether you're coding, writing, designing, or finally tackling that side project you keep putting off - this is your space.\nGrab a spot at our long tables or curl up in a corner. Work in silence or take a break to chat with someone working on something equally ambitious.\n\nBring your laptop and your project. We'll bring the caffeine, the snacks, and the community. See you Monday night.\n\nEveryone who shows up need to be approved (we have limited spots). \n\n Hosted",
+      "description": "Wasmer Launch Night\nSomething big is shipping at Wasmer.\nJoin Syrus Akbary, Founder & CEO of Wasmer, and Ayush Ojha in San Francisco for an evening of new product launches, live demos, technical conversations, and builders across AI, infrastructure, open source, and developer tools.\nWasmer is building the infrastructure to run software securely anywhere — locally, in the browser, inside applications, or in the cloud.\nOn September 1, we're unveiling what we've been building.\nWhat to expect\n🚀 Major new Wasmer product launches\n💻 Live technical demos — no slideware\n🔭 A look at what's next for Wasmer\n🎙️ Technical Q&A with Syrus\n🛠️ Hands-on time with the Wasmer team\n🍕 Food, drinks, and conversations with other builders\n👀 A few previews of what's coming next during Launch Week\nWho should a",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -305,15 +333,15 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-08-24T13:45:59.145Z",
+      "scrapedAt": "2026-08-31T19:21:51.675Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 13,
-    "eventsScored": 13,
+    "eventsFound": 14,
+    "eventsScored": 14,
     "failures": [
       {
         "sourceSlug": "the-residency",

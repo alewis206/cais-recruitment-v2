@@ -1,61 +1,7 @@
 {
-  "generatedAt": "2026-09-21T18:26:59.874Z",
+  "generatedAt": "2026-09-28T19:58:40.640Z",
   "generatedBy": "weekly-refresh",
   "events": [
-    {
-      "id": "evt_emacy9",
-      "title": "-1 to Waymo with Dmitri Dolgov",
-      "url": "https://luma.com/dmitri-waymo-spc",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-09-21T14:30:00.000-07:00",
-      "endDate": "2026-09-21T16:00:00.000-07:00",
-      "venue": "San Francisco, California",
-      "city": "San Francisco",
-      "description": "South Park Commons is delighted to host Dmitri Dolgov, co-CEO of Waymo as part of our -1 to Now series.\nEvent Details\n2:30pm: Doors Open\n3:00-4:00pm: Fireside Chat\n\nDmitri Dolgov is the co-CEO of Waymo, an autonomous driving technology company with a mission to be the world’s most trusted driver.\nDmitri is one of the founders of the Google self-driving car project, which began in 2009 and became Waymo in 2016. As co-CEO, Dmitri is responsible for overall company strategy, with his primary focus on the development and deployment of the Waymo Driver, based on a custom, in-house designed, fully autonomous technology stack.\n\nDmitri previously served as Waymo’s CTO. Prior to Waymo, Dmitri worked on autonomous driving efforts at Toyota and at Stanford as part of Stanford's DARPA Urban Challenge ",
-      "speakers": [],
-      "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-09-21T18:26:58.998Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1okhkgv",
-      "title": "The Future of Tech Policy in CA with Steve Hilton",
-      "url": "https://luma.com/tech-policy-r-ca-spc",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-09-23T14:30:00.000-07:00",
-      "endDate": "2026-09-23T16:00:00.000-07:00",
-      "venue": "San Francisco, California",
-      "city": "San Francisco",
-      "description": "What's next for tech policy in the state of California? The rules for regulating technology were not built for a world where AI changes this fast. This conversation asks what tech policy in California needs to look like now that the old assumptions no longer hold, with CA gubernatorial candidate Steve Hilton.\n\nAgenda: \n2:30pm: Doors Open\n3:00pm-4:00pm: Fireside Chat\n\nSteve Hilton is the Republican candidate for Governor of\nCalifornia. He advanced from a crowded primary with more than\n2.2 million votes and is now taking on career politician Xavier\nBecerra in the general election.\nSteve was born in London, the son of Hungarian immigrants who\nfled communism in search of freedom and opportunity. From a\nworking-class background, he made it to Oxford University and\nwent on to a career at the hig",
-      "speakers": [],
-      "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-09-21T18:26:59.089Z",
-      "verified": true
-    },
     {
       "id": "evt_1qaymyl",
       "title": "-1 to Physical Intelligence with Sergey Levine",
@@ -80,7 +26,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.173Z",
+      "scrapedAt": "2026-09-28T19:58:39.485Z",
       "verified": true
     },
     {
@@ -107,22 +53,49 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.208Z",
+      "scrapedAt": "2026-09-28T19:58:39.564Z",
+      "verified": true
+    },
+    {
+      "id": "evt_16e8rg1",
+      "title": "-1 to Anduril with Trae Stephens",
+      "url": "https://luma.com/trae-stephens-spc",
+      "hostSlug": "south-park-commons",
+      "hostName": "South Park Commons (public events)",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-10-21T15:00:00.000-07:00",
+      "endDate": "2026-10-21T16:30:00.000-07:00",
+      "venue": "San Francisco, California",
+      "city": "San Francisco",
+      "description": "South Park Commons is delighted to host Trae Stephens as part of our -1 to Now series.\nEvent Details\n3:00pm: Doors Open + Mingling\n3:30-4:30pm: Fireside Chat\n\nTrae is a General Partner at Founders Fund. He is also Co-founder and Executive Chairman of Anduril Industries, a defense technology company focused on autonomous systems.\nPreviously, Trae was an early employee at Palantir Technologies, where he led teams focused on growth in the intelligence/defense space as well as international expansion, helping large organizations solve their hardest data analysis problems. He was also an integral part of the product team, leading the design and strategy for new product offerings. While at Palantir, Trae also served as an adjunct faculty member at Georgetown University.\nPrior to Palantir, Trae w",
+      "speakers": [],
+      "score": {
+        "fitScore": 96,
+        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-09-28T19:58:39.649Z",
       "verified": true
     },
     {
       "id": "evt_1b0gwe0",
-      "title": "Energy Optimization of GPUs through Self-Improving Agents",
+      "title": "Can AI Agents Make GPUs More Energy Efficient?",
       "url": "https://luma.com/gpuenergyoptimization",
       "hostSlug": "agi-house",
       "hostName": "AGI House SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-09-22T19:00:00.000-07:00",
-      "endDate": "2026-09-22T21:00:00.000-07:00",
+      "startDate": "2026-10-03T16:00:00.000-07:00",
+      "endDate": "2026-10-03T18:00:00.000-07:00",
       "venue": "AGI House SF: 170 St. Germain Ave. San Francisco CA 94114",
       "city": "San Francisco",
-      "description": "Most inference clusters burn far more energy than the work requires. This evening covers the architecture behind a different approach: self-improving agents that keep tuning the serving stack, batching, tensor parallelism, prefix caching, expert routing, until 8 GPUs deliver the throughput you would normally provision 16 for, at roughly half the energy.\nHamza Farooq and the Traversaal team have been building this in the open at energy.traversaal.ai, an inference API priced at a flat $10 per kilowatt-hour instead of per token. Billing on energy changes the incentives: every watt the system saves makes the model genuinely cheaper to call, not just cheaper on the rate card. Their current numbers: 88% under token rates, 0.22s median time to first token.\nWe will go deep on the underlying archit",
+      "description": "Most GPU clusters are provisioned for peak performance, not energy efficiency. The result is expensive infrastructure sitting on significant unused headroom.\nWhat if the serving stack could continuously optimize itself?\nIn this session, we’ll explore an architecture built around self-improving agents that continuously tune GPU inference. The agents experiment with batching, tensor parallelism, prefix caching, expert routing, and serving configurations, then use real workload and energy measurements to decide what to change next.\nThe goal is ambitious: get 8 GPUs to deliver workloads you might otherwise provision 16 GPUs for, while using dramatically less energy.\nAt Traversaal, we’ve been building this approach in the open at energy.traversaal.ai. Instead of charging per token, the inferenc",
       "speakers": [],
       "score": {
         "fitScore": 82,
@@ -135,22 +108,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:58.653Z",
+      "scrapedAt": "2026-09-28T19:58:39.306Z",
       "verified": true
     },
     {
-      "id": "evt_bl8qjt",
-      "title": "Battle of the Personal Brains Hackathon 🧠",
-      "url": "https://luma.com/sep-21-cognee-aws",
+      "id": "evt_1ecnx6w",
+      "title": "AI Agents for Data Teams: A Practical Mini-Hackathon",
+      "url": "https://luma.com/j79caynh",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "hackathon",
-      "startDate": "2026-09-21T16:00:00.000-07:00",
-      "endDate": "2026-09-21T21:00:00.000-07:00",
-      "venue": "Bright Data",
-      "city": "San Francisco",
-      "description": "🧠 Cognee, AWS Strands Agent, Docker Sandbox, Bright Data\n$100 in Credits for everyone (Cogee + Bright Data)\n$4000 in Prizes for the winners. $1000 in cash prizes + $1000 in Cognee credits + $2000 in AWS credits.\nJoin us for Battle of the Personal Brains, a 5 hour hands-on AI hackathon where you’ll build an intelligent personal agent powered by your own data, live information, and create an agentic workflow to take action, all under one roof at the Bright Data office in SOMA.\nBuild the personal AI agent you’ve always wanted.\nIn today’s world, it’s possible for an AI agent to know what you know - your emails, your documents, meetings, calendar, tasks, files, and other information that’s relevant to you - and then act on it.\nFor this hackathon, the challenge is simple: Build a brain. Build a",
+      "startDate": "2026-09-28T17:00:00.000-07:00",
+      "endDate": "2026-09-28T20:00:00.000-07:00",
+      "venue": "135 Constitution Dr",
+      "city": "Menlo Park",
+      "description": "Bring a real problem. Build something useful. Show what works.\nJoin the Bay Area Snowflake User Group for an evening building with Snowflake’s agentic AI products.\nFind the right data, access it appropriately, improve documentation, check quality or govern how it is used. No problem is too small if solving it adds value to your team.\nCome solo and find collaborators, or bring a team of up to four. Leave with experience collaborating on Snowflake’s agentic AI products, something you built and tested, and an explanation of what improved.\nPlanned products\nExplore Snowflake CoCo for building, Cortex Agents for working with governed data and tools, and Snowflake CoWork as the conversational workspace. A planned Cognee integration example explores memory for Snowflake agents. Final walkthrough a",
       "speakers": [],
       "score": {
         "fitScore": 80,
@@ -163,22 +136,78 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.284Z",
+      "scrapedAt": "2026-09-28T19:58:39.741Z",
       "verified": true
     },
     {
-      "id": "evt_urv62x",
-      "title": "Codex Community Meetup - San Francisco",
-      "url": "https://luma.com/5cewfkx1",
+      "id": "evt_fm3hvu",
+      "title": "Agents on a Leash, Products on Trial | SF | AI Show and Tell",
+      "url": "https://luma.com/wx7493ut",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-09-28T18:00:00.000-07:00",
+      "endDate": "2026-09-28T20:30:00.000-07:00",
+      "venue": "GitHub",
+      "city": "San Francisco",
+      "description": "Join us on Sept 28th for AI Show & Tell. We'll have several fantastic talks, snacks & drinks, in a beautiful venue. Can't wait to see you there!\nThis event is part of Global AI Community https://globalai.community/chapters/san-francisco/\nAgenda\n6 PM: Doors open\n6 - 6:30 PM: Networking, light bites and refreshments\n6:30 - 8:00 PM: Program5 min: Intro\n15 min: Talk - Who Gave the Agent the Keys? | Satya Devarakonda, Co-Founder and CEO @ ScaleKit\n15 min: Talk - Fire Your Prompts: DSPy + Jev Hit a New Cost/Latency Frontier | Isaac Miller, Lead maintainer of DSpy and Co-founder of CMPND.ai\n15 min: Talk - How to build a secure software factory | Mathis Joffre, Co-founder and Engineering Lead at Blaxel AI\n15 min: Talk - Your product was built for humans. Is it ready for agents? | Cedric Vidal, Pri",
+      "speakers": [],
+      "score": {
+        "fitScore": 78,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a talk. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-09-28T19:58:39.831Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1xf4gfx",
+      "title": "Startup Speedrun Hackathon",
+      "url": "https://luma.com/g42o84ln",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-09-28T09:00:00.000-07:00",
+      "endDate": "2026-09-28T17:00:00.000-07:00",
+      "venue": "Cloudflare",
+      "city": "San Francisco",
+      "description": "$27.5k+ in winner prizes. Thousands more in participant credits and perks. 8 hours to speedrun your startup.\nOn Day 271 of the singularity, Brainbase, Anthropic, Cloudflare, and Stripe are bringing together builders in San Francisco for the Startup Speedrun Hackathon.\nThe premise is simple: Take a startup idea and get as far as humanly or otherwise possible in 8 hours.\nBuild the product. Deploy the infrastructure. Set up payments. Give your agents tools. Find customers. \n\nWinners will get free incorporation and thousands in compute to kickstart their startup.\nThis hackathon is in-person at Cloudflare HQ (101 Townsend St., San Francisco, CA 94107), and participants should plan to be onsite for the duration of the event.\nBuild across three tracks:\nAgentic Payments: Build agents that can tran",
+      "speakers": [],
+      "score": {
+        "fitScore": 70,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Apply as judge or mentor",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-09-28T19:58:40.005Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1o2gx48",
+      "title": "Pre OpenAI Dev Day by Hexa & Alpic",
+      "url": "https://luma.com/hexa-1udp",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "talk",
-      "startDate": "2026-09-22T18:00:00.000-07:00",
-      "endDate": "2026-09-22T20:00:00.000-07:00",
+      "startDate": "2026-09-28T18:00:00.000-07:00",
+      "endDate": "2026-09-28T21:30:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Come hang out with the SF Codex community for an evening all about building with your voice brought to you by WorkOS and Parallel.ai\nCodex Voice lets you do a lot more than dictate prompts. You can talk through an idea, kick off coding tasks, steer agents while they work, check progress, and coordinate multiple threads without constantly going back to the keyboard.\nWe’ll spend the first 30 minutes hanging out and meeting people, then jump into about an hour of live demos showing different ways to use voice with Codex, from everyday coding workflows to more ambitious voice-driven agent orchestration.\nIf you’ve been experimenting with Codex already, come swap ideas. If you haven’t tried Voice yet, this is a good place to see what it can do.",
+      "description": "Flying in for DevDay? \nDon't spend Monday night alone in your hotel room refreshing the keynote rumors.\nHexa and Alpic are getting the builders together the night before: drinks, pizza, and a room full of people ready to discuss the latest gossip. All on us.\nLocation in San Francisco drops shortly. \nSpots are limited, so register now!",
       "speakers": [],
       "score": {
         "fitScore": 68,
@@ -191,26 +220,82 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.601Z",
+      "scrapedAt": "2026-09-28T19:58:40.469Z",
       "verified": true
     },
     {
-      "id": "evt_165v2kj",
-      "title": "Creative Machines | Hosted by Dessn",
-      "url": "https://luma.com/ys9d7lpl",
+      "id": "evt_1hvfli4",
+      "title": "LPL Romantasy Book Club: This Kingdom Will Not Kill Me",
+      "url": "https://luma.com/vdk8mt2q",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "talk",
-      "startDate": "2026-09-22T18:00:00.000-07:00",
-      "endDate": "2026-09-22T21:30:00.000-07:00",
+      "startDate": "2026-09-28T18:30:00.000-07:00",
+      "endDate": "2026-09-28T20:00:00.000-07:00",
+      "venue": "The Love Potion Library - Books, Tea, Pastries",
+      "city": "San Francisco",
+      "description": "Join us for an evening of romance, magic, and book talk as we discuss  This Kingdom Will Not Kill Me by Ilona Andrews. Whether you’re already obsessed with romantasy or just curious about the genre, this is a chance to sip tea, grab a pastry, and trade thoughts on the twists, tension, and moments that kept you turning pages at SF's only romance bookstore, The Love Potion Library.\nYour $5 ticket turns into store credit during the event!",
+      "speakers": [],
+      "score": {
+        "fitScore": 68,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-09-28T19:58:40.553Z",
+      "verified": true
+    },
+    {
+      "id": "evt_v5o5e",
+      "title": "ThinkingAI Agentic Growth Summit 2026",
+      "url": "https://luma.com/thinkingai-summit-us",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "conference",
+      "startDate": "2026-09-28T12:00:00.000-07:00",
+      "endDate": "2026-09-28T16:00:00.000-07:00",
+      "venue": "Computer History Museum",
+      "city": "Mountain View",
+      "description": "Most teams have deployed AI. Far fewer have changed how the work actually gets done.\nThe Agentic Growth Summit puts them in one room for a single question: what changes about the operating model when your analytics layer can act, not just report. The answers come from teams who already have it running including where it earns its keep and where it still needs a person in the loop.\nThis one is for the people who own growth, retention and monetization at consumer apps, marketplaces, games and B2B products. Growth, product, data and engineering leads — plus the lifecycle, performance marketing and promotions teams who have to act on what the data says.\n\nAgenda\n\n\nOur Panelists\n\n\nOur Speakers",
+      "speakers": [],
+      "score": {
+        "fitScore": 66,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a conference. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-09-28T19:58:40.097Z",
+      "verified": true
+    },
+    {
+      "id": "evt_20g5gz",
+      "title": "Dragon Gate: Premiere Night",
+      "url": "https://luma.com/eb9qwhtt",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "meetup",
+      "startDate": "2026-09-28T17:30:00.000-07:00",
+      "endDate": "2026-09-28T20:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Dessn's in SF for the week 🎉 Join us for a special evening bringing together some of the city's most creative builders.\n\nWe'll have a fireside conversation with two incredibly craft-driven founders, creative trivia, drinks, and a first look at Dessn's latest release 👀\n\nFireside: constraints & creativity\nAs tools make creation easier than ever, does great work come from freedom - or from boundaries? 🎨\nPaul Bakaus, Founder of Impeccable\nMoe Amaya, Founder of Operate\nModerated by Gabriella, Co-founder of Dessn\nAgenda\n6:00 — Doors, drinks & mingling\n6:30 — Fireside chat\n7:00 — Creative trivia\n7:20 — Break\n7:45 — A look at Dessn's latest, coming out of private beta, directly from the people who've been using it: the design team at Color\n8:15 — More drinks, more mingling + fun activities\nSpot",
+      "description": "One night, one screen, the best AI films of the year\nLocalHost has run AI film festivals across three continents this year, and for one evening, we are bringing the strongest films from our festivals to San Francisco for a premiere night at DG 717.\nThe night includes:\nA screening of the award-winning films from this year's LocalHost festivals and the best films we found on the internet, never before shown in the US. Primarily animation\nAfter all screenings, a mixer!\nWho this is for?\nFilmmakers, technical artists, studio people, and anyone building in video generation. If you make things, this is your room.\nAnd wait...\nInside DG717, the floor we'll be on, there are hundred of manga volumes... \n\nWe'll be announcing what we're doing with them this night. \n\nBe the first ones to find out!\nHoste",
       "speakers": [],
       "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "fitScore": 64,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -219,26 +304,26 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.673Z",
+      "scrapedAt": "2026-09-28T19:58:40.190Z",
       "verified": true
     },
     {
-      "id": "evt_kvjx8l",
-      "title": "Stripe Developer Meetup San Francisco September 2026",
-      "url": "https://luma.com/ntusn7f5",
+      "id": "evt_usi37p",
+      "title": "Above the Fog: Founders × Investors Rooftop Mixer",
+      "url": "https://luma.com/yv2hv22g",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
-      "format": "talk",
-      "startDate": "2026-09-22T18:00:00.000-07:00",
-      "endDate": "2026-09-22T20:00:00.000-07:00",
-      "venue": "Stripe",
-      "city": "South San Francisco",
-      "description": "Join us on September 22nd for the very first Stripe San Francisco developer meetup of 2026. This is an in-person event for anyone building with Stripe (or curious to start). An evening focused on Stripe user experiences, product insights, best practices, and community.\n🍕🍺 Perks\nFood and drinks provided!\n🎫 Tickets\nThere is a hard limit for RSVP, with a waitlist operating on Luma\n📍Location\nThe event is hosted at Stripe's South San Francisco office,\n354 Oyster Point Blvd, South San Francisco, CA, 94080\n🚗 Parking\nAttendees can park in the Stripe parking garage at level -1. Just be sure to validate your parking when checking in for the meetup!\n📣 Talks\nMark Moriarty (Stripe) - What it's like to be a Stripe (lightning talk)\nChethan Shriyan (AWS) - Agents that Transact: Agentic Commerce with",
+      "format": "meetup",
+      "startDate": "2026-09-28T18:00:00.000-07:00",
+      "endDate": "2026-09-28T21:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "No panels. No pitches. No awkward networking games.\nJust an evening on a San Francisco rooftop with an intentionally curated mix of SF Startup Labs founders, investors and operators, drinks in hand and the city around us.\nA rooftop mixer to kick off SF Startup Labs week, bringing together founders arriving in San Francisco with investors and operators actively backing and building what comes next.\nWhat to expect\nMeet founders in town for SF Startup Labs week alongside a curated group of pre-seed and seed investors, operators, and friends from our shared network. Trade notes on what’s being built, what’s raising, and what everyone is excited about next.\nDetails\n🗓 Monday, September 28, 2026\n🕕 6:00 PM – 9:00 PM PT\n🍷 Drinks on us\nInvite-only. This is a curated gathering and registrations ar",
       "speakers": [],
       "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "fitScore": 64,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -247,50 +332,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.739Z",
+      "scrapedAt": "2026-09-28T19:58:40.276Z",
       "verified": true
     },
     {
-      "id": "evt_pfae9p",
-      "title": "A Conversation with Dean Lloyd Minor",
-      "url": "https://luma.com/3q5pla3y",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-09-22T19:30:00.000-07:00",
-      "endDate": "2026-09-22T21:00:00.000-07:00",
-      "venue": "Berkeley, CA",
-      "city": "Berkeley",
-      "description": "Join MCBcDNA to welcome Dean Lloyd B. Minor, Dean of the Stanford University School of Medicine, for a conversation on medicine, academic leadership, and the future of healthcare.\nDean Minor is a surgeon-scientist and one of the nation's leading voices in academic medicine. In this conversation, we'll explore his path from surgeon-scientist to leading Stanford Medicine, his perspective on the future of medicine and academic leadership, and the opportunities available to students interested in pursuing a career in healthcare.\nAgenda:\n7:30 PM — Doors open\n7:40–7:45 PM — Welcome & introductions\n7:45–8:15 PM — Fireside chat with Dean Minor\n8:15–8:30 PM — Audience Q&A\n8:30–9:00 PM — Networking reception with food and drinks\nSeries Partner: Biocom\nWe're proud to have Biocom California as a partn",
-      "speakers": [],
-      "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-09-21T18:26:59.873Z",
-      "verified": true
-    },
-    {
-      "id": "evt_kbteya",
-      "title": "Claude Workshop with Provectus - San Francisco",
-      "url": "https://luma.com/claude-workshop-sf-sept-21",
+      "id": "evt_ow59ey",
+      "title": "building infra for agents",
+      "url": "https://luma.com/6fq9hzs4",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-09-21T13:00:00.000-07:00",
-      "endDate": "2026-09-21T17:30:00.000-07:00",
+      "startDate": "2026-09-28T18:00:00.000-07:00",
+      "endDate": "2026-09-28T20:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Direct access to Claude, the Anthropic team, and an afternoon built around the work you actually do.\nThis Claude Workshop, presented with Provectus, is a half-day product experience for business leaders who live in documents, spreadsheets, decks, and cross-tool workflows — Finance, Operations, Marketing, HR, Legal, and Sales.\nIf you are in a technical role, we encourage you to view the calendar and register for a Claude Code Workshop. Please refrain from registering for both sessions.\nPlease note: If you’re bringing your business laptop, make sure you have the Claude desktop app installed with Cowork enabled.\nYou'll experience a live \"Day in the Life\" demo that follows a business leader through a real workday with Claude: the afternoon brief pulled from Slack and Salesforce, the variance a",
+      "description": "Talks, sushi, beers, nerds:\n\n5:30 PM — Doors open, networking, food & drinks\n\n6:00 PM — Adam Gold, Islo - Evals for software factories: how to actually make it work\n6:20 PM — Alexander Jung, Unikraft - A sandbox for every thread\n6:40 PM — ...break...\n7:00 PM — Ashley Ha, Primitive - A communication layer for agents\n7:20 PM — Jesse Hu, Abundant AI - Incident-Arena: production incidents benchmark\n\n8:00 PM — Networking",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -303,50 +360,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.451Z",
+      "scrapedAt": "2026-09-28T19:58:40.365Z",
       "verified": true
     },
     {
-      "id": "evt_1p68698",
-      "title": "The Psychology of Decision-Making: Why Choosing Feels So Hard",
-      "url": "https://luma.com/j14jqq0f",
+      "id": "evt_8ohr1d",
+      "title": "90/30 Club Reading: DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://luma.com/yficwuy6",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-09-21T19:00:00.000-07:00",
-      "endDate": "2026-09-21T21:00:00.000-07:00",
-      "venue": "The New Parkway Theater",
-      "city": "Oakland",
-      "description": "🧠 Why does deciding what to have for lunch sometimes feel as hard as choosing a career?\nDecision-making might be the most frequent challenge we face every day, and it gets hardest when every option is appealing, or when none of them are. In this lecture, Dr. Amitai Shenhav, Associate Professor of Psychology and the Helen Wills Neuroscience Institute at UC Berkeley, shares research from his lab on why some choices cost us so much mental energy, and how we might make them easier.\nAmitai will walk through studies showing that reframing choices so options feel less mutually exclusive can make decisions feel less conflicting and more efficient. He will also explore why people avoid or delay decisions that feel like a lose-lose, and how a simple shift, choosing what to reject rather than what t",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-09-21T18:26:59.528Z",
-      "verified": true
-    },
-    {
-      "id": "evt_6a41h",
-      "title": "Blackboard Lectures on Tap",
-      "url": "https://luma.com/greptile-ke3n",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-09-22T18:30:00.000-07:00",
-      "endDate": "2026-09-22T21:30:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-09-28T19:00:00.000-07:00",
+      "endDate": "2026-09-28T22:00:00.000-07:00",
+      "venue": "Mox",
       "city": "San Francisco",
-      "description": "Greptile is hosting a lecture series at The Interval where developers, founders, and researchers give talks on things they’re working on, thinking about, or know way too much about.\nCome learn something new, ask questions, and stick around for conversation over cocktails, wine, beer, and NA drinks. Each edition will feature a new speaker and new topics.\nFor our first edition, we’ll hear from James Wu (Senior Software Engineer at Greptile), Jacob Thornton (CEO of Pierre), and Hahnbee Lee (Co-Founder/CTO of Mintlify).\n\nTopics:\n- Scaling agentic workloads on Kubernetes with MicroVMs\n- Reinventing the wheel and the capacity for work\n- Rebuilding docs infrastructure to a 100% cache hit rate\nAbout Greptile: AI code review backed by Benchmark, Initialized Capital, and Y Combinator. Our agents rev",
+      "description": "Come join us for a group discussion of \"DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression\"\n\nPaper link: https://arxiv.org/abs/2609.19969\nDeepSeek-V4.1-Flash targets the real cost bottleneck of long-horizon agents—input-heavy prefill and enormous KV caches—using asymmetric prefill/decode compute and aggressive cache compression to cut compute, memory, storage, and bandwidth costs while improving agentic performance.\n\nEvent Schedule:\n7pm-8pm: Quiet reading time, grab a snack and read! (optional)\n8pm-9pm: Group discussion about the paper 📝\n9pm-10pm: We have our space for a bit longer, stay to socialize or network!\nOur event is hosted within Mox SF, the gracious donors of the space where we will meet.",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -359,15 +388,15 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-09-21T18:26:59.806Z",
+      "scrapedAt": "2026-09-28T19:58:40.639Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 15,
-    "eventsScored": 15,
+    "eventsFound": 16,
+    "eventsScored": 16,
     "failures": [
       {
         "sourceSlug": "the-residency",

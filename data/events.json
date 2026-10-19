@@ -1,47 +1,20 @@
 {
-  "generatedAt": "2026-10-12T21:32:08.507Z",
+  "generatedAt": "2026-10-19T18:57:29.097Z",
   "generatedBy": "weekly-refresh",
   "events": [
     {
-      "id": "evt_rdby0o",
-      "title": "Bio-Data Hackathon Demos + Prizes at SPC",
-      "url": "https://luma.com/data-hackathon-demos",
+      "id": "evt_1hl3mvw",
+      "title": "Fireside Chat with Sriram Krishnan",
+      "url": "https://luma.com/sriram-spc",
       "hostSlug": "south-park-commons",
       "hostName": "South Park Commons (public events)",
       "tier": 2,
-      "format": "hackathon",
-      "startDate": "2026-10-18T17:00:00.000-07:00",
-      "endDate": "2026-10-18T19:00:00.000-07:00",
+      "format": "talk",
+      "startDate": "2026-10-20T11:30:00.000-07:00",
+      "endDate": "2026-10-20T13:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "This weekend, ML researchers, wet-lab biologists, bioinformaticians, and founders are hacking at SPC on multimodal patient datasets.\nOn Sunday, they show their work. Teams will demo what they found: new biological insights, new algorithmic approaches, new ways to visualize messy human data. Maybe even a bespoke therapeutic for a specific case.\nJudged by the SPC team and guest experts.\nSchedule \n5PM — Science Fair Style Demos\n6:30PM — Finalist Demos + Prizes\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next—what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni",
-      "speakers": [],
-      "score": {
-        "fitScore": 98,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a hackathon. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Apply as judge or mentor",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-12T21:32:07.976Z",
-      "verified": true
-    },
-    {
-      "id": "evt_eoh94o",
-      "title": "DYNA Robotics Fireside w/ SPC's Embodied AI Forum",
-      "url": "https://luma.com/cxfmn7r8",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-10-14T14:30:00.000-07:00",
-      "endDate": "2026-10-14T16:00:00.000-07:00",
-      "venue": "San Francisco, California",
-      "city": "San Francisco",
-      "description": "South Park Commons' Embodied AI Forum is delighted to host the founders of DYNA Robotics.\nEvent Details\n2:30pm: Doors Open\n3:00 - 4:00pm: Fireside Chat\n\nBio: Jason Ma is the co-founder of Dyna, which he started with Lindon Gao and York Yang in 2024. Dyna's pushing the boundaries of robot foundation models and deploying them in the field, now running in laundromats and Din Tai Fung, folding 1590 table napkins a day. Jason leads the research, from DYNA-1 to DYNA-2 world-action model, the first to show scaling laws for human-video-to-robot transfer. Before Dyna, he did his PhD at UPenn's GRASP Lab and researched at DeepMind, NVIDIA and Meta AI, where his work included Eureka (LLM-driven reward design), VIP (visual rewards learned from video), Open X-Embodiment and DROID robot datasets.\n\nAbout",
+      "description": "We're delighted to host Sriram Krishnan at South Park Commons.\nSriram Krishnan most recently served as Senior White House Policy Advisor on Artificial Intelligence, where he was an architect of the U.S. AI Action Plan.\n\nPrior to his White House role, Sriram was a General Partner at Andreessen Horowitz, where he led the firm's international expansion and invested across AI, infrastructure, and consumer technology. He has also held senior product leadership roles at Microsoft, Meta, and Twitter, including early work building Windows Azure and scaling Meta's mobile advertising platform.\nAgenda:\n11:30am: Doors Open\n12:00pm—1:00pm: Fireside Chat & Q&A\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure",
       "speakers": [],
       "score": {
         "fitScore": 96,
@@ -53,34 +26,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-12T21:32:07.785Z",
-      "verified": true
-    },
-    {
-      "id": "evt_w0juhj",
-      "title": "Fireside Chat with Tony Zhao, Sunday Robotics",
-      "url": "https://luma.com/tony-zhao-spc",
-      "hostSlug": "south-park-commons",
-      "hostName": "South Park Commons (public events)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-10-15T17:30:00.000-07:00",
-      "endDate": "2026-10-15T19:00:00.000-07:00",
-      "venue": "San Francisco, California",
-      "city": "San Francisco",
-      "description": "South Park Commons is delighted to host Tony Zhao, co-founder and CEO at Sunday Robotics, for a fireside chat.\nEvent Details\n5:30pm: Doors Open\n6:00-7:00pm: Fireside Chat\n\nTony Zhao is the co-founder and CEO of Sunday Robotics. He is building general-purpose home robots that give people time back for what matters most. He earned his B.S. in EECS from UC Berkeley in 2021 and later pursued a PhD in Computer Science at Stanford. His research in robotic fine manipulation contributed to ALOHA and ACT, influential projects and methods that helped advance imitation learning in robotics. Before founding Sunday Robotics, Tony worked at Google DeepMind and Tesla Autopilot.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and te",
-      "speakers": [],
-      "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-12T21:32:07.878Z",
+      "scrapedAt": "2026-10-19T18:57:28.246Z",
       "verified": true
     },
     {
@@ -107,22 +53,76 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-12T21:32:08.066Z",
+      "scrapedAt": "2026-10-19T18:57:28.319Z",
       "verified": true
     },
     {
-      "id": "evt_1r9inb3",
-      "title": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
-      "url": "https://luma.com/oct-hackathon",
+      "id": "evt_1thfnwv",
+      "title": "SPC Post-Training Forum: LangChain CTO, Ankush Gola",
+      "url": "https://luma.com/posttraining-langchain",
+      "hostSlug": "south-park-commons",
+      "hostName": "South Park Commons (public events)",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-10-22T14:45:00.000-07:00",
+      "endDate": "2026-10-22T16:00:00.000-07:00",
+      "venue": "San Francisco, California",
+      "city": "San Francisco",
+      "description": "Ask anyone shipping agents what matters most in the development lifecycle, and the answer keeps coming back to evaluations and the data that underlies them. Good evals drive progress for application companies and frontier labs alike.\nJoin SPC's Post-Training forum for a technical and product-focused conversation with LangChain's Co-Founder and CTO, Ankush Gola, one of the leading experts in agent evaluation. We'll explore what it means for traces to be the workhorse of continual learning, the challenges of operationalizing them, and when to make the jump to post-training.\nEvent Details\n2:45pm: Doors open\n3:00pm - 4:00pm: Fireside chat\nWhere: SPC SF\n\nModerated by Nick Mecklenburg (CTO, Whitney AI; post-training forum lead) and Vatsal Bajaj (CEO, Whitney AI)\n\nAbout South Park Commons (SPC)\nS",
+      "speakers": [],
+      "score": {
+        "fitScore": 96,
+        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-10-19T18:57:28.383Z",
+      "verified": true
+    },
+    {
+      "id": "evt_w0f0cq",
+      "title": "Fireside Chat with Tanay Kothari, Wispr Flow",
+      "url": "https://luma.com/tanay-kothari-spc",
+      "hostSlug": "south-park-commons",
+      "hostName": "South Park Commons (public events)",
+      "tier": 2,
+      "format": "talk",
+      "startDate": "2026-11-12T15:00:00.000-08:00",
+      "endDate": "2026-11-12T16:30:00.000-08:00",
+      "venue": "San Francisco, California",
+      "city": "San Francisco",
+      "description": "South Park Commons is excited to host Tanay Kothari, co-founder & CEO of Wispr (and SPC alum) for a fireside chat.\nEvent Details\n3:00pm: Doors Open\n3:30-4:30pm: Fireside Chat\nTanay Kothari is the co-founder and CEO of Wispr, the AI-powered voice productivity tool. A four-time founder, he launched FeatherX, an AI personalization startup for online stores, while still in college. After it was acquired by Cerebra Technologies, he joined the company to lead engineering and product. Earlier, he built Convert, a music discovery platform that grew to more than 2.5 million organic monthly active users.\n\nTanay holds a bachelor’s degree in Computer Science and a master’s degree in Artificial Intelligence from Stanford, where he taught the university’s Deep Learning course alongside Prof. Andrew Ng a",
+      "speakers": [],
+      "score": {
+        "fitScore": 96,
+        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-10-19T18:57:28.449Z",
+      "verified": true
+    },
+    {
+      "id": "evt_9ty5a0",
+      "title": "Universal Hackathon - Create Your Own AI Workforce | AWS Builder Loft",
+      "url": "https://luma.com/lfjtdq6b",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "hackathon",
-      "startDate": "2026-10-12T12:30:00.000-07:00",
-      "endDate": "2026-10-12T17:00:00.000-07:00",
-      "venue": "135 Constitution Dr",
-      "city": "Menlo Park",
-      "description": "What if your company had a shared brain that could understand its documents, tools, processes, people, and institutional knowledge—and make that knowledge available to employees and AI agents?\nIn this 4-hour hands-on hackathon, participants will build a working Company Brain: an AI-powered knowledge system that connects information from sources such as documentation, meeting notes, FAQs, policies, product information, support content, and internal tools.\nTechEquity Ai invites you to an afternoon of applied AI learning and hands-on building at Snowflake's Silicon Valley AI Hub (SVAI) in Menlo Park, CA.\nThis session is part of the TechEquity Ai Monthly Forum Series, combining strategic insights and real-world use cases from industry leaders, alongside technical workshops and live demonstrati",
+      "startDate": "2026-10-19T09:30:00.000-07:00",
+      "endDate": "2026-10-19T20:30:00.000-07:00",
+      "venue": "AWS Builder Loft",
+      "city": "San Francisco",
+      "description": "🎟️ REGISTER FIRST (both are required)\n1️⃣ AWS registration, needed to enter the building https://events.builder.aws.com/EARgN9\n2️⃣ Join the Discord https://discord.gg/QF2AkaAfTr\nSpace is limited.\n⚠️ ENTRY REQUIREMENTS\n18+ only\nValid government-issued physical photo ID at check-in. Digital IDs will not be accepted.\nNo scooters or bikes inside any Amazon building. No on-site parking.\nThe Universal Celebration Hackathon is a celebration of creativity, entrepreneurship, and the next generation of AI-powered companies. Bring your ideas, experiment with new possibilities, and turn your vision into something real.\nThis hackathon is about more than building prototypes, chatbots, or collections of AI agents. It’s about imagining what happens when AI agents become a team of digital people who can c",
       "speakers": [],
       "score": {
         "fitScore": 80,
@@ -135,26 +135,26 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-12T21:32:08.153Z",
+      "scrapedAt": "2026-10-19T18:57:28.531Z",
       "verified": true
     },
     {
-      "id": "evt_lquipj",
-      "title": "TechCrunch Disrupt: Multiplayer AI for Founders Mixer",
-      "url": "https://luma.com/techcrunchdisrupt2026",
+      "id": "evt_1b0b9vm",
+      "title": "Filipinos in AI - Let's Meet",
+      "url": "https://luma.com/il2mn1sa",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
-      "format": "conference",
-      "startDate": "2026-10-12T16:00:00.000-07:00",
-      "endDate": "2026-10-12T18:30:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "format": "demo",
+      "startDate": "2026-10-19T18:00:00.000-07:00",
+      "endDate": "2026-10-19T20:30:00.000-07:00",
+      "venue": "Corgi Cafe",
       "city": "San Francisco",
-      "description": "Join PromptQL for a relaxed founder mixer ahead of TechCrunch Disrupt. Meet fellow founders and co-founders, share what you’re building, and compare notes over snacks and drinks.\nWhat to expect:\n🤝 Meet other founders. Share ideas and make connections you can continue throughout the conference.\n💡 Explore multiplayer AI. Stop by our demo stations to see how teams use PromptQL to work with AI, their company’s knowledge, and their data. Ask questions and talk through what could be useful for your business.\n🍽️ Enjoy snacks and drinks. We’ll have samosas, vada pav, and hot chai from Curry Up Now to enjoy while you get to know fellow founders.\nWe’re offering $1,000 in PromptQL credits to qualifying startups with teams of at least 3 people. To express interest, speak with our team at the mixer ",
+      "description": "Filipinos in AI & Tech: Launch Event & Demo Night 🇵🇭✨\nJoin us for the launch of Filipinos in AI & Tech, a community series elevating Pinoy, Pinay, and Filipino software engineers, ML researchers, and technical founders across the Bay Area!\nLocation:📍 The Corgi Cafe (9 Claude lane)\nWhat to Expect:\nInteractive Demo Stations: Live, hands-on demos from local engineers showcasing real-world AI tools and agentic workflows.\nHappy Hour & Networking: Connect with fellow builders over drinks and light bites.\nAgenda:\n6:00 PM: Doors Open & Networking\n6:45 PM: Welcome Remarks\n7:00 PM: Live Demos, Lightning Talks & Happy Hour\n8:30 PM: Wrap-Up\nRSVP: Space is limited—grab your ticket to lock in your spot!",
       "speakers": [],
       "score": {
         "fitScore": 76,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a conference. Largest aggregator. High frequency, lower archetype density.",
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a demo. Largest aggregator. High frequency, lower archetype density.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "ai-native-staff",
@@ -163,22 +163,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-12T21:32:08.242Z",
+      "scrapedAt": "2026-10-19T18:57:28.761Z",
       "verified": true
     },
     {
-      "id": "evt_1g62kmw",
-      "title": "Scrappy AI Founders Play Soccer",
-      "url": "https://luma.com/q4lmex7k",
+      "id": "evt_1928cpt",
+      "title": "Agents hunting Agents: Open Source + AI approaches.",
+      "url": "https://luma.com/aicyber-59x4",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-12T18:30:00.000-07:00",
-      "endDate": "2026-10-12T21:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "12 Scrappy Founders - outdoor endurance community for founders and investors the Bay Area.\n\nWhat is this? \n\n18 AI founders and investors play two 5x5 soccer games.\nThink an hour of running around, some friendly competition and drinks after.\n\nWho is it for?\nFounders who've raised seed to Series A+\nFounders with 500k+ ARR\nInvestors focused on seed to series A\n\nWhere & When? \n\nOct 12 (Monday) - San Francisco\nGame: 6:30-7:30pm \nDrinks/food: 7:40-8:40pm",
+      "startDate": "2026-10-19T10:30:00.000-07:00",
+      "endDate": "2026-10-19T15:30:00.000-07:00",
+      "venue": "Silicon Valley AI Hub",
+      "city": "Menlo Park",
+      "description": "An agent swarm is making moves. Is it launching an attack, or simply doing its job? JoinAgents hunting Agents on October 19 at the Silicon Valley AI Hub in Menlo Park, where you’ll explore how to distinguish malicious AI behavior from legitimate agent activity.\nYou’ll work in teams, with mentoring from leaders in AI and cybersecurity, to use AI to spot malicious AI behavior. Along the way, you’ll explore Vigil, a 100% open source way to use agents and other AI to tell the difference between malicious and benign agents. You’ll also consider how an agent harness can help keep your own agents behaving as intended.\nSome understanding of AI agents and cybersecurity will be helpful. Bring your questions and be ready to examine ambiguous behavior, compare interpretations with your team, and decid",
       "speakers": [],
       "score": {
         "fitScore": 70,
@@ -191,22 +191,106 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-12T21:32:08.331Z",
+      "scrapedAt": "2026-10-19T18:57:28.614Z",
       "verified": true
     },
     {
-      "id": "evt_bbqn6l",
-      "title": "San Francisco | Claude for Games",
-      "url": "https://luma.com/claudeforgames",
+      "id": "evt_nrvns5",
+      "title": "Open Source AI Week 2026 | Open Weight Debate Night",
+      "url": "https://luma.com/592fcwx2",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "other",
+      "startDate": "2026-10-19T17:00:00.000-07:00",
+      "endDate": "2026-10-19T21:00:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "Open Source AI Week 2026 | Open Weight Debate Night\nThe Open Weight Debate is where Open Source AI Week gets into discussion, opinions, and fun. We're bringing together sharp minds who actually like to debate and discuss with each other and putting them on stage to hash it out live.\nReal arguments, real examples, and real dialogue about the questions that matter most to the future of open source AI from leaders shaping the AI ecosystem including Ion Stoica (UC Berkeley, Databricks, Anyscale),  Percy Liang (Stanford, MARIN Project, Open Athena), Ben Brooks (Black Forest Labs), Cheryl Cheng (M12), Malo Bourgon (MIRI), David Bellamy, MBZUAI Institute of Foundation Models) and moderated by Michael Schwarz (Microsoft), Vibhu Sapra (AI Engineer / Latent Space), and Sophia Dew (MTS Live).\nWe're h",
+      "speakers": [],
+      "score": {
+        "fitScore": 70,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a other. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-10-19T18:57:28.692Z",
+      "verified": true
+    },
+    {
+      "id": "evt_d37abs",
+      "title": "Cline, Parallel, & Composio Hackathon",
+      "url": "https://luma.com/m8euvq9n",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-10-19T11:00:00.000-07:00",
+      "endDate": "2026-10-19T16:30:00.000-07:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "A Cline x Composio x Parallel hackathon for Open Source AI Week\nEveryone's talking about closed personal agents right now. We want to see what you can build in the open.\nCome spend the day building your own personal agent with Cline, Composio, Parallel, and open-source models. Bring a laptop and an idea, or find a teammate here and figure it out together. The only rule is that you open source what you build and share it.\nPrizes\n1st: NVIDIA DGX Spark\n2nd: $1,000 in Cline credits\n3rd: [~$500 prize, TBA]\nJudges\nMax Paulus, Senior Software Engineer, Cline (https://www.linkedin.com/in/max-paulus/)\nRayane Boussanni, Composio (https://www.linkedin.com/in/rayane-boussanni/)\nKaran Aggarwal, Parallel (https://www.linkedin.com/in/karan-aggarwal/)\nNeed ideas? Here are a few to get you started\nA mornin",
+      "speakers": [],
+      "score": {
+        "fitScore": 70,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a hackathon. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Apply as judge or mentor",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-10-19T18:57:28.841Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1qa73q3",
+      "title": "THE SF DATABASE MEETUP: October",
+      "url": "https://luma.com/ip56zybg",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "meetup",
+      "startDate": "2026-10-19T17:30:00.000-07:00",
+      "endDate": "2026-10-19T21:00:00.000-07:00",
+      "venue": "PlanetScale",
+      "city": "San Francisco",
+      "description": "Join us on October 19th for the SF Database Meetup where we'll dive into the fundamentals of databases and learn about some new storage systems built for agents.\nAs usual, also be giving away our newly refreshed Database hats, Neki stickers and more! There’s limited spots available for this event so make sure to RSVP.\nSpeakers:\nChristian Glassiognon, PlanetScale: What is a database really?\nHunter Leath, Archil: Designing a cloud filesystem for agents at scale\nErik Dunteman, Modal: Overeasy, a branching filesystem for agents and RL\nSchedule:\n5:30–6:00 — Doors Open and Networking\n6:00–7:15 — Talks\n7:15–7:45 — Questions\n7:40–9:00 — Networking\nCan’t make this one? Sign up here to learn about future events\nAbout PlanetScale\nPlanetScale is the most reliable and performant database platform for M",
+      "speakers": [],
+      "score": {
+        "fitScore": 64,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-10-19T18:57:28.988Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1k3saoz",
+      "title": "Claude Workshop with Provectus - San Francisco",
+      "url": "https://luma.com/claude-workshop-sf-oct-19",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-12T17:00:00.000-07:00",
-      "endDate": "2026-10-12T21:00:00.000-07:00",
+      "startDate": "2026-10-19T13:00:00.000-07:00",
+      "endDate": "2026-10-19T17:30:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Claude for Games · Build Day\n\nAn evening to make your own video game with Claude. 🎮 The Claude Community Build Day comes to San Francisco with a brand new theme.\nWhat's it about?\nBuilding, not listening. Show up with an idea (or without one), sit down and make a game with Claude. A small game, made in one evening, but yours and playable. At the close, everyone plays what the others built.\nIt's for fun: no competition, no judging, no homework.\n🎁 Credits for every builder\nEvery approved attendee receives Claude API credits to power their game with Claude Code, so you build all evening without worrying about tokens.\n\nEvery attendee will receive $100 in Apify credits.\nAgenda\nDoors at 5:00 PM, one continuous build block with no break, demos to close.\nWho it's for\nDevelopers, students, designe",
+      "description": "Direct access to Claude, the Anthropic team, and an afternoon built around the work you actually do.\nThis Claude Workshop, presented with Provectus, is a half-day product experience for business leaders who live in documents, spreadsheets, decks, and cross-tool workflows — Finance, Operations, Marketing, HR, Legal, and Sales.\nIf you are in a technical role, we encourage you to view the calendar and register for a Claude Code Workshop. Please refrain from registering for both sessions.\nPlease note: If you’re bringing your business laptop, make sure you have the Claude desktop app installed.\nYou'll experience a live \"Day in the Life\" demo that follows a business leader through a real workday with Claude: the afternoon brief pulled from Slack and Salesforce, the variance analysis the CFO need",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -219,22 +303,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-12T21:32:08.418Z",
+      "scrapedAt": "2026-10-19T18:57:28.911Z",
       "verified": true
     },
     {
-      "id": "evt_1xwmfu4",
-      "title": "Long Lead Time: A Hardware Happy Hour @ TechCrunch Disrupt",
-      "url": "https://luma.com/j0d8zw82",
+      "id": "evt_jfh4sd",
+      "title": "AI agents to scale your startup",
+      "url": "https://luma.com/bdfzpaib",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-12T18:00:00.000-07:00",
-      "endDate": "2026-10-12T21:00:00.000-07:00",
+      "startDate": "2026-10-19T18:30:00.000-07:00",
+      "endDate": "2026-10-19T21:00:00.000-07:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "Excited about the future of the physical world? Come mingle with fellow builders who are making robots, rockets, chips, and everything in between!\nSyntro is hosting Long Lead Time, a happy hour during TechCrunch Disrupt, for the founders, engineers, and operators building robotics and frontier hardware to connect, share ideas and war stories, and partner up.\nJoin us for drinks and good vibes!\nABOUT SYNTRO\nSyntro is the first agentic procurement platform purpose built for the realities of modern hardware manufacturing. We enable manufacturers to discover, select, and manage suppliers across the entire hardware lifecycle, from first prototype to production, at the speed and intelligence of AI. Learn more here: usesyntro.com\nSyntro's event is independently organized and operated solely by Syn",
+      "description": "How do you actually use AI agents to scale your startup?\nYou have 12 tabs open and three jobs you haven’t hired for yet. What can an AI agent actually take off your plate?\nJoin Trevor Keith, founder and CEO of Solid, for a practical workshop on moving from asking AI questions to delegating real work.\nYou’ll learn:\n👉 Which tasks to hand over across GTM, operations, support, and engineering\n👉 How to give agents the tools and context to finish the job\n👉 Where to set permissions, budgets, and human approvals\n👉 How to avoid spending more time managing agents than doing the work yourself\nBring that task you keep putting off. Stay for drinks and meet other founders figuring it out too.\n\nAbout Trevor\nTrevor Keith studied at Waterloo and MIT Sloan, earning his MBA in 2022. He’s the founder and ",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -247,15 +331,15 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-12T21:32:08.506Z",
+      "scrapedAt": "2026-10-19T18:57:29.096Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 13,
-    "eventsScored": 13,
+    "eventsFound": 16,
+    "eventsScored": 16,
     "failures": [
       {
         "sourceSlug": "the-residency",

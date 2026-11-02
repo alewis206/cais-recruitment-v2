@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:06:48.432Z",
+  "generatedAt": "2026-11-02T22:04:11.657Z",
   "generatedBy": "weekly-refresh",
   "events": [
     {
@@ -26,26 +26,26 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:46.494Z",
+      "scrapedAt": "2026-11-02T22:04:10.543Z",
       "verified": true
     },
     {
-      "id": "evt_1yjpbd1",
-      "title": "Fireside Chat with Abhinav Gupta, Skild.ai",
-      "url": "https://luma.com/skild-spc",
+      "id": "evt_qgd46j",
+      "title": "SPC Demo Night",
+      "url": "https://luma.com/southpark-hkkd",
       "hostSlug": "south-park-commons",
       "hostName": "South Park Commons (public events)",
       "tier": 2,
-      "format": "talk",
-      "startDate": "2026-11-18T16:30:00.000-08:00",
-      "endDate": "2026-11-18T18:00:00.000-08:00",
-      "venue": "San Francisco, California",
+      "format": "demo",
+      "startDate": "2026-11-05T18:30:00.000-08:00",
+      "endDate": "2026-11-05T21:00:00.000-08:00",
+      "venue": "380 Brannan St",
       "city": "San Francisco",
-      "description": "South Park Commons is delighted to host Abhinav Gupta, co-founder of Skild.ai.\nEvent Details\n4:30pm: Doors Open\n5:00-6:00pm: Fireside Chat\n\nAbhinav Gupta serves as President and Co‑Founder of Skild AI. He is also a Professor at the Robotics Institute, Carnegie Mellon University. Prior to this, Abhinav was founding research lead at FAIR Robotics and worked at Google and AI2 as well.\nAt Skild, Abhinav focuses on building a general-purpose brain for robots with a long-term goal of building general purpose intelligence. Abhinav is known for pioneering contributions to AI, including scaling visual and robot learning, self-supervised learning, and lifelong learning systems.\nHe is a recipient of several awards including IAPR 2020 JK Aggarwal Prize, PAMI 2016 Young Researcher Award, ONR Young Inve",
+      "description": "Come see:\nAutonomous biotechs (Sourav Bandopadhyay)\nFrontiers of phonetic modeling (Aruna Srivastava)\nTraining an AI model to play Super Smash Bros beyond a pro-level (Eric Gu)\nSim-to-real-to-sim at scale (Francis Williams)\nThis is the vibe if you haven't joined us before: new behaviors, mech interp & steering.\n\nDemos start at 7:00, sharp!\nIf you are exploring what's next, apply to join SPC.",
       "speakers": [],
       "score": {
-        "fitScore": 96,
-        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a talk. 'Between things' demographic. Public events only without sponsor.",
+        "fitScore": 94,
+        "reasoning": "Rule-based score: Tier 2 host (South Park Commons (public events)) running a demo. 'Between things' demographic. Public events only without sponsor.",
         "suggestedAction": "Attend as participant",
         "archetypeMatches": [
           "failed-founder"
@@ -53,7 +53,35 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:46.579Z",
+      "scrapedAt": "2026-11-02T22:04:10.377Z",
+      "verified": true
+    },
+    {
+      "id": "evt_1kpyh63",
+      "title": "LangChain SF Meetup with TypeSafe AI: Judgment Call",
+      "url": "https://luma.com/iuc3ostf",
+      "hostSlug": "langchain",
+      "hostName": "LangChain",
+      "tier": 1,
+      "format": "talk",
+      "startDate": "2026-11-05T18:00:00.000-08:00",
+      "endDate": "2026-11-05T20:30:00.000-08:00",
+      "venue": "San Francisco, CA",
+      "city": "San Francisco",
+      "description": "Join us in San Francisco (SoMa) for a night of talks on building with decision models and using them to evaluate agents. We will be joined by Sydney Runkle, a Product Manager on our OSS team, Allie Laabs, Founding Developer Advocate at TypeSafe AI, and Seán Roche, an Education Engineer at LangChain.\n\n🎤 Talk 1: Decision Models and LangGraph with Sydney\nMost agents send every judgment call to a frontier LLM, which is slow and costly. Decision models like TypeSafe AI’s Jev answer typed questions about agent state with calibrated probabilities. We’ll cover where they fit in an agent harness and a pattern for pairing them with LLMs: cheap by default, frontier on exception.\n🎤 Talk 2: Don’t Call It a Decision Model with Allie\nCalling it a “decision model” isn’t wrong, but it can steer people to",
+      "speakers": [],
+      "score": {
+        "fitScore": 90,
+        "reasoning": "Rule-based score: Tier 1 host (LangChain) running a talk. Framework-specific = active builders. Skews junior; filter hard.",
+        "suggestedAction": "Attend as participant",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-11-02T22:04:09.813Z",
       "verified": true
     },
     {
@@ -80,7 +108,7 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:46.312Z",
+      "scrapedAt": "2026-11-02T22:04:10.300Z",
       "verified": true
     },
     {
@@ -107,55 +135,27 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:46.410Z",
+      "scrapedAt": "2026-11-02T22:04:10.459Z",
       "verified": true
     },
     {
-      "id": "evt_1vmmrve",
-      "title": "From Satellite to Signal: Building a Geospatial Agentic AI Stack on AWS and Wherobots",
-      "url": "https://luma.com/m4bngiey",
+      "id": "evt_13cbg1j",
+      "title": "Fireworks: Deploy Buildathon with Microsoft & NVIDIA",
+      "url": "https://luma.com/fireworks-8kmc",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
-      "format": "talk",
-      "startDate": "2026-10-27T10:00:00.000-07:00",
-      "endDate": "2026-10-27T14:00:00.000-07:00",
-      "venue": "AWS Builder Loft",
-      "city": "San Francisco",
-      "description": "A hands-on workshop with AWS and Wherobots, plus a fireside chat with HERE Technologies\nNote: that this event is at an AWS facility and as such AWS requires all attendees register via their registration page to attend. Please do so in addition to signing up on this luma by filling out this form: https://events.builder.aws.com/nNlEnR\nAgenda\n10:00am to 10:30am: Doors open and check-in\n10:30am to 11:00am: Fireside chat: Precise answers from probabilistic AI\n11:00am to 11:20am: Context Engine for Physical World Data : Vision and Mission\n11:20am to 12:45pm: Hands-on workshop\n12:45pm to 1:45pm: Lunch and networking\nFireside Chat: Precise Answers from Probabilistic AI\nBen Pruden, Head of Go-to-Market at Wherobots, and Hervé Utheza, Senior Director, AI & Emerging Technologies at HERE Technologies,",
-      "speakers": [],
-      "score": {
-        "fitScore": 78,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a talk. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:46.665Z",
-      "verified": true
-    },
-    {
-      "id": "evt_yb4krj",
-      "title": "Git Your Ship Together: Multiplayer AI for Product and Engineering (Pre-GitHub Universe)",
-      "url": "https://luma.com/promptql-github-universe-2026",
-      "hostSlug": "bond-ai",
-      "hostName": "Bond AI / GenAI SF",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-10-27T17:00:00.000-07:00",
-      "endDate": "2026-10-27T19:00:00.000-07:00",
+      "format": "hackathon",
+      "startDate": "2026-11-02T09:00:00.000-08:00",
+      "endDate": "2026-11-02T20:00:00.000-08:00",
       "venue": "San Francisco, CA",
       "city": "San Francisco",
-      "description": "In San Francisco for GitHub Universe?\nJoin PromptQL and RocketRide for a fireside chat with Tanmai Gopal and Joe Maionchi about how product and engineering teams work together with AI.\nAI can help write the code, but your team still needs to agree on what to build, share the context behind decisions, and get it into production.\nWe’ll explore multiplayer AI workflows, where people and AI work from shared context, including:\nHow teams keep customer needs, product decisions, and engineering knowledge connected.\nHow shared context helps product and engineering teams make decisions and coordinate their work.\nWhat still gets lost between a promising prototype and reliable production.\nBring your questions and share what’s working, and what isn’t, as your team puts AI into practice. Compare notes ",
+      "description": "Make your own frontier\nNovember 2 | San Francisco\nFireworks, Microsoft, and NVIDIA are handing you one challenge: take open models and make your own frontier, on a task you define. Train a specialized model, build a smarter harness, route across models, whatever gets you there. Best result wins $10,000!\nThe challenge\nPick a task you care about and deploy a model that serves it in production. Build an eval using your own data, synthetic data, or a public set. Then measure the tradeoffs your deployment makes: quality vs. efficiency, accuracy vs. latency, pass rate vs. cost. Tune at least one dimension against your baseline, show the business value, and show how far you pushed it.\n\nThink you can make it? Let's see it!\nTop prizes + additional\n1st place: $10,000\n2nd place: $5,000\n3rd place: $3,",
       "speakers": [],
       "score": {
-        "fitScore": 78,
-        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a talk. Largest aggregator. High frequency, lower archetype density.",
-        "suggestedAction": "Attend as participant",
+        "fitScore": 80,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a hackathon. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Apply as judge or mentor",
         "archetypeMatches": [
           "ai-native-staff",
           "failed-founder"
@@ -163,22 +163,50 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.030Z",
+      "scrapedAt": "2026-11-02T22:04:10.634Z",
       "verified": true
     },
     {
-      "id": "evt_kaw23o",
-      "title": "GTM AI Paradox: You Got Speed, But Lost the System - One Way Summit Official Side Event",
-      "url": "https://luma.com/h0sa5l3i",
+      "id": "evt_1wi6o24",
+      "title": "The AI Will See You Now: AI for Healthcare, Sports and Human Performance",
+      "url": "https://luma.com/ti8gow87",
+      "hostSlug": "bond-ai",
+      "hostName": "Bond AI / GenAI SF",
+      "tier": 2,
+      "format": "hackathon",
+      "startDate": "2026-11-02T18:30:00.000-08:00",
+      "endDate": "2026-11-02T22:00:00.000-08:00",
+      "venue": "San Francisco, California",
+      "city": "San Francisco",
+      "description": "Access to care remains one of healthcare’s most persistent challenges. Patients wait months for appointments, therapists manage growing caseloads, and athletes too often return to play without adequate support. This evening is dedicated to building AI solutions that close those gaps.\nOn Monday, November 2, Origin Speech Therapy will host a one-night hackathon in San Francisco for builders working at the intersection of AI and health. Origin supports speech, occupational, and physical therapists in launching and growing independent practices, and works daily with the gaps in care that technology can help close.\nFocus Areas\n→ Healthcare: clinical decision support, therapy assistants, triage, and documentation\n→ Sports and Human Performance: injury prevention, return to play, recovery, and we",
+      "speakers": [],
+      "score": {
+        "fitScore": 80,
+        "reasoning": "Rule-based score: Tier 2 host (Bond AI / GenAI SF) running a hackathon. Largest aggregator. High frequency, lower archetype density.",
+        "suggestedAction": "Apply as judge or mentor",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": false,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-11-02T22:04:10.991Z",
+      "verified": true
+    },
+    {
+      "id": "evt_19tl19l",
+      "title": "OSA Con 2026 - The Anti-Hype Conference for Open Source Analytics and AI",
+      "url": "https://luma.com/eis7567t",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "conference",
-      "startDate": "2026-10-27T16:00:00.000-07:00",
-      "endDate": "2026-10-27T18:00:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-11-02T09:30:00.000-08:00",
+      "endDate": "2026-11-02T17:30:00.000-08:00",
+      "venue": "AWS Builder Loft",
       "city": "San Francisco",
-      "description": "GTM AI Paradox: You Got Speed, But Lost the System - One Way Summit Official Side Event\nAI-native companies are moving faster than ever and skipping the foundational steps that create scalable growth.  They’re shipping product before defining category. Generating output before understanding outcomes. Scaling motion before proving signal.\nThe result: a new kind of GTM debt.\nThis workshop breaks down the GTM AI Paradox:  Why speed without a GTM operating system creates fragility And what it takes to build a system that is fast, repeatable, and built to scale\nAttendees will leave with:\n🔺A clear go-to-market operating system\n🔺 A maturity assessment of where you are in their GTM journey\n🔺Real examples of what good looks like, from data to agentic GTM.\nWe'll also enjoy happy hour before and a",
+      "description": "IMPORTANT: For in-person attendees:  Because this event takes place in the AWS Builder Loft, please register here: https://events.builder.aws.com/ReRbol\nAll guests must be 18+ and present a valid government-issued physical photo ID at check-in (digital IDs will not be accepted). Scooters and bikes are not permitted in any Amazon building with no on-site parking available.\nSTREAM LINKS: For online registrations, check your registration email (it should be coming from \"Altinity\"). There will be our live stream links! We are also listing them here\nRoom 1: https://www.youtube.com/live/nh2K4tSh6Rc\nRoom 2: https://www.youtube.com/live/Ac4Q50AiiJo\n______________________________________\nDescription:\n2026 is the year agentic AI finally works, and it’s changing open source analytics.\nOSA Con 2026 br",
       "speakers": [],
       "score": {
         "fitScore": 76,
@@ -191,22 +219,50 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:46.761Z",
+      "scrapedAt": "2026-11-02T22:04:10.705Z",
       "verified": true
     },
     {
-      "id": "evt_1bh9vof",
-      "title": "Platform Engineering Meetup: Agents broke the balance (& how to fix it)",
-      "url": "https://luma.com/platform-0kqf",
+      "id": "evt_11iw4qf",
+      "title": "NETWORKING EVENT - LATEST DANISH LIFE SCIENCE INNOVATIONS",
+      "url": "https://luma.com/3k2wariy",
+      "hostSlug": "luma-sf-discover",
+      "hostName": "Lu.ma SF discover (catch-all)",
+      "tier": 2,
+      "format": "dinner",
+      "startDate": "2026-11-03T17:30:00.000-08:00",
+      "endDate": "2026-11-03T20:30:00.000-08:00",
+      "venue": "1485 Bay Laurel Dr",
+      "city": "Menlo Park",
+      "description": "Join the Royal Consulate General of Denmark in Silicon Valley and Innovation Centre Denmark on November 3 for an evening of networking, food, and drinks, featuring 16 Danish life science and health technology companies showcasing their innovations.\nWe are pleased to welcome Peter Bisgaard, Managing Director at Pivotal Life Sciences, as our keynote speaker. Meet the founders, hear their two-minute pitches, and connect with investors, partners, and healthcare industry leaders.\nAgenda\n5:30–6:00 p.m. — Arrival and check-in\n6:00–6:05 p.m. — Welcome by Jacob Vind, Consul General of Denmark\n6:10–6:20 p.m. — Keynote by Peter Bisgaard, Managing Director at Pivotal Life Sciences\n6:30–7:10 p.m. — Company pitches: two minutes per company\n7:10–8:30 p.m. — Networking and standing dinner\nThis is a privat",
+      "speakers": [],
+      "score": {
+        "fitScore": 76,
+        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a dinner. Catches events from hosts we don't track. Lower archetype density, wider net.",
+        "suggestedAction": "Request warm intro",
+        "archetypeMatches": [
+          "ai-native-staff",
+          "failed-founder"
+        ],
+        "warmIntroNeeded": true,
+        "scoringMethod": "rules"
+      },
+      "scrapedAt": "2026-11-02T22:04:11.436Z",
+      "verified": true
+    },
+    {
+      "id": "evt_y6f365",
+      "title": "MCP in Production: What’s Missing?",
+      "url": "https://luma.com/elastic-mcp",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "meetup",
-      "startDate": "2026-10-27T17:00:00.000-07:00",
-      "endDate": "2026-10-27T19:00:00.000-07:00",
-      "venue": "130 Sutter St floor 7",
+      "startDate": "2026-11-02T17:00:00.000-08:00",
+      "endDate": "2026-11-02T19:00:00.000-08:00",
+      "venue": "33 New Montgomery St",
       "city": "San Francisco",
-      "description": "For years, writing code and validating it moved at roughly the same pace. Agents broke that balance.\nCode now arrives faster than pipelines and reviewers can absorb it. Without validation that runs where agents actually work, more AI output means more failed changes, slower recovery, and ballooning compute and token costs.\n\nCome connect with peers who are rebuilding feedback for the agent era, and swap notes with engineers solving this in production. Bring the bottlenecks you're stuck on, the fixes that worked, and the ones that didn't.\n\n⛳ During the meetup, we'll discuss:\nWhy AI code generation has outpaced validation, and how that gap hits change success rates and recovery times\nHow pairing a robust delivery pipeline with sub-minute checks where agents write code improves efficiency and ",
+      "description": "You've got your MCP connected but what's next? What does it take to turn an MCP connection into a working application?\nJoin speakers from Elastic, Arcade.dev, and Temporal for a developer meetup exploring three pieces of that puzzle: connecting agents to data, governing their access, and bringing tools together into workflows.\nWe’ll hear from:\nMatt Ryan: Principal PM, Elastic — A look at Elastic’s new global MCP endpoint and what it enables for developers.\nEvan Tahler: Head of Engineering, Arcade.dev — MCP governance: how to think about access and control as agents interact with your tools and systems.\nMelanie Warrick: AI DevRel Engineer, Temporal.io — A multi-agent demo connecting Temporal and Elastic through the Temporal Agent Harness and MCP, showing how to control and manage a system o",
       "speakers": [],
       "score": {
         "fitScore": 74,
@@ -219,22 +275,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:46.843Z",
+      "scrapedAt": "2026-11-02T22:04:10.780Z",
       "verified": true
     },
     {
-      "id": "evt_hi2v6k",
-      "title": "Who Killed the Build? 💀 A Halloween DevTools Murder Mystery with Flox",
-      "url": "https://luma.com/aivalley-lqjv",
+      "id": "evt_74a929",
+      "title": "Nikesh Arora (CEO, Palo Alto Networks) @ Stanford AI Club",
+      "url": "https://luma.com/s6coovs3",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-27T17:00:00.000-07:00",
-      "endDate": "2026-10-27T20:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Who Killed the Build? 💀\nA Halloween DevTools Murder Mystery with Flox\nThe build is dead. The cause? Unknown.\nJoin AI Valley and Flox for a Halloween devtools night where you’ll investigate what went wrong, follow the clues, and figure out who (or what) killed the build.\nInstead of a traditional product demo, Flox will take us through an interactive investigation of a broken development environment. Along the way, you’ll uncover suspicious dependencies, environment issues, and other clues before making your final guess.\n🔎 Investigate the crime scene\n💻 See Flox in action\n🕵️ Follow the clues and solve the mystery\n🎃 Enjoy Halloween food, drinks, and networking\nCostumes are encouraged. Production incidents are not.\nMeet the Speakers\n\nJustin Castilla — Flox\nJessica Garson Beauchemin — Runpo",
+      "startDate": "2026-11-02T17:30:00.000-08:00",
+      "endDate": "2026-11-02T18:30:00.000-08:00",
+      "venue": "Bishop Auditorium",
+      "city": "Stanford",
+      "description": "Stanford AI Club is excited to announce that Nikesh Arora, Chairman and CEO of Palo Alto Networks, will join us for our ’26–’27 Speaker Series!\nSince joining Palo Alto Networks in 2018, Nikesh has led the company’s transformation into a global leader in AI and cybersecurity. Under his leadership, the company has become the world’s largest cybersecurity company by market capitalization, now valued at over $300 billion. Previously, he served as President and COO of SoftBank Group and spent a decade at Google, where he was the Chief Business Officer. He holds a bachelor’s degree in Electrical Engineering from IIT (BHU), an MS in Finance from Boston College, and an MBA from Northeastern University.\nThis event will be open only to currently enrolled Stanford students. There will be Mendocino fa",
       "speakers": [],
       "score": {
         "fitScore": 70,
@@ -247,22 +303,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:46.943Z",
+      "scrapedAt": "2026-11-02T22:04:10.851Z",
       "verified": true
     },
     {
-      "id": "evt_1tty8di",
-      "title": "Running Production with Agents w/ Rootly AI, NVIDIA, Replit, PostHog, & WorkOS",
-      "url": "https://luma.com/r8sy88tq",
+      "id": "evt_1xtr6g7",
+      "title": "Navigating AI: Politics and Society in Germany and the United States",
+      "url": "https://luma.com/hrd4z1xw",
       "hostSlug": "bond-ai",
       "hostName": "Bond AI / GenAI SF",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-27T17:30:00.000-07:00",
-      "endDate": "2026-10-27T20:30:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-11-02T18:00:00.000-08:00",
+      "endDate": "2026-11-02T20:00:00.000-08:00",
+      "venue": "Goethe-Institut San Francisco",
       "city": "San Francisco",
-      "description": "AI agents are writing code, investigating incidents, and changing how infrastructure teams work. For SREs, that brings new questions about reliability: when to trust an agent, how to catch its mistakes, and who owns the outcome.\nJoin leaders from Replit, NVIDIA, PostHog, and WorkOS for a panel on how agents are changing the work of running production. We’ll explore practical experience, emerging approaches, and the engineering judgment that remains essential as teams delegate more work to AI.\nWhat we’ll discuss:\nAgents on-call: Using agents to triage alerts, gather context, and investigate incidents—and recognizing when an investigation is heading in the wrong direction.\nInfrastructure at a new pace: Adapting testing, code review, and deployment processes as agents increase the volume of c",
+      "description": "Join the ACG and the Goethe-Institut San Francisco for a discussion with journalists Vladimir Balzer and Felix Holtermann.\n\nThe San Francisco Eric M. Warburg Chapter of the American Council on Germany and the Goethe-Institut San Francisco cordially invite you to a discussion and luncheon with Vladimir Balzer, Award Winning Journalist and Moderator, Deutschlandradio, Felix Holtermann, U.S. Bureau Chief, Handelsblatt, Steven E. Sokol, President and CEO, American Council on Germany.\n\nFelix Holtermann was born in Stuttgart in 1987 and studied economics and journalism in Cologne and Auckland, New Zealand. Before joining Handelsblatt in 2017, he worked for Südwest Presse, Süddeutsche Zeitung, and Frankfurter Allgemeine Zeitung, and served as a business editor and advisor to the radio director at",
       "speakers": [],
       "score": {
         "fitScore": 70,
@@ -275,22 +331,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.118Z",
+      "scrapedAt": "2026-11-02T22:04:10.922Z",
       "verified": true
     },
     {
-      "id": "evt_1opbvow",
-      "title": "KEYBOARD NIGHT at User Experience Gallery",
-      "url": "https://luma.com/ikj23e58",
+      "id": "evt_18szyza",
+      "title": "Hello World, A Linq Event",
+      "url": "https://luma.com/zkrdrh2t",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "talk",
-      "startDate": "2026-10-26T19:00:00.000-07:00",
-      "endDate": "2026-10-26T21:00:00.000-07:00",
-      "venue": "236 Powell St",
+      "startDate": "2026-11-03T13:00:00.000-08:00",
+      "endDate": "2026-11-03T19:00:00.000-08:00",
+      "venue": "Exploratorium",
       "city": "San Francisco",
-      "description": "Join Norbauer & Co. for an evening celebrating the delights of enthusiast keyboards. In the style of a traditional community keyboard meetups, there won’t be a formal program but merely a chill evening to chat, compare builds, and meet like-minded nerds. Industrial designer Ryan Norbauer and keyboard tastemaker Taeha Kim will be displaying the latest designs from their brand, which have been on display at User Experience all this month.\nWe’ll be clearing our tables so participants can bring a favorite board to set out and share with fellow participants. (Due to limited space, please no more than one board per person.)\nBring your rig, meet some friends, talk about what inspires you, and check out the rest of the gallery while you're there.",
+      "description": "Hello, World! will gather people building the future of agentic products and infrastructure. Hear from the founders, engineers, and investors at the frontier. Expect an afternoon of fireside chats and exciting conversation with a view of the bay.\n\nSpeakers include:\nShannon Ma & Drew Rowny (MTS/MPS at OpenAI)\nAryan Shah (Head of AI Research at DoorDash)\nMarissa Mayer (Founder and CEO of Dazzle AI, Formerly CEO of Yahoo)\nPaul Klein (CEO of Browserbase)\nKimberly Tan (Investing Partner at a16z)\nJen Lee (Product Manager at Stripe agentic commerce)\nJean-Denis Greze (Co-Founder and CEO of Town)\nFlo Crivello (Founder and CEO of Lindy AI)\nsignull (Founder of Skye)\nNote that this is a private, invite-only event. Please apply to attend as space is limited.",
       "speakers": [],
       "score": {
         "fitScore": 68,
@@ -303,22 +359,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.434Z",
+      "scrapedAt": "2026-11-02T22:04:11.145Z",
       "verified": true
     },
     {
-      "id": "evt_9eqfuk",
-      "title": "How Partners Build on Lovable w/ Dan O'Leary",
-      "url": "https://luma.com/ff7g7tys",
+      "id": "evt_cxpyqy",
+      "title": "Building Voice AI That Holds Up in Production: Coval x Cloudflare",
+      "url": "https://luma.com/iq4hna2x",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "talk",
-      "startDate": "2026-10-27T17:00:00.000-07:00",
-      "endDate": "2026-10-27T20:00:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-11-03T17:30:00.000-08:00",
+      "endDate": "2026-11-03T20:00:00.000-08:00",
+      "venue": "101 Townsend St",
       "city": "San Francisco",
-      "description": "How Agencies and Partners Build With Lovable\nAI is making software faster to build. Where does that create new opportunities for the agencies, consultants, and implementation partners helping businesses put it to work?\nJoin Dan O’Leary, Head of Go-to-Market Partnerships at Lovable, for a fireside chat about the growing ecosystem of businesses building with Lovable and the new Lovable Partner Program.\nWe’ll dig into:\nWhat customers need help with beyond building their first app\nWhere AI implementation partners can create lasting value\nHow Lovable works with agencies and services firms to help them succeed\nIf you run an AI services firm, build for clients on Lovable, or are exploring AI consulting, come meet others working through the same opportunities.\nThis will also be the first ever live",
+      "description": "Lots of teams can get a voice agent working in a demo. Keeping it fast and reliable once real users are talking to it is the harder part.\nBrooke Hopkins (founder and CEO of Coval) and Korinne Alpers (Product Manager for Voice AI at Cloudflare) will sit down for a fireside chat about what it takes to build and run voice agents in production. Expect questions like:\nWhere does latency actually come from, and how much of it can you control?\nHow do you architect a voice agent that keeps state across a conversation?\nHow do you test before launch, catch regressions after, and know when a human needs to review a call?\nKorinne co-authored Cloudflare’s experimental voice pipeline for the Agents SDK. Brooke started Coval after leading evaluation infrastructure at Waymo.\nAfterward we'll have Q&A, food",
       "speakers": [],
       "score": {
         "fitScore": 68,
@@ -331,22 +387,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.613Z",
+      "scrapedAt": "2026-11-02T22:04:11.353Z",
       "verified": true
     },
     {
-      "id": "evt_1gn4g6l",
-      "title": "San Francisco Syntax Meetup",
-      "url": "https://luma.com/5ng6bniy",
+      "id": "evt_76r7uj",
+      "title": "Tommy Orange and Shane Hawk talk indigenous horror stories",
+      "url": "https://luma.com/rnn8lyc2",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "talk",
-      "startDate": "2026-10-27T17:00:00.000-07:00",
-      "endDate": "2026-10-27T19:00:00.000-07:00",
-      "venue": "Barebottle Beer Garden at Salesforce Park",
-      "city": "San Francisco",
-      "description": "We're in town for GitHub Universe! Come hang out with the whole Syntax crew at Barebottle Beer Garden at Salesforce Park\nThe last two years' events were so great that we're running it back AGAIN!! Join us for a SF Syntax Meetup, a laid-back event for all web developers and coding lovers! This in-person event will take place at Barebottle Beer Garden at Salesforce Park in San Francisco the day before GitHub Universe.\nNo agenda, come hang out, talk to Scott, Wes, CJ, the rest of the Syntax crew and some folks from Sentry, and have a good time!",
+      "startDate": "2026-11-03T18:00:00.000-08:00",
+      "endDate": "2026-11-03T19:30:00.000-08:00",
+      "venue": "Local Economy",
+      "city": "Oakland",
+      "description": "The team that brought you the bestselling Indigenous fiction anthology Never Whistle at Night has returned with a new collection of unsettling and sinister stories: Back for Blood: Never Whistle at Night Part II. This latest volume features twenty-one brand-new, groundbreaking, gruesome tales—authored by both established (Tommy Orange! Stephen Graham Jones!) and newly unearthed Indigenous talent. This isn’t just “dark fiction,” it’s full-tilt horror.\nCo-editors Shane Hawk and Ted Van Alst Jr. say, “Not an occasional shiver, not a decorative brush with the uncanny, but sustained dread, sustained appetite, sustained consequence. If the first volume asked you to sit with darkness, this one asks you to listen to it breathe.” The stories in Back for Blood draw on a range of Native and First Nat",
       "speakers": [],
       "score": {
         "fitScore": 68,
@@ -359,134 +415,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.717Z",
+      "scrapedAt": "2026-11-02T22:04:11.584Z",
       "verified": true
     },
     {
-      "id": "evt_r5fcb8",
-      "title": "Catie Cuan // Physical AI: Giving AI a Robot Body",
-      "url": "https://luma.com/hsmpoyxa",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-10-27T17:30:00.000-07:00",
-      "endDate": "2026-10-27T18:30:00.000-07:00",
-      "venue": "Jacobs Institute for Design Innovation",
-      "city": "Berkeley",
-      "description": "Join us Tuesday, October 27th at 5:30 PM for a talk with Dr. Catie Cuan, entrepreneur, engineer, artist, and pioneer in the emerging field of choreorobotics. Working at the intersection of artificial intelligence, robotics, and human-robot interaction, Catie explores how movement shapes the way we perceive and relate to machines. She is the founder of ART Lab (AI Robot Technology), and has led work across institutions including Stanford University and the Exploratorium, where she served as artist in residence.\nIn her talk, Physical AI: Giving AI a Robot Body, Catie will explore what happens as AI moves beyond screens and into the physical world. As robots become more intelligent, how they move becomes just as important as what they can do. Drawing on her unique background in dance and robo",
-      "speakers": [],
-      "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:47.798Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1se46h4",
-      "title": "SF Systems: The Future of Data",
-      "url": "https://luma.com/osts92ax",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "talk",
-      "startDate": "2026-10-27T17:30:00.000-07:00",
-      "endDate": "2026-10-27T20:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "The field of data management is being reshaped to fit fundamentally new workloads through autonomous engineering at scale. The SF Systems Club is back with a pair of exciting talks exploring what is possible in this new era!\nThis meetup is generously hosted by Recall at their San Francisco office. Food and drinks will be provided!\nAgenda\n5:30 PM: Doors Open, Food and Socializing\n6:30 - 7:30: Introductions and Talks\n7:30-: Community Socializing!\nTalks\nRobert Escriva (Chroma) - Tally: An agents-only version control system in which patches are morphisms in a groupoid\nThis talk introduces Tally, a project seeking to replace git with a version control system that's agents-only.  Once you adopt that world-view, the natural thing to do is speak in patches.  Tally encodes the data structure of a p",
-      "speakers": [],
-      "score": {
-        "fitScore": 68,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a talk. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:48.081Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1nrxvev",
-      "title": "SEV0 - The reliability conference (SF)",
-      "url": "https://luma.com/wuoe9ul2",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "conference",
-      "startDate": "2026-10-27T09:00:00.000-07:00",
-      "endDate": "2026-10-27T19:30:00.000-07:00",
-      "venue": "SFJAZZ",
-      "city": "San Francisco",
-      "description": "SEV0 is incident.io's annual conference for technical leaders in incident management and reliability. This is a one-day event bringing together SREs, engineering leaders, and CTOs from some of the world's best companies. Think world-class speakers, real talks about reliability, and a room full of people who actually get it.\nincident.io customer? You're on us. Reach out to your Account Manager for your complimentary registration link.",
-      "speakers": [],
-      "score": {
-        "fitScore": 66,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a conference. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:47.528Z",
-      "verified": true
-    },
-    {
-      "id": "evt_183oczn",
-      "title": "Women in AI | Factory x Sapienne x Sequoia",
-      "url": "https://luma.com/factoryai-sdkw",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "conference",
-      "startDate": "2026-10-27T19:00:00.000-07:00",
-      "endDate": "2026-10-27T21:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Join Factory, Sapienne, & Sequoia for a Women in AI Night. It's an evening for women who build with AI and for anyone ready to start. We'll have food, drinks, a hands-on workshop, a fireside chat, and plenty of time to meet the people around you.\nAI is changing how software gets built and who gets to build it. This summit kicks off a series that helps women gain the technical skills that matter now, puts a spotlight on what technical women are shipping, and gives back to the community that makes this work possible.\nWhat to expect\nHands-on workshop. Learn how to delegate engineering work to Factory's Droids. You'll take a task from idea to working code, then review, test, and ship it. Bring your laptop. No prior coding experience needed.\nTech Talk. Former CNBC anchor Dierdre Bosa will talk ",
-      "speakers": [],
-      "score": {
-        "fitScore": 66,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a conference. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:48.431Z",
-      "verified": true
-    },
-    {
-      "id": "evt_95yet4",
-      "title": "Are We Running Too Many Agents?",
-      "url": "https://luma.com/0qr6bxcw",
+      "id": "evt_94t3n3",
+      "title": "Booked: Dating Night for Readers",
+      "url": "https://luma.com/l7xbwkb3",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "meetup",
-      "startDate": "2026-10-26T18:00:00.000-07:00",
-      "endDate": "2026-10-26T21:00:00.000-07:00",
-      "venue": "Sentry",
+      "startDate": "2026-11-03T19:00:00.000-08:00",
+      "endDate": "2026-11-03T21:00:00.000-08:00",
+      "venue": "The Love Potion Library - Books, Tea, Wine",
       "city": "San Francisco",
-      "description": "Have you read ETOOMANYTHINGS? Run Fewer Agents, the recent blog post by exe co-founder Josh?\nEveryone seems to be building software factories these days. More agents, more tasks running in parallel, more dashboards to keep track of everything. But is more actually better?\nThe post sparked a fun discussion online, and we thought it would be even more fun to continue the conversation in person.\nSpeakers\nJosh Bleecher Snyder, co-founder of exe\nJosh Wills, engineering at DatologyAI\nBeyang Liu, amplifying human agency at Amp, prev. founder of Sourcegraph\nThis will also be our first \"official\" exe.dev meetup, and we'd love to meet you all! We'll have a few short, actually technical talks followed by an open Q&A and discussion. Come share your thoughts and hang out with other developers thinking ",
+      "description": "Some of the best conversations you'll ever have start with \"wait, you love that book too?\"\nBooked is a dating mixer for people who read. Everyone walks in holding a book that means something to them, and that book becomes the whole night: the reason to cross the room, and the thing that tells a stranger who you are faster than any bio ever could.\nHere's how it works. We start as a full group, loose and low-pressure, and the night opens up from there. You'll move through small groups and easy prompts that straddle the book and the person, and by the end you're in the real conversations, the one-on-one kind. You never have to walk up to anyone cold. The books do the introducing, and we guide the whole flow, so you can just show up and enjoy it.\nYour one assignment: bring a book that means so",
       "speakers": [],
       "score": {
         "fitScore": 64,
@@ -499,78 +443,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.227Z",
+      "scrapedAt": "2026-11-02T22:04:11.657Z",
       "verified": true
     },
     {
-      "id": "evt_1m7ycd2",
-      "title": "Making First Contact: Space & Deep Tech Mixer",
-      "url": "https://luma.com/gb3rrrp9",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "meetup",
-      "startDate": "2026-10-27T17:30:00.000-07:00",
-      "endDate": "2026-10-27T20:00:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "Brief:\nA spacecraft has landed in San Francisco. The visitors have initiated contact, but every attempt to understand them has failed. A translation team is being assembled to decipher the alien language and determine what comes next. Your assistance has been requested.\n\nConfirm to receive clearance and reporting instructions.\n\nThe Event:\nDeep tech has a language of its own; Generation Space has been speaking it since 2016. Join us for an Arrival-themed networking evening for founders, investors, and builders working across space and deep tech. Food and drinks will be served throughout.\n\nAlong the way, you'll have the chance to crack the message our visitors came to deliver. Work through it with the people next to you, rotate, trade what you've learned, and piece it together as a group. Ex",
-      "speakers": [],
-      "score": {
-        "fitScore": 64,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:47.902Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1cb6rr6",
-      "title": "Bay Area Biosecurity Lightning Talks 03",
-      "url": "https://luma.com/s1ltny2j",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "meetup",
-      "startDate": "2026-10-27T19:00:00.000-07:00",
-      "endDate": "2026-10-27T21:30:00.000-07:00",
-      "venue": "San Francisco, CA",
-      "city": "San Francisco",
-      "description": "We're hosting a meetup for people working on biosecurity in the Bay Area. Think: pandemic prevention technology, evaluating AI for biorisks, better KYC for synthetic DNA.\n\nSchedule:\n\n7:00 - 7:30 Meet and mingle\n7:30 - 8:30 Lightning talks + Q&A\n8:30 - 9:30 Snacks and discussions\n\nFeatured lightning talks:\nToward Function-Based Pathogen Screening with Omnii-1 - Avery Noonan, MTS @ Radical Numerics\nJonas Sandbrink, CEO @ BioTrust\nFar-UVC: what it is and why you want it - Misha Gurevich, CEO @ Aerolamp\n---\nThis event is hosted by Tessa Alexanian (incoming Sentinel Bio) and Joey Bream (safely.bio, currently part of surplus.dev), in their personal capacities.",
-      "speakers": [],
-      "score": {
-        "fitScore": 64,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a meetup. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:48.271Z",
-      "verified": true
-    },
-    {
-      "id": "evt_1rdk0ve",
-      "title": "How to Get Customers to Actually Pay",
-      "url": "https://luma.com/xrrmbz46",
+      "id": "evt_t5i7bx",
+      "title": "Make Your Own Perfume",
+      "url": "https://luma.com/dm9hcg5q",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-26T18:30:00.000-07:00",
-      "endDate": "2026-10-26T21:00:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-11-02T18:30:00.000-08:00",
+      "endDate": "2026-11-02T20:00:00.000-08:00",
+      "venue": "The Love Potion Library - Books, Tea, Wine",
       "city": "San Francisco",
-      "description": "Product-market fit with Rob Snyder 🍻\nRob Snyder spent two years struggling to find product-market fit. After a last-minute pivot, his startup went from $0 to $4M in annual recurring revenue in the next two years.\nIf you’re doing demo after demo, following up endlessly and still struggling to close, how do you know whether to change your pitch, your product or who you’re selling to?\nJoin Founders on Tap for a workshop with Rob Snyder, founder, product-market fit advisor and author of The Power of PULL.\nUsing his push vs. pull framework, we’ll explore why some sales take constant convincing, how to find customers with a reason to buy now and how to build around what they’re already trying to accomplish.\nWe’ll get into:\nWhy someone can have a problem, like your solution and still never buy.\n",
+      "description": "Thank you for your interest!\nFollow Eau Yeah! for updates on future events. We’d love to see you at the next one!\n\nWhat makes a perfume smell expensive? Why do some scents disappear in minutes while others linger all day? And what happens when you mix something floral, woody, smoky, or sweet?\nJoin us for an hands-on perfume making workshop where we’ll explore the art and science of scent, then experiment with creating a fragrance that's entirely your own.\nNo perfume knowledge (or chemistry!) needed. Come curious, experiment, and meet some new people along the way. You're very welcome to come solo.\nWhat We'll Do\nThis is a casual, beginner-friendly creative workshop focused on experimentation and having fun with fragrance.\nLearn the Science of Scent\nDiscover what makes perfumes tick: fragran",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -583,22 +471,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.329Z",
+      "scrapedAt": "2026-11-02T22:04:11.067Z",
       "verified": true
     },
     {
-      "id": "evt_10pm564",
-      "title": "🏓 Ping Pong Night // Inference × Depot",
-      "url": "https://luma.com/cygp5fj9",
+      "id": "evt_112zofd",
+      "title": "Make SF Better: A Hack Night with Mistral AI",
+      "url": "https://luma.com/mistral-elastic",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-27T17:30:00.000-07:00",
-      "endDate": "2026-10-27T20:30:00.000-07:00",
-      "venue": "SPIN San Francisco",
+      "startDate": "2026-11-03T17:00:00.000-08:00",
+      "endDate": "2026-11-03T20:30:00.000-08:00",
+      "venue": "33 New Montgomery St",
       "city": "San Francisco",
-      "description": "Join Inference and Depot for a ping pong night at SPIN on October 27th! 🏓\nDue to high demand, we're moving the event to SPIN so we can have more tables and room for everyone to play!\nWe’re hosting a tournament-style bracket, leading up to one final championship match. We’ll also have tables available for anyone who wants to play casually, learn the game, or just rally with friends.\n🏆 The grand prize? A Nintendo Switch 2! 🎮\nWhether you’re a ping pong pro or just playing for fun, everyone is welcome. Come hang out, play a few games, meet some new people, and maybe even take home the grand prize.\nFeel free to bring your own paddle, but we'll have plenty available if you don't have one!\nWe’ll have plenty of merch from Inference and Depot, catered food, drinks 🍹, and of course, Depot Donuts",
+      "description": "What’s one thing you’d make better about life in San Francisco?\nJoin us the evening before Elastic{ON} SF for a night of building with Mistral. Pick something you care about, like your commute, your neighborhood, or your favorite small business, and turn an idea into a working prototype.\nThe challenge: build something that makes life in SF better for someone who lives here.\nA few places to start:\nGetting around: Make transit updates easier to understand or help people explore the city without a car.\nNeighborhood businesses: Build tools that help local shops reach customers, translate information, or save time.\nPublic spaces: Help people discover parks, recreation facilities, public art, and neighborhood history.\nCommunity: Connect neighbors with volunteer opportunities, local gatherings, o",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -611,22 +499,22 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:47.989Z",
+      "scrapedAt": "2026-11-02T22:04:11.277Z",
       "verified": true
     },
     {
-      "id": "evt_7n896p",
-      "title": "Who Controls the Future of AI Coding?",
-      "url": "https://luma.com/dtzhn1ux",
+      "id": "evt_1bcp8kq",
+      "title": "Proof & Pour - by SignPath and Zisher",
+      "url": "https://luma.com/umwprdek",
       "hostSlug": "luma-sf-discover",
       "hostName": "Lu.ma SF discover (catch-all)",
       "tier": 2,
       "format": "other",
-      "startDate": "2026-10-27T17:30:00.000-07:00",
-      "endDate": "2026-10-27T20:30:00.000-07:00",
-      "venue": "San Francisco, CA",
+      "startDate": "2026-11-03T17:30:00.000-08:00",
+      "endDate": "2026-11-03T20:30:00.000-08:00",
+      "venue": "135 Main St",
       "city": "San Francisco",
-      "description": "As AI coding agents become more capable, who controls the future of software development?\nJoin Renee Huang, CEO of Cline, and Sunil Joseph, VP of Customer Success at OpenRouter, for a thought-provoking conversation on open vs. closed ecosystems, model choice, developer autonomy, and where real differentiation lies as AI reshapes the way we build software.\nWe'll explore:\nOpen vs. closed ecosystems: Who wins, and why?\nModel choice: Why it matters for developers\nDeveloper autonomy: How it's evolving in the age of AI coding agents\nCompetitive advantage: Where real differentiation will come from\nExpect fresh perspectives, thoughtful debate, and a room full of founders, engineers, researchers, and technical leaders shaping the next generation of AI products.\nAgenda\n5:30-6:00 PM - Registration, B",
+      "description": "A Software Supply Chain Security & AppSec Networking Night\nTrust the code. Verify the source. Meet the people behind it.\nJoin SignPath, Zisher, WeAreDevelopers and OPEN AUSTRIA for an informal evening of cybersecurity conversations, networking and Austrian hospitality ahead of OWASP Global AppSec USA in San Francisco.\nAs software supply chains become increasingly complex, knowing what you're running, where it came from and whether you can trust it has never been more important.\nProof & Pour brings together AppSec professionals, security leaders, practitioners and technology innovators to exchange ideas around software supply chain security, code signing, application security and the evolving challenges of establishing trust in modern software.\nNo long presentations. No packed agenda. SignP",
       "speakers": [],
       "score": {
         "fitScore": 60,
@@ -639,43 +527,15 @@
         "warmIntroNeeded": false,
         "scoringMethod": "rules"
       },
-      "scrapedAt": "2026-10-26T19:06:48.176Z",
-      "verified": true
-    },
-    {
-      "id": "evt_m25l8a",
-      "title": "Kotaro Fukuma, Piano: Flagship Series",
-      "url": "https://luma.com/em6z6v0a",
-      "hostSlug": "luma-sf-discover",
-      "hostName": "Lu.ma SF discover (catch-all)",
-      "tier": 2,
-      "format": "other",
-      "startDate": "2026-10-27T19:00:00.000-07:00",
-      "endDate": "2026-10-27T21:00:00.000-07:00",
-      "venue": "Community School of Music and Arts",
-      "city": "Mountain View",
-      "description": "Arts from Japan presents “Shimmering Water,” a recital by acclaimed pianist Kotaro Fukuma at the Community School of Music and Art in Mountain View. On October 27, 2026, at 7pm, Fukuma traces water’s shimmer and surge across two centuries of piano repertoire, from Mendelssohn’s Gondellied and Debussy’s Cathédrale engloutie to his own transcriptions of Wagner’s Tristan und Isolde and Smetana’s The Moldau. The program also features Toru Takemitsu’s meditative Rain Tree Sketches. A First Prize winner at the Cleveland International Piano Competition, Fukuma brings virtuosity and depth to this rare Bay Area appearance.\nDate and Time\nTuesday, October 27, 2026 at 7:00 PM PT\nVenue\nCommunity School of Music and Arts, Tateuchi Hall | 230 San Antonio Circle, Mountain View, CA 94040\nTickets\nNon-member",
-      "speakers": [],
-      "score": {
-        "fitScore": 60,
-        "reasoning": "Rule-based score: Tier 2 host (Lu.ma SF discover (catch-all)) running a other. Catches events from hosts we don't track. Lower archetype density, wider net.",
-        "suggestedAction": "Attend as participant",
-        "archetypeMatches": [
-          "ai-native-staff",
-          "failed-founder"
-        ],
-        "warmIntroNeeded": false,
-        "scoringMethod": "rules"
-      },
-      "scrapedAt": "2026-10-26T19:06:48.352Z",
+      "scrapedAt": "2026-11-02T22:04:11.507Z",
       "verified": true
     }
   ],
   "scrapeReport": {
     "sourcesAttempted": 49,
     "sourcesSucceeded": 46,
-    "eventsFound": 28,
-    "eventsScored": 28,
+    "eventsFound": 23,
+    "eventsScored": 23,
     "failures": [
       {
         "sourceSlug": "the-residency",
